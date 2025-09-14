@@ -1,4 +1,5 @@
 AgriCast - AI-Powered Weather & Crop Advisor
+
 AgriCast is an intelligent web application designed to provide farmers and agricultural enthusiasts with real-time weather forecasts and AI-driven crop recommendations. By simply entering a district or city, users receive a 5-day average weather forecast and a prediction for rainfall. Based on this forecast, they can then select a soil type to get a scientifically-backed recommendation for the most suitable crop to plant.
 The application leverages the OpenWeatherMap API for live weather data and uses two distinct machine learning models trained on comprehensive agricultural datasets for its predictions.
 
