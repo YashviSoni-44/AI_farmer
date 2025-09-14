@@ -1,0 +1,3001 @@
+state,district,month,rainfall_mm,temp_high_c,temp_low_c,temp_avg_c,humidity_percent,sunlight_hours,wind_speed_kmph,wind_direction,rain_probability,rain_duration_hours
+Karnataka,Mangaluru,Feb-22,32.3,26,20,23,69,7.9,8.1,SE,47%,3.9
+Uttar Pradesh,Agra,Jul-23,300.4,30,25,27.5,51,9.2,18.2,NW,73%,4.7
+Uttar Pradesh,Varanasi,Jan-21,18.6,31,25,28,88,9.4,12.5,W,75%,2.2
+Karnataka,Hubli,Feb-22,16.9,40,30,35,39,8.9,9.4,NE,46%,0.9
+Karnataka,Hubli,Apr-23,56.4,41,34,37.5,87,9.3,5.6,NW,22%,0.4
+Tamil Nadu,Madurai,Sep-22,79.9,28,20,24,81,4.6,12,E,77%,1.3
+Karnataka,Hubli,Feb-23,3.6,26,21,23.5,70,7,6.5,N,74%,0.4
+Gujarat,Ahmedabad,Sep-21,68.7,28,23,25.5,41,8.6,10.7,NE,51%,3.7
+Maharashtra,Nagpur,Nov-24,78.6,25,13,19,76,5.9,7.3,SE,30%,4.7
+Gujarat,Vadodara,Jun-23,318,26,18,22,32,6.1,24.8,NE,82%,4.8
+Tamil Nadu,Madurai,Jul-24,274,40,34,37,62,8.2,15.7,SE,54%,2.6
+Karnataka,Mysuru,Feb-21,30.7,42,34,38,45,4.4,14.2,S,33%,3.9
+Uttar Pradesh,Varanasi,Nov-21,75.7,39,27,33,89,8,21.7,SW,84%,0.4
+Tamil Nadu,Coimbatore,Mar-20,60.1,36,28,32,45,4.5,10.3,N,71%,2.8
+Karnataka,Mangaluru,Jan-20,77.8,40,30,35,68,7.4,19.1,NE,30%,2.7
+Maharashtra,Pune,Sep-21,231.7,28,18,23,59,5.7,5.9,W,19%,2.7
+Maharashtra,Mumbai,Nov-20,36.6,33,21,27,90,9.6,23,W,10%,0.5
+Karnataka,Mangaluru,Feb-22,32.3,26,20,23,69,7.9,8.1,SE,47%,3.9
+Gujarat,Ahmedabad,Mar-24,68.6,37,28,32.5,77,6.3,11.7,SE,35%,1.2
+Uttar Pradesh,Lucknow,Dec-24,13.4,36,31,33.5,86,6.7,7.6,NW,79%,4.9
+Gujarat,Rajkot,Dec-21,42.3,42,36,39,74,9.9,16.1,S,17%,1.6
+Tamil Nadu,Coimbatore,Jul-24,155.7,31,25,28,54,4.8,21.1,NW,59%,0
+Gujarat,Surat,Dec-21,18.3,31,22,26.5,59,5.8,17.1,NE,67%,2.7
+Maharashtra,Mumbai,Jul-23,151.5,26,20,23,63,8.1,12.7,N,17%,2.5
+Maharashtra,Mumbai,Oct-21,79.5,32,21,26.5,56,4.2,19.6,SE,23%,3.3
+Gujarat,Rajkot,Oct-24,62.1,38,33,35.5,47,4.9,22.1,S,38%,1.6
+Uttar Pradesh,Agra,Jan-21,25.8,42,36,39,86,9.9,10.2,NE,47%,3.2
+Tamil Nadu,Coimbatore,Dec-23,26.8,32,27,29.5,46,4.2,9.3,NE,56%,3.3
+Karnataka,Hubli,Jul-22,165.2,42,37,39.5,76,5.4,15.7,NW,77%,1
+Uttar Pradesh,Varanasi,May-24,40.1,38,26,32,65,8.9,12.7,W,66%,3.3
+Uttar Pradesh,Kanpur,Jun-24,24.1,37,30,33.5,43,7.8,16.8,N,44%,4.7
+Karnataka,Hubli,May-21,58.4,32,27,29.5,39,6.3,24.1,E,65%,0.6
+Gujarat,Rajkot,Mar-21,20,42,32,37,84,4.4,14.7,S,30%,0.2
+Karnataka,Mysuru,Jul-24,32.5,33,26,29.5,63,8.4,19.5,N,41%,1.4
+Tamil Nadu,Tiruchirappalli,Nov-21,47.3,40,32,36,30,7.3,18.9,E,83%,3.7
+Uttar Pradesh,Agra,Jul-21,212.1,28,18,23,76,6.3,20.6,NE,86%,3.3
+Maharashtra,Mumbai,Apr-24,58.6,41,34,37.5,53,4.5,9.7,S,80%,2.7
+Tamil Nadu,Madurai,Jul-20,334.2,34,28,31,41,8.2,11.7,SE,35%,4.5
+Karnataka,Mysuru,Apr-24,79.5,41,29,35,70,7.5,17.3,SE,42%,1.4
+Karnataka,Hubli,Aug-23,87.4,25,15,20,34,7.5,15.9,N,85%,5
+Maharashtra,Nagpur,May-22,79.1,27,18,22.5,64,8.2,22.9,SE,51%,1.6
+Maharashtra,Mumbai,Jan-20,47.9,31,25,28,87,7.9,24.3,SW,82%,4.1
+Uttar Pradesh,Varanasi,Sep-22,142.2,34,25,29.5,86,8.5,22.5,S,45%,0.7
+Uttar Pradesh,Agra,Apr-24,46.9,29,18,23.5,60,5.2,9,NW,71%,3
+Tamil Nadu,Madurai,Dec-23,18,29,22,25.5,66,6.2,6.2,SE,45%,3.8
+Maharashtra,Nashik,Jan-20,75.1,36,31,33.5,85,5.4,15.3,S,26%,1.7
+Uttar Pradesh,Kanpur,Mar-22,47.1,41,33,37,45,5.6,12.9,SE,22%,4.5
+Uttar Pradesh,Kanpur,Mar-20,22.4,38,31,34.5,74,8.7,12.9,S,60%,0.2
+Maharashtra,Nagpur,Jun-21,99.9,28,23,25.5,67,6.7,8.5,SE,59%,4.7
+Maharashtra,Nagpur,Apr-20,60.2,31,22,26.5,71,4.7,21.5,NW,17%,1.1
+Gujarat,Ahmedabad,Aug-22,202.9,29,18,23.5,37,7.1,20.5,W,18%,3.7
+Tamil Nadu,Chennai,Mar-23,31.5,40,35,37.5,88,5.6,13.4,E,65%,1.7
+Karnataka,Hubli,Jul-22,165.2,42,37,39.5,76,5.4,15.7,NW,77%,1
+Maharashtra,Nagpur,Nov-21,55.1,31,25,28,39,5.3,18.9,E,61%,1.1
+Uttar Pradesh,Kanpur,Dec-21,50.2,29,19,24,45,6.1,7.8,SE,66%,4.1
+Gujarat,Surat,May-20,12.5,31,19,25,72,5.4,16.5,NW,21%,0.6
+Tamil Nadu,Chennai,Jul-23,378.7,29,18,23.5,36,9.9,22.3,SE,74%,4.5
+Maharashtra,Pune,Sep-23,363.7,34,28,31,75,8.2,11.7,E,53%,3.1
+Maharashtra,Nagpur,Dec-22,4.9,38,33,35.5,31,4,23.8,W,39%,4.5
+Maharashtra,Nagpur,Sep-22,307.4,41,31,36,89,8.2,12.3,SW,49%,3.3
+Uttar Pradesh,Agra,Mar-24,60.4,33,22,27.5,47,8.4,5.7,NW,45%,2.9
+Gujarat,Vadodara,Mar-23,39.5,31,19,25,56,7.8,13.4,SW,48%,3.1
+Maharashtra,Nagpur,Feb-24,35.9,30,22,26,76,4.9,12.6,NW,25%,2.9
+Tamil Nadu,Chennai,Jun-22,233,36,27,31.5,60,4.1,24.5,S,38%,0.2
+Uttar Pradesh,Agra,Apr-20,19.5,41,33,37,62,5.3,17,SE,57%,0.2
+Tamil Nadu,Madurai,Nov-21,2.2,27,15,21,87,9.8,13.4,NW,30%,0.1
+Uttar Pradesh,Agra,Jun-20,296,42,34,38,45,5.5,5.7,N,44%,1.5
+Uttar Pradesh,Kanpur,May-22,51.3,39,29,34,32,8,11.5,N,38%,2.9
+Uttar Pradesh,Agra,Sep-23,221.3,26,21,23.5,68,8.7,15,S,68%,2.7
+Tamil Nadu,Coimbatore,Mar-21,12.1,31,25,28,64,7.4,15.6,S,73%,4.8
+Gujarat,Vadodara,Jul-23,83.1,29,18,23.5,45,6.7,17,SE,45%,1.8
+Gujarat,Vadodara,Jan-24,49.9,37,25,31,68,9.8,11.9,W,60%,1.5
+Maharashtra,Pune,May-23,18.6,41,35,38,33,4.6,17.5,S,13%,2.7
+Gujarat,Ahmedabad,Mar-21,42.8,25,17,21,48,9.8,22.1,NW,69%,0.1
+Karnataka,Hubli,May-21,58.4,32,27,29.5,39,6.3,24.1,E,65%,0.6
+Maharashtra,Nagpur,Aug-23,279,42,35,38.5,49,7.5,24.6,N,49%,1
+Tamil Nadu,Chennai,Nov-21,14.4,40,28,34,57,5.7,24,S,28%,0.6
+Uttar Pradesh,Kanpur,Jul-22,219.2,40,30,35,48,7.5,18.2,SE,24%,0.9
+Maharashtra,Mumbai,Dec-21,21.9,26,20,23,34,5.5,8.8,SW,20%,2.3
+Gujarat,Surat,Sep-21,163.3,38,28,33,38,6.7,22,N,23%,2.1
+Tamil Nadu,Chennai,Dec-21,13.9,42,34,38,77,9.1,21.7,S,79%,4.6
+Tamil Nadu,Coimbatore,Jun-23,193.5,36,29,32.5,48,6,13.7,E,24%,3.3
+Gujarat,Ahmedabad,Nov-23,52.2,41,35,38,83,5,13.6,SW,21%,2.5
+Maharashtra,Nagpur,Oct-21,37.7,35,23,29,62,8.6,24.8,NW,70%,4.1
+Maharashtra,Pune,Jan-22,70.2,38,29,33.5,42,5.3,22.7,S,19%,2.2
+Tamil Nadu,Tiruchirappalli,Sep-24,244.2,37,27,32,64,6.6,12,N,58%,4.3
+Gujarat,Vadodara,May-20,0.9,34,25,29.5,78,5.8,13.1,NW,44%,3.4
+Uttar Pradesh,Agra,Jul-20,0.8,26,15,20.5,67,8.2,7.5,NE,77%,1.8
+Gujarat,Surat,Aug-22,157,38,27,32.5,33,7.7,19.5,S,24%,0.2
+Uttar Pradesh,Varanasi,Nov-20,63,26,14,20,34,7.7,18.6,W,44%,2.2
+Gujarat,Surat,May-20,12.5,31,19,25,72,5.4,16.5,NW,21%,0.6
+Uttar Pradesh,Varanasi,Apr-21,79.6,40,30,35,37,7.3,7.1,S,57%,1.7
+Uttar Pradesh,Lucknow,Dec-21,11.3,29,18,23.5,86,4.4,10.4,W,41%,5
+Tamil Nadu,Chennai,May-21,42.2,35,29,32,54,5.8,5.3,NE,62%,4.3
+Gujarat,Ahmedabad,Dec-22,30.8,27,18,22.5,66,8,18.5,NE,75%,2.1
+Tamil Nadu,Madurai,Jan-22,30,37,28,32.5,81,5.9,21.1,S,61%,0
+Tamil Nadu,Coimbatore,Aug-24,345.9,41,35,38,69,7.3,24.1,NE,58%,4.9
+Tamil Nadu,Chennai,May-21,42.2,35,29,32,54,5.8,5.3,NE,62%,4.3
+Uttar Pradesh,Kanpur,Mar-24,2.7,41,36,38.5,50,9.9,23.1,W,23%,2.5
+Karnataka,Mysuru,Jul-24,32.5,33,26,29.5,63,8.4,19.5,N,41%,1.4
+Maharashtra,Nashik,May-22,23.7,31,24,27.5,82,7.3,20.8,N,58%,2.8
+Gujarat,Vadodara,Aug-24,397.1,32,26,29,84,6.1,6.3,SW,74%,3.2
+Uttar Pradesh,Lucknow,Jan-22,70.9,37,25,31,87,5.4,17.9,NE,56%,2.6
+Tamil Nadu,Chennai,May-21,42.2,35,29,32,54,5.8,5.3,NE,62%,4.3
+Uttar Pradesh,Lucknow,Jun-21,230.7,36,27,31.5,46,4.9,19.3,SW,17%,4.8
+Karnataka,Mangaluru,May-21,52.1,39,29,34,90,4.2,18,W,49%,3.8
+Gujarat,Vadodara,Mar-22,45,38,28,33,87,6,11.7,NW,87%,3.3
+Uttar Pradesh,Varanasi,Apr-20,29.7,36,28,32,77,7.3,5.5,NE,38%,0.1
+Tamil Nadu,Madurai,Feb-22,7.4,37,25,31,44,6.9,15.2,SE,64%,0.2
+Uttar Pradesh,Varanasi,Aug-20,197.2,39,32,35.5,34,6.5,21.2,E,40%,1.2
+Karnataka,Hubli,Sep-22,225,25,14,19.5,80,7.6,15.6,E,12%,4.6
+Maharashtra,Nashik,Oct-20,54.1,42,30,36,44,5.8,23.6,NE,89%,1.8
+Gujarat,Rajkot,Feb-22,28.5,26,20,23,64,4.2,20.7,SW,68%,4.1
+Tamil Nadu,Madurai,Feb-23,48.7,28,17,22.5,86,5,20.3,NE,15%,4.7
+Gujarat,Surat,Dec-20,18,39,30,34.5,70,5.3,6.9,E,48%,1.1
+Karnataka,Bengaluru,Apr-23,75.6,34,27,30.5,80,6.9,10.1,N,38%,2.1
+Karnataka,Mysuru,Nov-23,52.9,32,27,29.5,89,8.3,24.1,NW,58%,0.7
+Uttar Pradesh,Agra,Mar-20,67.7,29,21,25,79,9.7,21.1,NE,49%,2.1
+Uttar Pradesh,Varanasi,May-22,54.3,32,24,28,34,8.6,15.5,SW,27%,1.4
+Uttar Pradesh,Lucknow,Apr-24,11,26,18,22,30,5.4,12.7,NE,42%,4.3
+Gujarat,Ahmedabad,Sep-20,203,30,23,26.5,87,8.5,8.5,SE,75%,0.2
+Karnataka,Hubli,Jan-21,22.1,34,24,29,33,7.6,10.2,NE,62%,2.5
+Karnataka,Hubli,Aug-24,360.8,29,21,25,74,6.9,18.5,N,77%,0.9
+Uttar Pradesh,Lucknow,Feb-23,48.3,28,16,22,81,6.2,15,SW,76%,3.9
+Maharashtra,Nagpur,Jun-20,204.6,41,30,35.5,73,6.5,21.5,NE,35%,1.5
+Maharashtra,Pune,Jul-20,84.1,38,31,34.5,75,9.9,5.6,SW,79%,4
+Tamil Nadu,Chennai,Oct-20,42,25,14,19.5,90,7.9,15.6,S,53%,3.3
+Uttar Pradesh,Agra,May-20,5.7,41,33,37,77,7.2,8.6,E,70%,2.8
+Maharashtra,Pune,Sep-20,289.6,31,26,28.5,88,8.1,5.4,SE,15%,1.5
+Gujarat,Surat,Jan-20,25,26,20,23,53,7.4,24,SE,35%,0.8
+Gujarat,Rajkot,Sep-21,141.2,26,16,21,61,7.4,8.2,SE,24%,4.6
+Karnataka,Mangaluru,Feb-24,50,33,23,28,72,7.7,11.7,N,46%,1.3
+Uttar Pradesh,Kanpur,Apr-23,10.4,38,31,34.5,49,8.9,24,W,17%,0.4
+Uttar Pradesh,Agra,Sep-22,262.1,30,22,26,80,4.6,18.7,SE,43%,0.9
+Gujarat,Vadodara,Oct-24,3.9,27,16,21.5,45,7.6,12,NW,41%,3.3
+Gujarat,Vadodara,Feb-23,18.3,37,28,32.5,80,6.7,8.2,SE,12%,0
+Tamil Nadu,Tiruchirappalli,Oct-21,16.2,35,26,30.5,76,4.7,16.2,NE,32%,0.5
+Maharashtra,Nagpur,Jan-24,0.8,37,31,34,70,5.6,10.4,SW,62%,0.6
+Karnataka,Mangaluru,Apr-23,75.6,26,17,21.5,50,7,13.7,SE,11%,4.2
+Tamil Nadu,Coimbatore,Dec-24,40.2,26,20,23,34,6.6,17.1,NE,90%,1.5
+Uttar Pradesh,Agra,Apr-23,13.4,30,25,27.5,62,8.9,6.4,E,64%,1.4
+Maharashtra,Pune,Apr-20,19.3,31,23,27,90,7.6,17.6,S,29%,0.9
+Karnataka,Mangaluru,Sep-20,111.4,42,34,38,67,5.4,14.5,N,17%,2.9
+Maharashtra,Mumbai,Mar-23,36.2,35,28,31.5,56,5.1,7.5,W,18%,3.5
+Gujarat,Surat,Jul-24,260.4,32,20,26,78,5.2,6.8,N,46%,1.7
+Gujarat,Ahmedabad,May-23,4.9,38,29,33.5,90,4,23.2,NE,61%,4.3
+Karnataka,Mysuru,Jan-20,57.9,28,23,25.5,34,9.8,18.3,SE,57%,2.5
+Tamil Nadu,Madurai,Aug-21,133.1,31,23,27,37,7.3,18.5,NE,47%,4.8
+Karnataka,Hubli,Oct-23,57.6,25,17,21,66,6.9,19.7,SE,82%,0.3
+Gujarat,Vadodara,May-24,65.8,38,29,33.5,40,9.6,6.4,S,71%,3.2
+Maharashtra,Nashik,May-23,78.3,33,26,29.5,88,4.8,8.2,E,67%,2
+Karnataka,Mysuru,Mar-24,65.5,41,32,36.5,86,9,14.3,E,81%,0.2
+Maharashtra,Mumbai,Sep-21,364.5,28,19,23.5,68,7,9,N,38%,2.8
+Gujarat,Vadodara,Sep-24,360.6,39,34,36.5,85,4.5,8.2,W,10%,3.1
+Tamil Nadu,Coimbatore,Apr-20,48.3,41,34,37.5,73,6.6,20.4,N,27%,4
+Gujarat,Vadodara,Apr-21,33,27,15,21,68,8.7,21.9,NE,54%,0.9
+Gujarat,Rajkot,Mar-24,1.5,36,24,30,77,5.9,13.4,SW,49%,4.6
+Maharashtra,Mumbai,Apr-23,59.4,39,31,35,55,9.2,6.7,W,89%,1.2
+Maharashtra,Nagpur,May-24,59.3,25,14,19.5,30,4.7,15.7,S,80%,1.8
+Gujarat,Vadodara,Jul-22,400,27,16,21.5,33,5.3,12,NE,49%,3.1
+Tamil Nadu,Madurai,Apr-20,30.4,30,24,27,77,8.6,23,N,36%,4.5
+Uttar Pradesh,Agra,May-20,5.7,41,33,37,77,7.2,8.6,E,70%,2.8
+Uttar Pradesh,Agra,Feb-24,30.3,39,27,33,32,8.4,20.6,SE,57%,4
+Karnataka,Bengaluru,Nov-24,7,42,37,39.5,78,9.2,19.4,W,54%,2.1
+Uttar Pradesh,Kanpur,Dec-24,28.5,26,20,23,60,7,18.1,W,73%,4.9
+Gujarat,Ahmedabad,Nov-20,14.8,38,26,32,90,9.6,23.8,E,72%,3.7
+Uttar Pradesh,Kanpur,Aug-21,269,26,14,20,47,7.5,20.3,NW,75%,1.3
+Gujarat,Rajkot,Aug-22,30.8,27,16,21.5,55,7.1,21.8,SE,72%,4.4
+Maharashtra,Pune,Mar-24,16.7,31,26,28.5,36,4.9,16.3,W,83%,1.5
+Maharashtra,Nashik,Jan-24,39.6,37,30,33.5,47,8.5,15.3,NW,44%,0.5
+Gujarat,Rajkot,Nov-24,26.3,37,31,34,88,7,17.6,E,24%,1.2
+Karnataka,Bengaluru,Jun-24,147.6,26,19,22.5,67,6.7,12.1,NE,32%,1.2
+Uttar Pradesh,Varanasi,Sep-21,38.2,30,22,26,73,6.8,14.5,S,81%,4
+Karnataka,Mysuru,Sep-20,166.7,27,17,22,70,6.3,8.6,SE,13%,3.7
+Karnataka,Hubli,Apr-24,79.2,27,21,24,44,9.9,22.7,NW,90%,1.8
+Gujarat,Ahmedabad,Feb-23,45.2,37,25,31,79,6.9,10.7,S,11%,2.2
+Tamil Nadu,Madurai,Feb-23,48.7,28,17,22.5,86,5,20.3,NE,15%,4.7
+Uttar Pradesh,Lucknow,Apr-24,11,26,18,22,30,5.4,12.7,NE,42%,4.3
+Maharashtra,Nagpur,Oct-24,24.6,31,19,25,83,8.2,25,SE,53%,0.5
+Uttar Pradesh,Agra,Jul-21,212.1,28,18,23,76,6.3,20.6,NE,86%,3.3
+Karnataka,Mysuru,Oct-20,63.6,31,25,28,88,4.1,19.7,SE,43%,3.9
+Uttar Pradesh,Lucknow,Sep-22,4.6,34,26,30,81,7.3,16.7,E,63%,2.3
+Maharashtra,Nashik,May-20,49.6,42,35,38.5,30,6.6,23.2,NW,54%,1.8
+Karnataka,Mangaluru,Nov-24,11.7,40,31,35.5,78,6.2,17.3,E,79%,3
+Uttar Pradesh,Varanasi,Feb-23,73.7,32,23,27.5,35,6.3,7.2,W,82%,3.2
+Gujarat,Vadodara,May-21,72,30,22,26,90,4.8,13.5,NE,65%,4
+Uttar Pradesh,Agra,Dec-20,79.3,33,26,29.5,36,7.7,19.3,NE,17%,3.3
+Tamil Nadu,Tiruchirappalli,Aug-21,280.1,39,28,33.5,86,5.6,13.1,NE,71%,4.4
+Karnataka,Mysuru,Feb-21,30.7,42,34,38,45,4.4,14.2,S,33%,3.9
+Karnataka,Mysuru,Aug-23,147.3,39,34,36.5,62,9.9,23.4,S,31%,3.3
+Gujarat,Surat,Oct-24,32.1,35,30,32.5,49,5.6,24.2,S,17%,0.2
+Karnataka,Bengaluru,May-20,54.5,32,23,27.5,87,5,17.9,SE,57%,5
+Karnataka,Bengaluru,Jul-20,287,34,29,31.5,39,4.3,24.5,E,44%,3.6
+Gujarat,Ahmedabad,Feb-21,50.6,33,21,27,72,9.1,24.5,N,67%,5
+Uttar Pradesh,Lucknow,Jan-21,59,36,28,32,74,4.6,21.3,E,80%,0.8
+Tamil Nadu,Chennai,Jun-20,268.6,34,29,31.5,65,7.9,9.5,NE,85%,4.2
+Uttar Pradesh,Kanpur,Jul-22,219.2,40,30,35,48,7.5,18.2,SE,24%,0.9
+Gujarat,Vadodara,Mar-20,42.2,39,27,33,35,8.1,16.9,NW,19%,2.1
+Gujarat,Surat,Apr-22,31.9,36,25,30.5,56,6.9,6.8,SW,10%,4.1
+Tamil Nadu,Tiruchirappalli,Sep-20,104.6,41,32,36.5,55,7.7,10.4,N,36%,3.6
+Uttar Pradesh,Agra,Mar-21,27.2,25,14,19.5,74,7.3,14.8,NW,25%,0.4
+Karnataka,Mangaluru,Aug-24,384.5,33,28,30.5,59,5.2,11.3,N,66%,4.6
+Uttar Pradesh,Kanpur,Nov-20,73.6,29,20,24.5,83,8.3,17.2,E,14%,2.6
+Maharashtra,Nagpur,Sep-22,307.4,41,31,36,89,8.2,12.3,SW,49%,3.3
+Maharashtra,Nagpur,Jun-23,73.1,35,30,32.5,80,8.3,7.7,NE,87%,3.5
+Uttar Pradesh,Agra,Nov-24,73.5,31,19,25,45,7.6,7.4,NW,72%,2.1
+Karnataka,Hubli,Apr-24,79.2,27,21,24,44,9.9,22.7,NW,90%,1.8
+Gujarat,Ahmedabad,Aug-23,373.7,41,36,38.5,50,4.6,15.9,N,69%,1.8
+Tamil Nadu,Chennai,Feb-20,65.5,40,35,37.5,82,6.5,11.8,NE,15%,0.9
+Maharashtra,Nagpur,Sep-22,307.4,41,31,36,89,8.2,12.3,SW,49%,3.3
+Uttar Pradesh,Lucknow,Nov-23,72.9,29,20,24.5,60,6.6,6.3,SW,88%,1.3
+Maharashtra,Pune,Apr-24,52.6,37,30,33.5,60,9,16.1,S,83%,3.9
+Tamil Nadu,Coimbatore,Nov-22,73.1,29,19,24,63,9.2,7.8,SW,41%,0.3
+Tamil Nadu,Madurai,Mar-20,27.8,32,25,28.5,40,6.9,11.4,NW,57%,0.1
+Gujarat,Surat,Aug-23,393.6,41,33,37,44,8.6,17.5,NE,87%,0.2
+Karnataka,Bengaluru,May-24,29.6,40,28,34,80,10,15.8,SE,35%,0.2
+Maharashtra,Pune,Apr-22,60.6,42,37,39.5,73,7.2,18.9,W,48%,2.9
+Maharashtra,Pune,Sep-23,363.7,34,28,31,75,8.2,11.7,E,53%,3.1
+Uttar Pradesh,Varanasi,Jun-23,318,33,27,30,80,6,16.2,NW,46%,3.6
+Gujarat,Vadodara,Oct-20,0.8,31,21,26,31,4.4,19.4,NE,33%,1.1
+Maharashtra,Pune,Dec-21,25.7,40,31,35.5,85,8.3,15.6,NW,67%,2.7
+Uttar Pradesh,Agra,Jun-21,315.7,40,34,37,88,8.9,24.1,S,26%,1.1
+Uttar Pradesh,Agra,Nov-24,73.5,31,19,25,45,7.6,7.4,NW,72%,2.1
+Maharashtra,Nashik,Jan-23,33.8,38,30,34,76,9.9,20.2,N,50%,4.5
+Karnataka,Bengaluru,Feb-21,5.1,30,21,25.5,73,9.6,23.6,SW,34%,4.6
+Tamil Nadu,Madurai,Nov-21,2.2,27,15,21,87,9.8,13.4,NW,30%,0.1
+Tamil Nadu,Coimbatore,Mar-21,12.1,31,25,28,64,7.4,15.6,S,73%,4.8
+Uttar Pradesh,Lucknow,Apr-22,11.4,34,28,31,56,5.2,9.3,NE,85%,1.8
+Maharashtra,Mumbai,Dec-24,9.1,31,22,26.5,50,8,22.9,SE,72%,4.1
+Gujarat,Vadodara,Apr-23,12,26,19,22.5,60,6.4,17.6,SE,59%,3
+Uttar Pradesh,Varanasi,Jan-22,35.9,28,16,22,68,9.6,21,SE,24%,2.8
+Maharashtra,Nagpur,Jun-21,99.9,28,23,25.5,67,6.7,8.5,SE,59%,4.7
+Karnataka,Mysuru,May-23,66.2,33,24,28.5,87,6.3,21.6,SE,75%,4.6
+Uttar Pradesh,Kanpur,Dec-24,28.5,26,20,23,60,7,18.1,W,73%,4.9
+Tamil Nadu,Tiruchirappalli,Aug-23,242.6,40,33,36.5,83,7.6,7.3,NE,64%,1.4
+Gujarat,Surat,Jan-24,77.8,39,31,35,37,9,18.3,NW,75%,1
+Gujarat,Ahmedabad,Jul-21,267.9,41,35,38,41,4.7,23.8,S,76%,1.4
+Maharashtra,Nashik,Oct-21,60.1,31,19,25,45,6,22,NW,48%,1.6
+Maharashtra,Nagpur,Mar-23,5.9,25,19,22,90,9.9,11.8,SW,65%,3.6
+Gujarat,Vadodara,Mar-22,45,38,28,33,87,6,11.7,NW,87%,3.3
+Uttar Pradesh,Lucknow,Sep-20,226.1,38,28,33,48,8.9,10.3,SE,14%,4
+Maharashtra,Nashik,Feb-23,57.5,30,25,27.5,76,4.9,18.1,W,54%,1.3
+Uttar Pradesh,Kanpur,Mar-21,66.5,32,22,27,72,4.5,23.8,NE,16%,3.3
+Uttar Pradesh,Lucknow,Aug-21,2.3,36,26,31,37,4.9,9.6,SW,22%,2.9
+Gujarat,Vadodara,Feb-22,45.1,35,24,29.5,34,4.7,19.3,NE,37%,1.2
+Maharashtra,Mumbai,Feb-24,64.7,38,33,35.5,49,8.7,16.3,E,60%,1.1
+Gujarat,Vadodara,Aug-23,198.6,42,35,38.5,71,6,23.6,N,69%,2.4
+Tamil Nadu,Chennai,Nov-20,47.7,37,26,31.5,34,4.2,14.7,SW,15%,4
+Uttar Pradesh,Varanasi,Nov-23,32.2,26,17,21.5,85,9.5,15.4,N,70%,3.1
+Maharashtra,Nashik,Aug-22,3.8,34,29,31.5,47,5.3,23,W,90%,0.6
+Tamil Nadu,Coimbatore,May-22,45.5,41,31,36,48,6.2,7,SE,12%,2.3
+Karnataka,Mysuru,Apr-20,53.3,42,31,36.5,75,6.6,9.6,N,16%,3.5
+Maharashtra,Pune,Sep-23,363.7,34,28,31,75,8.2,11.7,E,53%,3.1
+Karnataka,Hubli,Jun-24,214.2,41,32,36.5,80,9,23.2,NE,13%,2
+Gujarat,Rajkot,Jun-20,102.4,36,30,33,46,9.1,17.2,NE,74%,2.7
+Maharashtra,Mumbai,Aug-21,389.7,33,25,29,66,4.7,15.2,SW,32%,1.4
+Karnataka,Bengaluru,May-20,54.5,32,23,27.5,87,5,17.9,SE,57%,5
+Gujarat,Surat,Jan-24,77.8,39,31,35,37,9,18.3,NW,75%,1
+Uttar Pradesh,Varanasi,Mar-20,46.1,39,34,36.5,53,4.8,13.5,SW,78%,4
+Karnataka,Bengaluru,Sep-20,395.5,33,23,28,35,4.4,24.4,N,42%,1.3
+Maharashtra,Pune,Aug-21,7.1,42,30,36,75,9.2,12.8,S,22%,1.3
+Tamil Nadu,Coimbatore,Feb-22,72.6,26,15,20.5,71,6.8,15,NE,64%,3.6
+Karnataka,Bengaluru,Mar-23,31.3,28,17,22.5,58,9.9,9.5,SW,46%,1.3
+Karnataka,Mysuru,Jun-22,367.5,39,33,36,53,4.6,6,S,19%,2.6
+Tamil Nadu,Madurai,Jun-20,244.3,28,20,24,70,8.4,17.2,NE,68%,4.5
+Uttar Pradesh,Agra,Jan-23,46.9,34,24,29,58,8.6,8.2,S,22%,1.3
+Gujarat,Surat,Sep-21,163.3,38,28,33,38,6.7,22,N,23%,2.1
+Maharashtra,Mumbai,Sep-22,341.9,37,32,34.5,40,8,18.9,NE,84%,3.7
+Tamil Nadu,Chennai,Apr-24,67.9,32,25,28.5,30,6.4,8.6,W,77%,1.1
+Maharashtra,Nagpur,Jun-21,99.9,28,23,25.5,67,6.7,8.5,SE,59%,4.7
+Tamil Nadu,Tiruchirappalli,Apr-23,32.5,31,19,25,38,5.5,10.7,S,26%,4.2
+Maharashtra,Pune,Jun-24,194.8,41,29,35,75,4.5,8.7,W,80%,2.7
+Tamil Nadu,Tiruchirappalli,Aug-23,242.6,40,33,36.5,83,7.6,7.3,NE,64%,1.4
+Maharashtra,Pune,Dec-23,24.9,39,33,36,65,7.5,21.4,E,48%,0.3
+Karnataka,Mysuru,May-24,8.3,38,26,32,61,9.4,7.4,NW,79%,1.3
+Uttar Pradesh,Lucknow,Aug-20,173.6,27,17,22,74,6.7,14.8,NE,24%,0.9
+Uttar Pradesh,Varanasi,Sep-22,142.2,34,25,29.5,86,8.5,22.5,S,45%,0.7
+Gujarat,Rajkot,Feb-20,25.2,39,34,36.5,80,6.3,9.7,SW,63%,4.2
+Gujarat,Vadodara,Nov-22,34.5,42,36,39,47,8.5,16.4,NW,72%,4.5
+Tamil Nadu,Madurai,Jul-20,334.2,34,28,31,41,8.2,11.7,SE,35%,4.5
+Karnataka,Bengaluru,Jul-23,366,41,31,36,83,5.5,10,S,68%,2.8
+Uttar Pradesh,Kanpur,Feb-24,4.5,34,25,29.5,45,6.3,20.4,SW,48%,3.8
+Tamil Nadu,Tiruchirappalli,Feb-24,54.1,27,20,23.5,54,5.6,22.9,NW,88%,3.3
+Tamil Nadu,Madurai,Sep-22,79.9,28,20,24,81,4.6,12,E,77%,1.3
+Uttar Pradesh,Agra,Sep-20,17.2,36,25,30.5,41,4.2,5,SW,87%,4.1
+Tamil Nadu,Tiruchirappalli,Jun-24,65.2,32,23,27.5,50,6.8,8.4,S,65%,1.7
+Karnataka,Mysuru,Mar-20,17.4,40,31,35.5,49,5.7,15.6,SE,39%,0.8
+Karnataka,Mangaluru,Sep-21,17.2,37,25,31,71,5.9,21.5,E,28%,5
+Gujarat,Surat,Sep-23,377.1,25,18,21.5,56,4,14,S,82%,1
+Maharashtra,Nagpur,Jun-23,73.1,35,30,32.5,80,8.3,7.7,NE,87%,3.5
+Karnataka,Mysuru,Jun-22,367.5,39,33,36,53,4.6,6,S,19%,2.6
+Karnataka,Hubli,Jun-21,21.9,39,34,36.5,55,7.4,21.9,E,63%,2.2
+Maharashtra,Pune,Feb-22,11.4,36,30,33,77,4.2,11.2,SE,88%,2.9
+Uttar Pradesh,Kanpur,Dec-24,28.5,26,20,23,60,7,18.1,W,73%,4.9
+Uttar Pradesh,Kanpur,Jun-20,149.7,41,31,36,70,7.8,12.6,N,39%,4.8
+Tamil Nadu,Tiruchirappalli,Jul-21,358.6,32,20,26,44,8,14.7,SE,28%,4.7
+Karnataka,Hubli,May-22,62.5,42,35,38.5,82,9.1,15.1,SW,59%,1.5
+Karnataka,Bengaluru,Sep-21,394.6,42,36,39,47,8,12.9,NE,40%,4.6
+Maharashtra,Nagpur,Dec-24,18.7,42,30,36,67,8.9,21.2,SE,84%,3.1
+Gujarat,Ahmedabad,Apr-24,45.5,30,24,27,82,6.4,19.1,E,73%,2.8
+Gujarat,Rajkot,Feb-21,2.7,35,29,32,58,5.1,11.7,SW,65%,2.1
+Tamil Nadu,Madurai,Jan-20,43.8,33,27,30,57,6.4,7,W,90%,0.5
+Tamil Nadu,Coimbatore,Apr-21,70.2,35,23,29,48,5.6,7,N,74%,2
+Maharashtra,Nashik,May-20,49.6,42,35,38.5,30,6.6,23.2,NW,54%,1.8
+Gujarat,Vadodara,Feb-22,45.1,35,24,29.5,34,4.7,19.3,NE,37%,1.2
+Maharashtra,Nashik,Mar-23,21.6,33,24,28.5,34,4.1,19.1,SE,22%,2.8
+Karnataka,Bengaluru,Aug-21,211.9,39,31,35,36,6.5,7.8,SW,53%,0.8
+Maharashtra,Pune,Mar-24,16.7,31,26,28.5,36,4.9,16.3,W,83%,1.5
+Tamil Nadu,Madurai,Jul-21,178.3,27,20,23.5,82,5.2,24.8,W,56%,0.1
+Maharashtra,Nashik,Nov-23,56.4,39,31,35,86,6.5,12.7,W,20%,1.1
+Tamil Nadu,Tiruchirappalli,Nov-21,47.3,40,32,36,30,7.3,18.9,E,83%,3.7
+Gujarat,Rajkot,Feb-21,2.7,35,29,32,58,5.1,11.7,SW,65%,2.1
+Uttar Pradesh,Lucknow,Feb-23,48.3,28,16,22,81,6.2,15,SW,76%,3.9
+Tamil Nadu,Tiruchirappalli,Mar-20,15.9,26,20,23,65,5.4,17.5,N,28%,2.6
+Maharashtra,Pune,Apr-22,60.6,42,37,39.5,73,7.2,18.9,W,48%,2.9
+Uttar Pradesh,Lucknow,Aug-23,14.9,26,18,22,30,4.6,7.7,NW,78%,3.1
+Maharashtra,Mumbai,Feb-24,64.7,38,33,35.5,49,8.7,16.3,E,60%,1.1
+Maharashtra,Mumbai,Apr-21,43.4,28,19,23.5,39,6.4,14.4,S,55%,3.9
+Karnataka,Hubli,Feb-20,78.5,36,24,30,70,5.9,11.9,NW,33%,1.5
+Tamil Nadu,Coimbatore,Jun-22,166.4,31,25,28,53,4.4,13.8,NE,34%,1.2
+Maharashtra,Nagpur,Jan-20,68.7,27,22,24.5,76,9.4,22.2,W,53%,0
+Tamil Nadu,Madurai,Mar-21,28.9,30,24,27,77,9.5,18.4,E,54%,1.2
+Karnataka,Mysuru,Jan-20,57.9,28,23,25.5,34,9.8,18.3,SE,57%,2.5
+Uttar Pradesh,Kanpur,Feb-20,22.8,33,27,30,38,9.6,17.8,NW,42%,2.9
+Uttar Pradesh,Varanasi,Jul-20,32.8,33,25,29,46,4.4,7.3,SE,36%,0.7
+Tamil Nadu,Chennai,Nov-21,14.4,40,28,34,57,5.7,24,S,28%,0.6
+Uttar Pradesh,Agra,Nov-24,73.5,31,19,25,45,7.6,7.4,NW,72%,2.1
+Karnataka,Hubli,Sep-24,187.3,35,28,31.5,72,4.4,12.4,S,12%,2.6
+Gujarat,Surat,May-21,29.8,42,35,38.5,54,7.9,8.1,E,21%,3.2
+Uttar Pradesh,Lucknow,Jun-23,210.3,40,32,36,63,5.7,17.2,E,55%,3.6
+Tamil Nadu,Coimbatore,Mar-21,12.1,31,25,28,64,7.4,15.6,S,73%,4.8
+Gujarat,Vadodara,Sep-20,51.7,29,21,25,62,9.1,13,S,90%,2.1
+Uttar Pradesh,Agra,Mar-22,1.5,34,23,28.5,50,8.1,12.9,SE,79%,0.2
+Uttar Pradesh,Kanpur,Aug-24,260.4,35,30,32.5,56,10,15,NW,19%,1.5
+Uttar Pradesh,Varanasi,Mar-24,54,25,15,20,83,4.4,14.8,W,46%,0.9
+Gujarat,Ahmedabad,Jun-24,159.7,35,24,29.5,85,7.8,10.7,W,50%,2.7
+Maharashtra,Pune,Nov-24,65,27,20,23.5,76,8.6,12.2,W,61%,2.2
+Uttar Pradesh,Kanpur,Feb-21,55.9,42,33,37.5,80,8,7.2,SE,83%,4.6
+Karnataka,Mysuru,Oct-21,70.2,41,33,37,79,8.3,22.2,NE,57%,2.2
+Uttar Pradesh,Lucknow,Sep-22,4.6,34,26,30,81,7.3,16.7,E,63%,2.3
+Tamil Nadu,Madurai,Aug-22,120.7,32,21,26.5,59,7.4,16,W,21%,3
+Tamil Nadu,Tiruchirappalli,Jul-23,138.2,36,28,32,30,6.9,12.7,N,63%,1.8
+Gujarat,Vadodara,Dec-21,46.8,32,27,29.5,60,9.1,20.4,SE,75%,3.2
+Karnataka,Bengaluru,Sep-23,350,27,15,21,71,6.3,8.5,W,68%,3.2
+Maharashtra,Nashik,Mar-22,31.2,26,20,23,59,7.5,17,W,81%,1
+Maharashtra,Pune,May-21,38.9,37,32,34.5,49,8.7,11.6,NE,10%,1.5
+Uttar Pradesh,Kanpur,May-22,51.3,39,29,34,32,8,11.5,N,38%,2.9
+Uttar Pradesh,Kanpur,May-24,46.8,38,33,35.5,42,5,22.3,SE,29%,3.3
+Maharashtra,Pune,Dec-24,13.3,28,20,24,62,8.1,6.5,S,51%,5
+Uttar Pradesh,Agra,May-22,42.6,30,24,27,86,4.5,5.9,N,48%,3.2
+Karnataka,Hubli,Sep-24,187.3,35,28,31.5,72,4.4,12.4,S,12%,2.6
+Gujarat,Vadodara,Sep-23,79.9,37,31,34,37,8.1,20.9,SE,56%,0.6
+Uttar Pradesh,Kanpur,Sep-23,323.8,42,33,37.5,88,9.6,15.5,NE,66%,1.2
+Karnataka,Mysuru,May-23,66.2,33,24,28.5,87,6.3,21.6,SE,75%,4.6
+Uttar Pradesh,Agra,Dec-20,79.3,33,26,29.5,36,7.7,19.3,NE,17%,3.3
+Maharashtra,Pune,Sep-24,61.7,36,24,30,60,6.2,15.6,W,31%,2.7
+Karnataka,Mysuru,Oct-21,70.2,41,33,37,79,8.3,22.2,NE,57%,2.2
+Tamil Nadu,Tiruchirappalli,Jun-21,8.8,40,35,37.5,39,7.6,11.8,W,27%,0.3
+Maharashtra,Pune,Mar-23,4.2,37,28,32.5,51,5.8,17.9,NW,89%,2.4
+Gujarat,Surat,Mar-20,78.4,27,18,22.5,58,8.8,9.8,NE,41%,2.6
+Karnataka,Bengaluru,Jan-21,50.7,28,23,25.5,45,7.5,11.7,N,76%,0.6
+Maharashtra,Nashik,Feb-21,62.3,40,30,35,46,9.7,21.5,E,28%,4.7
+Maharashtra,Pune,Feb-22,11.4,36,30,33,77,4.2,11.2,SE,88%,2.9
+Uttar Pradesh,Kanpur,Aug-21,269,26,14,20,47,7.5,20.3,NW,75%,1.3
+Tamil Nadu,Chennai,Oct-22,59.3,32,27,29.5,39,4.9,9.2,SE,39%,3.5
+Gujarat,Ahmedabad,Nov-23,52.2,41,35,38,83,5,13.6,SW,21%,2.5
+Karnataka,Bengaluru,Aug-20,247.8,41,33,37,42,5.3,21.4,W,72%,1.5
+Maharashtra,Nagpur,Jul-23,364.4,38,29,33.5,90,7.9,13.5,E,54%,4
+Gujarat,Vadodara,May-24,65.8,38,29,33.5,40,9.6,6.4,S,71%,3.2
+Karnataka,Bengaluru,Jun-22,224,39,31,35,54,7.6,19.7,E,70%,1
+Karnataka,Hubli,May-22,62.5,42,35,38.5,82,9.1,15.1,SW,59%,1.5
+Tamil Nadu,Tiruchirappalli,Jul-23,138.2,36,28,32,30,6.9,12.7,N,63%,1.8
+Uttar Pradesh,Agra,Feb-23,3.6,41,34,37.5,48,5,18.7,SE,47%,0.3
+Tamil Nadu,Madurai,Nov-20,35.2,29,18,23.5,33,6.2,21.5,SW,53%,0.1
+Gujarat,Ahmedabad,Oct-24,32.1,35,28,31.5,74,9.2,22,SE,80%,4
+Tamil Nadu,Tiruchirappalli,Aug-24,196.2,29,18,23.5,64,5.6,18.3,S,26%,1.8
+Karnataka,Hubli,Dec-23,31.6,37,25,31,58,5.6,9.5,N,43%,4
+Uttar Pradesh,Agra,Jul-21,212.1,28,18,23,76,6.3,20.6,NE,86%,3.3
+Uttar Pradesh,Varanasi,Feb-20,56,34,29,31.5,31,5.8,15.4,NE,35%,2.6
+Gujarat,Surat,Mar-23,73.8,30,20,25,51,5.2,17,SW,20%,0.8
+Gujarat,Ahmedabad,Jun-24,159.7,35,24,29.5,85,7.8,10.7,W,50%,2.7
+Tamil Nadu,Madurai,Nov-22,75.1,35,30,32.5,76,7.8,15.1,S,38%,2.8
+Maharashtra,Mumbai,Jun-21,49.4,38,30,34,43,8.7,10.4,S,62%,3.3
+Tamil Nadu,Chennai,Apr-21,35.7,36,27,31.5,35,6.6,8.6,NE,26%,3.7
+Karnataka,Mysuru,Mar-20,17.4,40,31,35.5,49,5.7,15.6,SE,39%,0.8
+Karnataka,Mysuru,May-20,18.6,28,22,25,63,4.9,22.2,NW,48%,4.8
+Tamil Nadu,Tiruchirappalli,Dec-23,40.5,32,22,27,56,6.1,21.6,SE,85%,3.2
+Tamil Nadu,Chennai,Jul-24,296.2,31,22,26.5,81,5.4,15.2,SE,61%,3.3
+Tamil Nadu,Tiruchirappalli,Mar-20,15.9,26,20,23,65,5.4,17.5,N,28%,2.6
+Gujarat,Rajkot,Jun-23,40.3,32,20,26,45,7.2,10,W,84%,4.5
+Uttar Pradesh,Varanasi,Jan-20,4.8,25,15,20,81,7.4,15.8,SE,77%,3.5
+Karnataka,Hubli,Apr-24,79.2,27,21,24,44,9.9,22.7,NW,90%,1.8
+Gujarat,Ahmedabad,Jul-21,267.9,41,35,38,41,4.7,23.8,S,76%,1.4
+Uttar Pradesh,Lucknow,Aug-22,243.3,25,15,20,46,6.9,14.1,SW,44%,3.6
+Karnataka,Bengaluru,May-23,79.5,37,25,31,72,6.2,10.7,NW,51%,1.6
+Karnataka,Mysuru,Sep-23,132.3,29,18,23.5,43,9.3,20.5,SW,88%,2.5
+Tamil Nadu,Tiruchirappalli,Jan-21,40.1,30,22,26,72,9.4,9.9,NW,30%,2.7
+Karnataka,Bengaluru,Aug-22,275.5,38,26,32,77,6.7,22.4,E,73%,3.8
+Maharashtra,Nagpur,Jan-20,68.7,27,22,24.5,76,9.4,22.2,W,53%,0
+Tamil Nadu,Chennai,Oct-21,50.4,27,20,23.5,37,6.5,13.9,N,80%,0.7
+Gujarat,Rajkot,Jul-21,206.4,26,16,21,49,5.3,19.5,SE,16%,2.5
+Gujarat,Vadodara,May-24,65.8,38,29,33.5,40,9.6,6.4,S,71%,3.2
+Uttar Pradesh,Varanasi,Aug-20,197.2,39,32,35.5,34,6.5,21.2,E,40%,1.2
+Tamil Nadu,Chennai,Jun-20,268.6,34,29,31.5,65,7.9,9.5,NE,85%,4.2
+Karnataka,Bengaluru,Mar-22,17.9,41,30,35.5,82,9.8,23.9,NW,65%,3.6
+Uttar Pradesh,Agra,Mar-23,69.1,40,32,36,35,5.3,22.7,SW,60%,3.1
+Gujarat,Rajkot,Feb-22,28.5,26,20,23,64,4.2,20.7,SW,68%,4.1
+Tamil Nadu,Tiruchirappalli,Apr-20,34.2,34,29,31.5,82,6.2,12.3,N,32%,4.9
+Karnataka,Mysuru,Apr-22,58.6,32,20,26,55,8.6,13.9,S,25%,1.3
+Gujarat,Surat,Jun-24,271.2,26,21,23.5,68,8.6,12.2,SW,24%,3.4
+Karnataka,Bengaluru,Mar-23,31.3,28,17,22.5,58,9.9,9.5,SW,46%,1.3
+Maharashtra,Pune,Jul-22,271.5,27,17,22,85,4.5,24.9,SW,26%,1.5
+Gujarat,Ahmedabad,Feb-21,50.6,33,21,27,72,9.1,24.5,N,67%,5
+Gujarat,Surat,Dec-20,18,39,30,34.5,70,5.3,6.9,E,48%,1.1
+Karnataka,Mangaluru,Jan-23,22.6,34,27,30.5,62,4.6,5.7,SE,90%,1.4
+Karnataka,Bengaluru,Feb-21,5.1,30,21,25.5,73,9.6,23.6,SW,34%,4.6
+Karnataka,Mysuru,May-22,54.9,31,26,28.5,43,5.2,13.6,NW,34%,4.1
+Maharashtra,Mumbai,Feb-20,29.5,27,15,21,60,8.6,16.2,NW,87%,3.8
+Maharashtra,Nashik,Nov-22,14.1,29,19,24,38,7.1,14,W,32%,3.2
+Gujarat,Ahmedabad,Jul-23,378.7,38,27,32.5,33,6.4,16,E,45%,4.8
+Uttar Pradesh,Agra,Mar-24,60.4,33,22,27.5,47,8.4,5.7,NW,45%,2.9
+Gujarat,Ahmedabad,Jan-20,27.3,35,25,30,71,8.1,19.7,E,44%,2.1
+Tamil Nadu,Chennai,May-24,24.5,38,32,35,49,8.6,13.4,W,72%,4.4
+Tamil Nadu,Coimbatore,Nov-24,50.7,39,30,34.5,36,8.2,17.2,NW,70%,3.8
+Karnataka,Bengaluru,Mar-21,65.1,37,25,31,30,5.9,11.2,E,65%,2.1
+Karnataka,Mangaluru,Aug-24,384.5,33,28,30.5,59,5.2,11.3,N,66%,4.6
+Karnataka,Mangaluru,Oct-24,41.9,35,28,31.5,87,8.9,11.8,E,73%,0.1
+Karnataka,Bengaluru,Nov-22,58,29,20,24.5,87,4.4,14.9,W,42%,2.9
+Gujarat,Ahmedabad,Apr-21,76.6,31,19,25,78,5.5,5.2,NE,70%,3
+Gujarat,Vadodara,Sep-21,291.3,33,26,29.5,61,6.6,21,W,19%,5
+Gujarat,Ahmedabad,Mar-23,41.2,39,27,33,30,6.1,7.9,W,90%,3.2
+Gujarat,Ahmedabad,May-22,3,41,34,37.5,32,9.2,11.2,NW,82%,0.7
+Tamil Nadu,Chennai,Jan-22,15.8,40,29,34.5,38,5,10.8,SW,59%,1.8
+Uttar Pradesh,Agra,Nov-21,18,37,32,34.5,30,9.2,22.4,SW,69%,3.2
+Uttar Pradesh,Lucknow,Jun-20,52.2,35,25,30,78,8.9,13.2,SE,74%,0.2
+Karnataka,Mysuru,Apr-24,79.5,41,29,35,70,7.5,17.3,SE,42%,1.4
+Tamil Nadu,Tiruchirappalli,Apr-20,34.2,34,29,31.5,82,6.2,12.3,N,32%,4.9
+Tamil Nadu,Coimbatore,Sep-23,391.9,34,28,31,36,6,19.2,SE,66%,0.2
+Karnataka,Bengaluru,Jan-24,48,35,28,31.5,75,5.3,18.1,NE,38%,1.7
+Uttar Pradesh,Lucknow,Apr-21,61.3,42,35,38.5,81,5.5,10.5,N,37%,4.7
+Gujarat,Vadodara,Jan-20,48.8,42,32,37,69,5.7,13.4,N,31%,3.1
+Maharashtra,Pune,Dec-23,24.9,39,33,36,65,7.5,21.4,E,48%,0.3
+Tamil Nadu,Coimbatore,Nov-21,15.7,40,35,37.5,78,8.4,16.2,NE,24%,4.8
+Maharashtra,Pune,Sep-24,61.7,36,24,30,60,6.2,15.6,W,31%,2.7
+Tamil Nadu,Chennai,Jun-22,233,36,27,31.5,60,4.1,24.5,S,38%,0.2
+Gujarat,Surat,Jun-24,271.2,26,21,23.5,68,8.6,12.2,SW,24%,3.4
+Tamil Nadu,Tiruchirappalli,May-20,31.5,36,24,30,71,9,16.2,N,45%,0.7
+Tamil Nadu,Madurai,Jan-23,40.8,26,17,21.5,34,7.7,14.5,SE,13%,3.7
+Tamil Nadu,Madurai,Jun-20,244.3,28,20,24,70,8.4,17.2,NE,68%,4.5
+Tamil Nadu,Chennai,Jan-23,79.3,42,35,38.5,30,4.2,21.4,SE,13%,1.4
+Uttar Pradesh,Agra,Sep-21,213.1,41,35,38,60,9,22.2,NW,63%,1.7
+Uttar Pradesh,Kanpur,Dec-21,50.2,29,19,24,45,6.1,7.8,SE,66%,4.1
+Gujarat,Vadodara,Mar-23,39.5,31,19,25,56,7.8,13.4,SW,48%,3.1
+Uttar Pradesh,Agra,Sep-21,213.1,41,35,38,60,9,22.2,NW,63%,1.7
+Maharashtra,Mumbai,Dec-22,41.3,35,25,30,62,6.3,8.6,NE,30%,0.7
+Maharashtra,Mumbai,Jan-20,47.9,31,25,28,87,7.9,24.3,SW,82%,4.1
+Karnataka,Mysuru,Oct-22,44.7,27,16,21.5,63,4.7,12.5,NW,90%,1.5
+Gujarat,Surat,Jul-20,25.1,35,28,31.5,30,8.1,22.4,S,28%,0.2
+Gujarat,Vadodara,Sep-24,360.6,39,34,36.5,85,4.5,8.2,W,10%,3.1
+Karnataka,Mysuru,Aug-23,147.3,39,34,36.5,62,9.9,23.4,S,31%,3.3
+Maharashtra,Pune,Mar-21,31.5,33,24,28.5,67,7.1,5.7,E,83%,0.6
+Uttar Pradesh,Varanasi,Sep-24,217.4,34,26,30,38,5.5,13.4,NW,88%,0.2
+Gujarat,Ahmedabad,Jan-24,59,41,33,37,45,8.8,5.6,NW,40%,0.7
+Karnataka,Mangaluru,Dec-23,13.4,35,25,30,53,8.5,20.5,W,38%,2
+Karnataka,Mysuru,Mar-24,65.5,41,32,36.5,86,9,14.3,E,81%,0.2
+Maharashtra,Nagpur,Apr-23,21.9,34,27,30.5,89,7.4,17.1,NW,50%,4.6
+Maharashtra,Nashik,Jan-24,39.6,37,30,33.5,47,8.5,15.3,NW,44%,0.5
+Karnataka,Mysuru,Apr-24,79.5,41,29,35,70,7.5,17.3,SE,42%,1.4
+Tamil Nadu,Coimbatore,Dec-24,40.2,26,20,23,34,6.6,17.1,NE,90%,1.5
+Uttar Pradesh,Varanasi,Jul-21,344.7,37,25,31,85,4.7,14.5,W,18%,3.4
+Maharashtra,Mumbai,Jul-24,152,38,32,35,38,7.7,21.4,SW,46%,2.9
+Gujarat,Surat,Aug-20,206.4,30,24,27,57,4.1,12.9,E,25%,2.3
+Tamil Nadu,Chennai,May-21,42.2,35,29,32,54,5.8,5.3,NE,62%,4.3
+Gujarat,Rajkot,Jan-22,43.2,32,25,28.5,60,4.5,13.4,S,16%,0.1
+Uttar Pradesh,Lucknow,Jan-21,59,36,28,32,74,4.6,21.3,E,80%,0.8
+Tamil Nadu,Coimbatore,Dec-23,26.8,32,27,29.5,46,4.2,9.3,NE,56%,3.3
+Uttar Pradesh,Kanpur,Dec-23,12.6,35,27,31,68,6.4,18,E,73%,2.9
+Gujarat,Surat,Jun-23,169.2,26,17,21.5,53,7.3,6.9,E,45%,4.4
+Karnataka,Mysuru,Dec-22,43.8,39,31,35,86,9.7,8.7,SW,40%,2.5
+Karnataka,Hubli,Aug-21,240.7,29,19,24,72,10,8.4,N,26%,1.7
+Maharashtra,Mumbai,Nov-24,62.2,34,28,31,51,5,20.6,N,74%,2.3
+Karnataka,Hubli,Aug-24,360.8,29,21,25,74,6.9,18.5,N,77%,0.9
+Maharashtra,Mumbai,Jun-21,49.4,38,30,34,43,8.7,10.4,S,62%,3.3
+Uttar Pradesh,Agra,Oct-24,47.7,36,31,33.5,43,6.5,13,NW,13%,3.3
+Tamil Nadu,Madurai,May-20,48.9,32,26,29,83,9.2,6.2,N,33%,1.7
+Maharashtra,Nagpur,Sep-20,20.5,37,32,34.5,80,5.9,17.5,S,32%,4.4
+Uttar Pradesh,Varanasi,Apr-24,68.1,30,19,24.5,41,4,9,NE,63%,4.1
+Karnataka,Mangaluru,Jun-20,231.9,31,22,26.5,57,4.6,9.8,E,90%,4.5
+Tamil Nadu,Chennai,Jul-23,378.7,29,18,23.5,36,9.9,22.3,SE,74%,4.5
+Uttar Pradesh,Varanasi,Nov-21,75.7,39,27,33,89,8,21.7,SW,84%,0.4
+Tamil Nadu,Chennai,Jul-22,381.7,34,28,31,55,6.7,18.6,E,26%,1.7
+Karnataka,Hubli,Nov-21,0.7,42,37,39.5,62,5.5,14.5,S,19%,1
+Tamil Nadu,Chennai,Jan-21,22.4,33,28,30.5,58,6.9,11.1,W,50%,1.3
+Tamil Nadu,Chennai,Nov-24,17,26,21,23.5,55,8.7,21,N,24%,2.8
+Uttar Pradesh,Lucknow,Jan-22,70.9,37,25,31,87,5.4,17.9,NE,56%,2.6
+Gujarat,Rajkot,Jan-20,55.1,39,33,36,83,7.7,13.9,SW,31%,2.5
+Maharashtra,Pune,Apr-22,60.6,42,37,39.5,73,7.2,18.9,W,48%,2.9
+Tamil Nadu,Madurai,Jan-21,42.4,41,33,37,67,9.5,23.2,S,21%,0.4
+Karnataka,Mysuru,Jan-22,14.4,26,15,20.5,84,6.7,20.7,W,83%,4.7
+Gujarat,Surat,Jul-24,260.4,32,20,26,78,5.2,6.8,N,46%,1.7
+Karnataka,Mangaluru,Mar-22,36.5,29,24,26.5,48,8.4,14.8,SE,10%,4.9
+Karnataka,Mangaluru,Oct-22,52.1,33,25,29,53,6.1,19.4,N,56%,3.5
+Uttar Pradesh,Kanpur,Feb-21,55.9,42,33,37.5,80,8,7.2,SE,83%,4.6
+Gujarat,Rajkot,Feb-21,2.7,35,29,32,58,5.1,11.7,SW,65%,2.1
+Uttar Pradesh,Lucknow,Apr-22,11.4,34,28,31,56,5.2,9.3,NE,85%,1.8
+Karnataka,Mysuru,Apr-20,53.3,42,31,36.5,75,6.6,9.6,N,16%,3.5
+Maharashtra,Nashik,May-23,78.3,33,26,29.5,88,4.8,8.2,E,67%,2
+Gujarat,Rajkot,Mar-24,1.5,36,24,30,77,5.9,13.4,SW,49%,4.6
+Gujarat,Ahmedabad,Oct-22,49.2,32,24,28,34,5.8,21.8,N,50%,4.5
+Maharashtra,Pune,Nov-21,26.2,30,21,25.5,69,6.4,5.9,W,59%,3.1
+Tamil Nadu,Coimbatore,Dec-22,17,29,21,25,65,6,25,NE,28%,0.3
+Tamil Nadu,Madurai,Aug-20,111.9,31,22,26.5,90,8.2,15,NW,89%,2.6
+Tamil Nadu,Chennai,Dec-24,59.4,36,24,30,37,7.6,7.8,SE,58%,0.4
+Karnataka,Hubli,Aug-21,240.7,29,19,24,72,10,8.4,N,26%,1.7
+Uttar Pradesh,Kanpur,May-22,51.3,39,29,34,32,8,11.5,N,38%,2.9
+Uttar Pradesh,Kanpur,Sep-20,84.7,28,23,25.5,37,5.4,15.2,SE,83%,1
+Maharashtra,Mumbai,Feb-20,29.5,27,15,21,60,8.6,16.2,NW,87%,3.8
+Maharashtra,Nagpur,Mar-24,61.8,35,26,30.5,32,6.6,10.7,W,43%,0
+Tamil Nadu,Coimbatore,Jul-24,155.7,31,25,28,54,4.8,21.1,NW,59%,0
+Maharashtra,Nashik,Jul-23,330.2,27,19,23,50,9.9,18.4,N,10%,2.4
+Maharashtra,Mumbai,Jun-23,204.3,28,20,24,89,9.8,14.5,SE,29%,0.9
+Karnataka,Mysuru,Dec-20,47.4,39,28,33.5,66,6.1,24.1,SW,67%,3.6
+Tamil Nadu,Tiruchirappalli,Jun-24,65.2,32,23,27.5,50,6.8,8.4,S,65%,1.7
+Karnataka,Mangaluru,Mar-23,24.8,35,27,31,81,5.6,16.9,SW,77%,0
+Karnataka,Mangaluru,Jan-21,21.3,26,18,22,54,6,11,NW,85%,0.7
+Uttar Pradesh,Agra,Aug-21,98.2,39,29,34,88,4.2,18.6,SW,77%,0.3
+Gujarat,Ahmedabad,Sep-21,68.7,28,23,25.5,41,8.6,10.7,NE,51%,3.7
+Maharashtra,Nashik,Jun-22,0.2,34,29,31.5,63,4.6,5.2,E,52%,4.7
+Gujarat,Ahmedabad,May-23,4.9,38,29,33.5,90,4,23.2,NE,61%,4.3
+Karnataka,Mysuru,Jan-22,14.4,26,15,20.5,84,6.7,20.7,W,83%,4.7
+Uttar Pradesh,Kanpur,Sep-24,390.9,31,26,28.5,72,6.6,24.9,S,58%,4.1
+Gujarat,Ahmedabad,May-22,3,41,34,37.5,32,9.2,11.2,NW,82%,0.7
+Uttar Pradesh,Kanpur,Jun-20,149.7,41,31,36,70,7.8,12.6,N,39%,4.8
+Uttar Pradesh,Kanpur,Apr-23,10.4,38,31,34.5,49,8.9,24,W,17%,0.4
+Karnataka,Hubli,Aug-21,240.7,29,19,24,72,10,8.4,N,26%,1.7
+Maharashtra,Mumbai,Dec-23,38.8,38,30,34,59,6,18,SW,80%,1
+Tamil Nadu,Madurai,Aug-21,133.1,31,23,27,37,7.3,18.5,NE,47%,4.8
+Uttar Pradesh,Kanpur,Mar-20,22.4,38,31,34.5,74,8.7,12.9,S,60%,0.2
+Uttar Pradesh,Agra,Sep-24,239.1,33,28,30.5,37,7.7,22.9,SE,45%,1.8
+Gujarat,Ahmedabad,Nov-21,4.6,36,31,33.5,75,6.9,17.3,E,66%,1.2
+Maharashtra,Mumbai,May-23,55.1,36,27,31.5,76,5.2,16.9,NE,10%,2.4
+Tamil Nadu,Madurai,Oct-24,61,26,16,21,79,5.8,6,NE,45%,4.7
+Gujarat,Rajkot,Jan-20,55.1,39,33,36,83,7.7,13.9,SW,31%,2.5
+Tamil Nadu,Madurai,Dec-22,52.1,37,26,31.5,62,8.7,5.6,N,59%,1.7
+Gujarat,Rajkot,Jan-21,1.8,41,31,36,35,6.4,14.4,W,12%,2.4
+Maharashtra,Nashik,Feb-20,47.7,32,25,28.5,80,4.6,11.8,NE,52%,3.6
+Gujarat,Vadodara,Dec-22,31.3,27,19,23,33,8,24,W,77%,1.5
+Gujarat,Surat,Jun-24,271.2,26,21,23.5,68,8.6,12.2,SW,24%,3.4
+Uttar Pradesh,Lucknow,Jun-20,52.2,35,25,30,78,8.9,13.2,SE,74%,0.2
+Tamil Nadu,Madurai,Sep-20,82.8,37,28,32.5,63,9.7,21.1,SW,36%,4.6
+Uttar Pradesh,Lucknow,Mar-24,11.8,27,15,21,30,6.6,8.1,S,52%,2.5
+Tamil Nadu,Chennai,Apr-21,35.7,36,27,31.5,35,6.6,8.6,NE,26%,3.7
+Tamil Nadu,Coimbatore,Mar-21,12.1,31,25,28,64,7.4,15.6,S,73%,4.8
+Tamil Nadu,Madurai,Dec-24,37.8,41,29,35,56,8.8,19.3,NE,72%,2.6
+Gujarat,Surat,Nov-24,5.3,30,23,26.5,53,8.7,16.6,SW,72%,0.2
+Uttar Pradesh,Agra,Dec-21,28.6,30,18,24,84,8.3,6.3,NE,39%,3.3
+Uttar Pradesh,Kanpur,Jun-24,24.1,37,30,33.5,43,7.8,16.8,N,44%,4.7
+Maharashtra,Mumbai,Apr-20,11.4,25,16,20.5,46,6.3,18.5,N,20%,4
+Karnataka,Bengaluru,Oct-23,35.9,27,20,23.5,84,9.3,18.3,NE,44%,0.1
+Maharashtra,Nagpur,Jun-24,146.9,27,19,23,68,6.9,24.5,SW,71%,2.3
+Gujarat,Surat,Oct-23,21.4,37,32,34.5,83,9.3,17.9,N,39%,2.2
+Tamil Nadu,Chennai,Aug-20,76.3,42,31,36.5,37,9.7,16,E,43%,0.2
+Uttar Pradesh,Kanpur,Nov-24,63,30,22,26,76,9.5,13.1,SW,42%,1.9
+Maharashtra,Pune,Aug-22,311.1,30,24,27,55,5.6,14.7,NE,72%,1
+Gujarat,Surat,Jul-23,394.6,26,17,21.5,46,9.2,22.8,N,58%,3.1
+Gujarat,Rajkot,Jul-23,396,35,24,29.5,67,8.6,8.4,NE,20%,0.9
+Gujarat,Vadodara,Jul-20,383.1,31,19,25,52,9,10.4,NW,18%,1.2
+Gujarat,Rajkot,Apr-23,21.2,40,32,36,83,6.9,8.2,SE,90%,1.8
+Tamil Nadu,Tiruchirappalli,Jun-22,144.4,40,29,34.5,42,6.8,9,E,39%,4.3
+Karnataka,Bengaluru,Jul-22,226.9,32,23,27.5,45,6.5,18.3,NE,21%,2.5
+Maharashtra,Nagpur,Dec-21,35.5,38,33,35.5,59,5.3,19.9,N,22%,4.1
+Karnataka,Mangaluru,Aug-22,170.8,36,24,30,67,5.6,6.7,W,84%,1.6
+Karnataka,Mysuru,May-24,8.3,38,26,32,61,9.4,7.4,NW,79%,1.3
+Karnataka,Mangaluru,Mar-22,36.5,29,24,26.5,48,8.4,14.8,SE,10%,4.9
+Gujarat,Vadodara,May-20,0.9,34,25,29.5,78,5.8,13.1,NW,44%,3.4
+Tamil Nadu,Madurai,Oct-23,29.2,35,26,30.5,66,4.6,7.3,SW,16%,2.9
+Gujarat,Surat,Sep-21,163.3,38,28,33,38,6.7,22,N,23%,2.1
+Maharashtra,Nashik,Nov-22,14.1,29,19,24,38,7.1,14,W,32%,3.2
+Gujarat,Ahmedabad,Dec-23,45.5,36,31,33.5,79,8.8,20.2,N,68%,3
+Karnataka,Bengaluru,Apr-20,69.1,38,29,33.5,57,7.4,18.2,NE,72%,3.1
+Gujarat,Surat,Oct-22,48.8,39,31,35,85,8.2,11.8,E,24%,0.3
+Gujarat,Surat,Dec-22,69.1,26,15,20.5,76,6,20.8,S,63%,3.2
+Gujarat,Vadodara,Aug-23,198.6,42,35,38.5,71,6,23.6,N,69%,2.4
+Karnataka,Mysuru,Jun-23,309.3,29,20,24.5,86,7,8.8,SE,48%,1.5
+Uttar Pradesh,Varanasi,Oct-24,47.1,30,24,27,41,6,15.9,W,12%,3.1
+Karnataka,Bengaluru,Mar-24,14.5,38,26,32,49,9.9,23.9,N,36%,3.6
+Uttar Pradesh,Kanpur,Dec-24,28.5,26,20,23,60,7,18.1,W,73%,4.9
+Gujarat,Ahmedabad,Apr-20,13.9,34,24,29,69,6.5,20,SE,34%,0.9
+Maharashtra,Nashik,Jun-22,0.2,34,29,31.5,63,4.6,5.2,E,52%,4.7
+Uttar Pradesh,Kanpur,Aug-21,269,26,14,20,47,7.5,20.3,NW,75%,1.3
+Maharashtra,Mumbai,Mar-24,2.1,32,20,26,85,8,5.6,SW,13%,4.5
+Karnataka,Mangaluru,Jun-23,245.8,29,22,25.5,80,7,8.7,SW,54%,2.1
+Karnataka,Mysuru,Aug-24,280.6,36,25,30.5,67,4.6,8.3,SE,12%,1.8
+Gujarat,Rajkot,Dec-20,57.8,36,24,30,87,9,8.3,N,70%,4.2
+Maharashtra,Mumbai,Dec-20,55.9,36,25,30.5,48,9.8,20.1,N,54%,1.2
+Karnataka,Mysuru,Mar-24,65.5,41,32,36.5,86,9,14.3,E,81%,0.2
+Maharashtra,Pune,Feb-21,9,33,26,29.5,78,5,6.7,NE,38%,3.7
+Uttar Pradesh,Kanpur,Oct-20,4.8,35,23,29,33,5.7,14.8,SE,61%,0.6
+Gujarat,Ahmedabad,Dec-23,45.5,36,31,33.5,79,8.8,20.2,N,68%,3
+Gujarat,Vadodara,Dec-22,31.3,27,19,23,33,8,24,W,77%,1.5
+Uttar Pradesh,Lucknow,Mar-20,8.7,27,19,23,37,8.5,8.2,E,74%,4.8
+Gujarat,Vadodara,Aug-24,397.1,32,26,29,84,6.1,6.3,SW,74%,3.2
+Maharashtra,Pune,May-24,75.1,37,28,32.5,83,9.2,11.4,NW,52%,2.1
+Gujarat,Surat,Feb-22,64.7,28,18,23,87,5.7,14.3,W,50%,2.5
+Uttar Pradesh,Agra,Jul-24,382.4,38,33,35.5,66,8.9,6.5,NE,17%,3
+Karnataka,Mysuru,Sep-23,132.3,29,18,23.5,43,9.3,20.5,SW,88%,2.5
+Tamil Nadu,Tiruchirappalli,Oct-20,26.2,41,36,38.5,36,8.1,8.2,SE,79%,4.7
+Tamil Nadu,Tiruchirappalli,Mar-22,19.2,35,24,29.5,71,5.4,23.5,NE,44%,3.7
+Tamil Nadu,Tiruchirappalli,Nov-21,47.3,40,32,36,30,7.3,18.9,E,83%,3.7
+Maharashtra,Nagpur,Jun-20,204.6,41,30,35.5,73,6.5,21.5,NE,35%,1.5
+Maharashtra,Nagpur,Jul-24,112.8,33,24,28.5,75,6.5,8.5,SW,82%,2.7
+Gujarat,Vadodara,Jun-22,86.8,34,24,29,68,9.6,14.6,E,55%,2.1
+Tamil Nadu,Tiruchirappalli,Jun-23,45.6,25,15,20,39,7.1,11.3,NW,47%,3.4
+Uttar Pradesh,Kanpur,Nov-20,73.6,29,20,24.5,83,8.3,17.2,E,14%,2.6
+Maharashtra,Nashik,Feb-24,67.9,42,35,38.5,90,9.2,10.2,W,36%,4.6
+Karnataka,Mangaluru,Feb-23,54.1,42,30,36,39,5.9,11,SW,64%,2.8
+Maharashtra,Nagpur,Dec-21,35.5,38,33,35.5,59,5.3,19.9,N,22%,4.1
+Uttar Pradesh,Agra,Jun-21,315.7,40,34,37,88,8.9,24.1,S,26%,1.1
+Tamil Nadu,Madurai,May-24,25.1,37,25,31,67,6.9,22.6,SE,66%,2.1
+Uttar Pradesh,Lucknow,Aug-22,243.3,25,15,20,46,6.9,14.1,SW,44%,3.6
+Tamil Nadu,Tiruchirappalli,Mar-20,15.9,26,20,23,65,5.4,17.5,N,28%,2.6
+Gujarat,Surat,Jun-21,109.8,40,35,37.5,41,9.3,5.1,E,65%,0.6
+Gujarat,Surat,Apr-23,2.8,27,21,24,44,6.5,14.9,E,54%,0.6
+Maharashtra,Nashik,Jul-21,374.5,28,20,24,74,7.7,12.6,NE,39%,4.4
+Uttar Pradesh,Kanpur,Oct-22,77.7,33,27,30,80,8.4,23,NE,52%,3.1
+Gujarat,Surat,Jan-20,25,26,20,23,53,7.4,24,SE,35%,0.8
+Uttar Pradesh,Varanasi,Mar-20,46.1,39,34,36.5,53,4.8,13.5,SW,78%,4
+Uttar Pradesh,Varanasi,Jul-20,32.8,33,25,29,46,4.4,7.3,SE,36%,0.7
+Tamil Nadu,Madurai,Sep-21,146.9,31,24,27.5,78,8.2,5.7,SW,30%,3.7
+Karnataka,Mangaluru,Feb-23,54.1,42,30,36,39,5.9,11,SW,64%,2.8
+Tamil Nadu,Madurai,Apr-20,30.4,30,24,27,77,8.6,23,N,36%,4.5
+Tamil Nadu,Tiruchirappalli,Aug-20,282.8,38,29,33.5,58,5.1,8.1,N,64%,0.2
+Gujarat,Vadodara,Nov-24,48.8,25,20,22.5,83,9.4,20.4,NE,58%,3.1
+Gujarat,Rajkot,Sep-20,208.1,38,26,32,41,9.8,10.3,SE,82%,2.2
+Uttar Pradesh,Lucknow,Jul-20,382,31,24,27.5,30,4.3,20.7,N,15%,5
+Karnataka,Hubli,Jan-20,65.4,35,28,31.5,67,5.8,22.3,E,20%,2.2
+Maharashtra,Mumbai,Jul-23,151.5,26,20,23,63,8.1,12.7,N,17%,2.5
+Uttar Pradesh,Agra,Mar-22,1.5,34,23,28.5,50,8.1,12.9,SE,79%,0.2
+Tamil Nadu,Madurai,Sep-24,336.6,29,20,24.5,53,8.9,5.4,NW,60%,4.9
+Tamil Nadu,Madurai,Jul-22,120.4,28,22,25,36,5.7,9.8,NE,78%,0.8
+Uttar Pradesh,Agra,Feb-22,58,32,23,27.5,33,6.1,5.2,W,62%,4.3
+Tamil Nadu,Tiruchirappalli,Feb-22,1.2,33,28,30.5,59,8,23.3,SE,24%,3.1
+Tamil Nadu,Madurai,Mar-20,27.8,32,25,28.5,40,6.9,11.4,NW,57%,0.1
+Gujarat,Rajkot,Oct-22,70.7,28,19,23.5,34,6.5,14.2,S,86%,4.2
+Karnataka,Mysuru,Feb-21,30.7,42,34,38,45,4.4,14.2,S,33%,3.9
+Tamil Nadu,Coimbatore,Apr-23,18,40,28,34,57,9.4,24,S,57%,0.3
+Maharashtra,Nashik,Dec-24,13.1,26,18,22,69,5.3,8.9,NE,30%,4.8
+Karnataka,Mangaluru,Jan-22,21.2,34,25,29.5,34,8.2,13.2,S,68%,2
+Gujarat,Surat,Dec-21,18.3,31,22,26.5,59,5.8,17.1,NE,67%,2.7
+Karnataka,Hubli,May-24,44.9,37,28,32.5,70,6,15.8,W,84%,2.3
+Karnataka,Mangaluru,Dec-24,47,40,28,34,38,8.2,18.3,SW,53%,2.1
+Karnataka,Hubli,Sep-21,110.2,31,25,28,43,8.1,16.6,S,31%,3.3
+Uttar Pradesh,Agra,Apr-23,13.4,30,25,27.5,62,8.9,6.4,E,64%,1.4
+Tamil Nadu,Tiruchirappalli,Mar-22,19.2,35,24,29.5,71,5.4,23.5,NE,44%,3.7
+Maharashtra,Mumbai,Aug-23,153,41,36,38.5,43,9.7,15.7,W,37%,0.6
+Uttar Pradesh,Varanasi,Oct-21,79.4,31,23,27,47,6.1,9.3,NW,70%,3.8
+Karnataka,Mangaluru,Dec-24,47,40,28,34,38,8.2,18.3,SW,53%,2.1
+Gujarat,Rajkot,Nov-22,9,37,31,34,87,4.1,21.3,W,67%,4
+Uttar Pradesh,Agra,Aug-23,263.8,32,27,29.5,63,7.5,6.7,N,23%,3.5
+Gujarat,Ahmedabad,Mar-20,75,42,31,36.5,69,9.1,21.3,W,70%,0.3
+Maharashtra,Mumbai,Mar-22,11.5,37,31,34,70,7.3,18.5,NE,21%,3
+Tamil Nadu,Madurai,Dec-24,37.8,41,29,35,56,8.8,19.3,NE,72%,2.6
+Tamil Nadu,Tiruchirappalli,Oct-23,23.9,29,19,24,54,7.9,19.7,SW,76%,4
+Uttar Pradesh,Kanpur,Mar-20,22.4,38,31,34.5,74,8.7,12.9,S,60%,0.2
+Karnataka,Mangaluru,Aug-24,384.5,33,28,30.5,59,5.2,11.3,N,66%,4.6
+Maharashtra,Nagpur,Jan-23,23.8,30,20,25,41,4.4,17.1,N,16%,4.3
+Uttar Pradesh,Varanasi,Dec-23,29,27,20,23.5,52,7.3,16.3,S,44%,4.5
+Uttar Pradesh,Agra,Apr-21,12.5,41,30,35.5,84,5.2,8.4,NW,30%,3.1
+Karnataka,Hubli,Aug-20,396.5,40,34,37,74,6.7,23.4,S,39%,2.5
+Karnataka,Hubli,Jan-20,65.4,35,28,31.5,67,5.8,22.3,E,20%,2.2
+Tamil Nadu,Chennai,Nov-23,62.2,31,22,26.5,65,9.6,20.7,W,90%,2.1
+Karnataka,Hubli,Nov-21,0.7,42,37,39.5,62,5.5,14.5,S,19%,1
+Maharashtra,Pune,May-21,38.9,37,32,34.5,49,8.7,11.6,NE,10%,1.5
+Tamil Nadu,Madurai,Jul-21,178.3,27,20,23.5,82,5.2,24.8,W,56%,0.1
+Uttar Pradesh,Agra,Feb-24,30.3,39,27,33,32,8.4,20.6,SE,57%,4
+Uttar Pradesh,Varanasi,Oct-23,22.5,34,27,30.5,83,6.9,12,SW,20%,3.7
+Gujarat,Rajkot,Dec-20,57.8,36,24,30,87,9,8.3,N,70%,4.2
+Gujarat,Rajkot,Aug-23,387.8,29,20,24.5,35,5.9,21.1,NE,64%,0.6
+Karnataka,Mangaluru,Jul-22,136.4,37,32,34.5,83,9,9.4,NW,22%,2.2
+Maharashtra,Mumbai,Mar-24,2.1,32,20,26,85,8,5.6,SW,13%,4.5
+Maharashtra,Pune,Mar-24,16.7,31,26,28.5,36,4.9,16.3,W,83%,1.5
+Karnataka,Mysuru,Jan-23,37.5,42,33,37.5,72,6,19.3,E,16%,4.6
+Maharashtra,Nashik,Feb-20,47.7,32,25,28.5,80,4.6,11.8,NE,52%,3.6
+Gujarat,Surat,Apr-23,2.8,27,21,24,44,6.5,14.9,E,54%,0.6
+Tamil Nadu,Tiruchirappalli,Jul-23,138.2,36,28,32,30,6.9,12.7,N,63%,1.8
+Maharashtra,Pune,Apr-23,13.6,37,27,32,64,9.5,9.9,SE,78%,2.9
+Maharashtra,Pune,Jul-24,354,37,29,33,35,6.3,15,S,33%,2.7
+Karnataka,Mysuru,Jul-22,118.5,34,28,31,33,8.7,13.3,NE,73%,3.6
+Maharashtra,Mumbai,Feb-21,31.5,41,29,35,38,9,11.5,W,70%,1.9
+Gujarat,Vadodara,Oct-20,0.8,31,21,26,31,4.4,19.4,NE,33%,1.1
+Tamil Nadu,Tiruchirappalli,Oct-23,23.9,29,19,24,54,7.9,19.7,SW,76%,4
+Maharashtra,Mumbai,Nov-20,36.6,33,21,27,90,9.6,23,W,10%,0.5
+Maharashtra,Pune,Jun-24,194.8,41,29,35,75,4.5,8.7,W,80%,2.7
+Tamil Nadu,Coimbatore,Aug-20,309.8,27,16,21.5,73,6.9,12.8,N,19%,3.8
+Karnataka,Mangaluru,Sep-21,17.2,37,25,31,71,5.9,21.5,E,28%,5
+Uttar Pradesh,Lucknow,Sep-24,219,35,23,29,69,6.5,5.8,N,54%,1
+Gujarat,Surat,Jan-22,6.5,38,27,32.5,64,5.7,6.6,NE,64%,1.5
+Maharashtra,Nashik,Oct-20,54.1,42,30,36,44,5.8,23.6,NE,89%,1.8
+Karnataka,Mangaluru,Mar-20,15.3,34,22,28,40,6.5,18,SE,61%,4.2
+Tamil Nadu,Tiruchirappalli,Dec-21,64.7,28,22,25,38,7.7,11,N,57%,1.8
+Gujarat,Ahmedabad,Dec-22,30.8,27,18,22.5,66,8,18.5,NE,75%,2.1
+Gujarat,Ahmedabad,May-23,4.9,38,29,33.5,90,4,23.2,NE,61%,4.3
+Gujarat,Ahmedabad,Feb-23,45.2,37,25,31,79,6.9,10.7,S,11%,2.2
+Karnataka,Hubli,Feb-20,78.5,36,24,30,70,5.9,11.9,NW,33%,1.5
+Gujarat,Rajkot,Jan-24,71.1,34,26,30,69,5.2,5.3,NE,44%,1
+Uttar Pradesh,Varanasi,Mar-23,9.3,35,30,32.5,53,7.4,21.1,NE,50%,0.8
+Gujarat,Rajkot,Jun-21,258.5,34,24,29,76,4.2,21.9,W,40%,0.8
+Gujarat,Vadodara,Jan-23,20.8,42,30,36,73,5.1,22.4,SW,38%,1.5
+Tamil Nadu,Tiruchirappalli,Jun-22,144.4,40,29,34.5,42,6.8,9,E,39%,4.3
+Tamil Nadu,Tiruchirappalli,Apr-22,26.6,36,31,33.5,36,7.7,19.8,NE,36%,1.4
+Uttar Pradesh,Kanpur,Jun-23,287.9,28,22,25,59,4.2,16.7,NE,24%,0.1
+Karnataka,Hubli,Jan-24,2,30,21,25.5,88,7.3,15.4,SE,34%,2.9
+Karnataka,Mysuru,Jun-21,155.5,30,18,24,64,6.4,15,S,49%,0.3
+Gujarat,Surat,Apr-23,2.8,27,21,24,44,6.5,14.9,E,54%,0.6
+Tamil Nadu,Madurai,Nov-22,75.1,35,30,32.5,76,7.8,15.1,S,38%,2.8
+Gujarat,Ahmedabad,Sep-23,295.3,38,30,34,82,8.7,21.6,SW,88%,1.4
+Uttar Pradesh,Varanasi,Oct-24,47.1,30,24,27,41,6,15.9,W,12%,3.1
+Gujarat,Surat,Nov-22,65.4,33,21,27,34,8.3,11,SE,38%,1.8
+Gujarat,Ahmedabad,Nov-24,70.9,34,27,30.5,73,9.5,12.6,NW,14%,1.2
+Maharashtra,Nagpur,Oct-23,37.5,33,22,27.5,70,9.4,11.2,E,65%,0.7
+Tamil Nadu,Madurai,Jan-23,40.8,26,17,21.5,34,7.7,14.5,SE,13%,3.7
+Karnataka,Mysuru,Feb-24,18.9,40,31,35.5,62,8.5,23.6,SE,40%,2.4
+Maharashtra,Mumbai,Apr-24,58.6,41,34,37.5,53,4.5,9.7,S,80%,2.7
+Gujarat,Vadodara,Jun-23,318,26,18,22,32,6.1,24.8,NE,82%,4.8
+Tamil Nadu,Coimbatore,Sep-24,217.1,29,19,24,38,5.1,21.8,NW,35%,4.7
+Karnataka,Bengaluru,Jul-22,226.9,32,23,27.5,45,6.5,18.3,NE,21%,2.5
+Karnataka,Mysuru,Mar-24,65.5,41,32,36.5,86,9,14.3,E,81%,0.2
+Gujarat,Rajkot,Jul-22,292.6,41,33,37,51,9.7,14.9,S,44%,0.4
+Uttar Pradesh,Agra,Nov-21,18,37,32,34.5,30,9.2,22.4,SW,69%,3.2
+Karnataka,Bengaluru,Jan-21,50.7,28,23,25.5,45,7.5,11.7,N,76%,0.6
+Gujarat,Rajkot,Apr-21,69.9,41,31,36,75,5.7,14.6,NE,20%,3.4
+Tamil Nadu,Chennai,Feb-24,29.2,26,17,21.5,36,6.7,6.2,NE,13%,2.4
+Tamil Nadu,Coimbatore,May-24,57.8,32,24,28,41,5.3,12.4,E,84%,1.2
+Maharashtra,Nashik,Jan-20,75.1,36,31,33.5,85,5.4,15.3,S,26%,1.7
+Maharashtra,Nashik,Feb-20,47.7,32,25,28.5,80,4.6,11.8,NE,52%,3.6
+Gujarat,Rajkot,Jul-23,396,35,24,29.5,67,8.6,8.4,NE,20%,0.9
+Karnataka,Hubli,May-23,71.9,34,25,29.5,30,4.8,16.3,SE,47%,1.8
+Maharashtra,Nagpur,Jun-24,146.9,27,19,23,68,6.9,24.5,SW,71%,2.3
+Tamil Nadu,Madurai,Sep-24,336.6,29,20,24.5,53,8.9,5.4,NW,60%,4.9
+Tamil Nadu,Coimbatore,Feb-23,65.8,29,24,26.5,86,9.7,17.4,NE,32%,4.7
+Karnataka,Mysuru,Mar-22,78.5,39,28,33.5,90,4.5,20.6,S,56%,4.6
+Karnataka,Bengaluru,Oct-22,50.1,32,20,26,41,9.1,9.7,S,73%,0.8
+Karnataka,Bengaluru,Aug-23,157.5,26,21,23.5,81,8.3,20.5,E,40%,3.7
+Gujarat,Rajkot,Nov-24,26.3,37,31,34,88,7,17.6,E,24%,1.2
+Maharashtra,Pune,May-21,38.9,37,32,34.5,49,8.7,11.6,NE,10%,1.5
+Karnataka,Bengaluru,Oct-21,24.7,34,23,28.5,62,5.6,17.7,W,72%,3.1
+Uttar Pradesh,Agra,Aug-22,276,33,22,27.5,84,4,18.6,SE,11%,4.1
+Uttar Pradesh,Lucknow,Sep-23,346,33,25,29,58,8.3,21.2,NW,64%,3
+Karnataka,Mysuru,Nov-22,72.1,28,23,25.5,82,7.9,12.7,N,17%,2.5
+Karnataka,Mangaluru,Mar-20,15.3,34,22,28,40,6.5,18,SE,61%,4.2
+Uttar Pradesh,Varanasi,Jul-21,344.7,37,25,31,85,4.7,14.5,W,18%,3.4
+Uttar Pradesh,Lucknow,Dec-22,8.6,26,17,21.5,35,6.2,14.8,S,22%,1.2
+Gujarat,Surat,Jun-23,169.2,26,17,21.5,53,7.3,6.9,E,45%,4.4
+Karnataka,Bengaluru,Feb-22,18.5,29,24,26.5,78,8.6,21.9,SW,60%,1.5
+Tamil Nadu,Chennai,Jun-21,360.3,33,23,28,41,8.2,18.1,SW,85%,4
+Karnataka,Bengaluru,Feb-23,71.9,28,20,24,67,4.9,20.4,NE,42%,3.7
+Maharashtra,Pune,Feb-21,9,33,26,29.5,78,5,6.7,NE,38%,3.7
+Maharashtra,Pune,Oct-21,7.3,37,26,31.5,33,6.9,16.6,SW,48%,1
+Tamil Nadu,Coimbatore,Feb-20,52.4,40,28,34,61,6.8,17.9,SE,79%,3.4
+Tamil Nadu,Coimbatore,Jun-23,193.5,36,29,32.5,48,6,13.7,E,24%,3.3
+Tamil Nadu,Coimbatore,Nov-24,50.7,39,30,34.5,36,8.2,17.2,NW,70%,3.8
+Tamil Nadu,Chennai,Mar-24,1.8,28,17,22.5,63,7.6,8.5,E,59%,2.2
+Karnataka,Hubli,Sep-24,187.3,35,28,31.5,72,4.4,12.4,S,12%,2.6
+Karnataka,Mangaluru,Jun-21,101,42,33,37.5,65,8.3,10,E,46%,3.5
+Uttar Pradesh,Kanpur,Mar-24,2.7,41,36,38.5,50,9.9,23.1,W,23%,2.5
+Tamil Nadu,Madurai,Mar-24,20.5,38,31,34.5,70,7.9,5.6,SW,25%,1.7
+Uttar Pradesh,Varanasi,Oct-21,79.4,31,23,27,47,6.1,9.3,NW,70%,3.8
+Tamil Nadu,Chennai,Apr-23,7.6,25,13,19,50,6.1,9.8,W,40%,0.2
+Gujarat,Ahmedabad,Dec-24,63.5,30,25,27.5,49,9.8,7.1,N,58%,2.8
+Gujarat,Vadodara,Sep-21,291.3,33,26,29.5,61,6.6,21,W,19%,5
+Maharashtra,Pune,Dec-20,24.2,42,31,36.5,62,8.1,11.2,NE,41%,3.8
+Uttar Pradesh,Agra,Dec-23,48.5,33,27,30,58,8.2,7.3,E,75%,2.2
+Gujarat,Rajkot,Jul-20,71.6,35,29,32,59,9.8,17,SW,53%,0.1
+Tamil Nadu,Coimbatore,May-20,11.1,32,22,27,43,6.1,11.8,NE,48%,2.9
+Gujarat,Ahmedabad,Feb-24,59,29,19,24,58,7.5,15,NW,58%,3.6
+Uttar Pradesh,Kanpur,Nov-22,67.3,34,22,28,56,5.2,7.8,NE,39%,4.3
+Uttar Pradesh,Varanasi,Jan-23,48.7,36,30,33,75,6.6,20,NE,53%,3
+Uttar Pradesh,Varanasi,Sep-20,380.3,32,23,27.5,67,6.6,16.2,SE,52%,1.9
+Uttar Pradesh,Kanpur,Aug-20,40.7,26,17,21.5,49,4.5,21.2,N,82%,3.3
+Gujarat,Rajkot,Apr-24,58.3,33,22,27.5,55,4.7,22.7,W,62%,2.8
+Uttar Pradesh,Lucknow,Dec-23,11.2,37,26,31.5,33,7.7,18.5,E,67%,3.3
+Uttar Pradesh,Lucknow,Dec-21,11.3,29,18,23.5,86,4.4,10.4,W,41%,5
+Karnataka,Bengaluru,Feb-24,38,32,21,26.5,88,8.4,12.5,E,59%,3.5
+Karnataka,Mysuru,Jan-20,57.9,28,23,25.5,34,9.8,18.3,SE,57%,2.5
+Tamil Nadu,Chennai,Oct-20,42,25,14,19.5,90,7.9,15.6,S,53%,3.3
+Gujarat,Ahmedabad,Mar-20,75,42,31,36.5,69,9.1,21.3,W,70%,0.3
+Tamil Nadu,Chennai,Feb-21,58.7,36,26,31,43,7.9,18.6,N,42%,3
+Uttar Pradesh,Lucknow,Jan-20,47,26,17,21.5,59,8.5,8.6,NE,83%,3.6
+Karnataka,Mysuru,Nov-24,70.2,37,31,34,47,7.3,18.7,N,38%,4
+Tamil Nadu,Madurai,Feb-22,7.4,37,25,31,44,6.9,15.2,SE,64%,0.2
+Maharashtra,Nashik,Oct-23,54.3,39,28,33.5,67,8.1,6.6,NE,48%,4.8
+Maharashtra,Nashik,Dec-22,17,27,19,23,57,8.4,7.2,E,78%,1.4
+Tamil Nadu,Chennai,Sep-20,234.6,36,30,33,65,5.3,8.9,W,39%,3.2
+Gujarat,Rajkot,Jul-24,367.9,25,15,20,52,7.6,22.5,W,13%,1
+Karnataka,Mysuru,Jun-24,387.2,34,27,30.5,51,9.7,11.7,E,20%,3.4
+Maharashtra,Nashik,Jun-20,214.3,33,26,29.5,61,8.6,23.4,NW,38%,4.9
+Gujarat,Ahmedabad,Feb-22,54,42,35,38.5,75,5.2,18,W,15%,3.7
+Uttar Pradesh,Varanasi,Jul-22,171.3,38,26,32,77,8.7,8.7,S,63%,2.4
+Tamil Nadu,Chennai,Apr-21,35.7,36,27,31.5,35,6.6,8.6,NE,26%,3.7
+Gujarat,Vadodara,Jul-23,83.1,29,18,23.5,45,6.7,17,SE,45%,1.8
+Tamil Nadu,Tiruchirappalli,May-23,39.4,41,30,35.5,51,6.2,21.8,NW,65%,5
+Uttar Pradesh,Kanpur,Oct-21,25.1,33,23,28,41,6.7,10.9,W,52%,0.4
+Uttar Pradesh,Lucknow,May-24,30.9,30,23,26.5,89,9.4,24,NW,24%,0.2
+Gujarat,Surat,Feb-21,25.9,38,30,34,78,4.6,11.2,N,46%,4.5
+Karnataka,Hubli,Jan-22,37.2,37,27,32,75,8.4,20.4,W,59%,0.2
+Gujarat,Vadodara,Jul-22,400,27,16,21.5,33,5.3,12,NE,49%,3.1
+Tamil Nadu,Chennai,Sep-24,43.4,41,32,36.5,79,6.2,23.5,SW,43%,3.7
+Maharashtra,Nagpur,Jul-22,71.3,36,30,33,82,8.1,20.2,SE,34%,0.3
+Maharashtra,Mumbai,Jan-22,41.3,26,20,23,48,5.4,11.1,N,18%,2
+Gujarat,Vadodara,Sep-24,360.6,39,34,36.5,85,4.5,8.2,W,10%,3.1
+Karnataka,Bengaluru,Mar-23,31.3,28,17,22.5,58,9.9,9.5,SW,46%,1.3
+Tamil Nadu,Coimbatore,Feb-21,67.5,32,26,29,83,8.5,11.8,SE,68%,4.7
+Tamil Nadu,Chennai,Oct-21,50.4,27,20,23.5,37,6.5,13.9,N,80%,0.7
+Gujarat,Vadodara,Aug-23,198.6,42,35,38.5,71,6,23.6,N,69%,2.4
+Tamil Nadu,Madurai,Jun-22,157.7,40,28,34,70,6,11.5,S,82%,2
+Maharashtra,Mumbai,Dec-24,9.1,31,22,26.5,50,8,22.9,SE,72%,4.1
+Karnataka,Mysuru,Mar-24,65.5,41,32,36.5,86,9,14.3,E,81%,0.2
+Gujarat,Vadodara,Feb-22,45.1,35,24,29.5,34,4.7,19.3,NE,37%,1.2
+Uttar Pradesh,Agra,May-20,5.7,41,33,37,77,7.2,8.6,E,70%,2.8
+Karnataka,Bengaluru,Jan-21,50.7,28,23,25.5,45,7.5,11.7,N,76%,0.6
+Maharashtra,Nashik,Dec-23,19,40,30,35,41,10,24.4,NE,52%,4.8
+Uttar Pradesh,Varanasi,May-20,46.8,42,31,36.5,88,5.1,23.3,E,39%,1.3
+Karnataka,Bengaluru,Apr-24,45.7,28,19,23.5,76,5.1,14,S,51%,3.2
+Maharashtra,Nagpur,May-20,34.4,33,21,27,65,9.6,13.3,E,63%,2
+Tamil Nadu,Madurai,Sep-23,23.9,33,28,30.5,82,6.8,23.8,E,76%,1.5
+Tamil Nadu,Chennai,Dec-23,27.5,39,30,34.5,32,9.8,17.1,S,23%,4.9
+Tamil Nadu,Madurai,May-21,63.4,30,21,25.5,87,8.9,13.9,S,75%,0.1
+Gujarat,Rajkot,Sep-24,35.4,30,24,27,59,9.9,12.7,SE,84%,0
+Maharashtra,Pune,Jan-24,54.4,33,24,28.5,86,4.5,24,N,80%,3.1
+Tamil Nadu,Chennai,Apr-22,6,40,34,37,49,8.2,23.2,SE,56%,3.8
+Karnataka,Mangaluru,Aug-23,271.1,27,18,22.5,48,5,18.8,W,77%,2
+Karnataka,Bengaluru,Oct-22,50.1,32,20,26,41,9.1,9.7,S,73%,0.8
+Gujarat,Vadodara,Apr-21,33,27,15,21,68,8.7,21.9,NE,54%,0.9
+Karnataka,Mangaluru,Jul-23,60.8,40,34,37,88,9.8,21.7,SW,87%,0.9
+Gujarat,Rajkot,Jun-20,102.4,36,30,33,46,9.1,17.2,NE,74%,2.7
+Karnataka,Bengaluru,Dec-20,66.9,33,25,29,68,9,10.1,W,31%,4.4
+Maharashtra,Nagpur,Oct-24,24.6,31,19,25,83,8.2,25,SE,53%,0.5
+Gujarat,Vadodara,Jun-22,86.8,34,24,29,68,9.6,14.6,E,55%,2.1
+Gujarat,Rajkot,Oct-21,34.3,29,21,25,69,4.1,13.2,W,24%,3.4
+Gujarat,Surat,Jul-23,394.6,26,17,21.5,46,9.2,22.8,N,58%,3.1
+Tamil Nadu,Tiruchirappalli,Mar-24,65.9,39,27,33,75,6.1,18.4,W,64%,1.8
+Karnataka,Mangaluru,Apr-20,7.8,31,21,26,54,4.9,24.6,N,73%,3.7
+Gujarat,Vadodara,Feb-23,18.3,37,28,32.5,80,6.7,8.2,SE,12%,0
+Gujarat,Vadodara,May-20,0.9,34,25,29.5,78,5.8,13.1,NW,44%,3.4
+Karnataka,Bengaluru,Jun-21,214,40,32,36,41,5.5,13.6,W,61%,3.2
+Karnataka,Bengaluru,Jun-22,224,39,31,35,54,7.6,19.7,E,70%,1
+Tamil Nadu,Tiruchirappalli,May-20,31.5,36,24,30,71,9,16.2,N,45%,0.7
+Karnataka,Mysuru,Sep-22,116,39,33,36,55,4.1,15,NW,78%,0.3
+Tamil Nadu,Chennai,Oct-23,71,38,26,32,74,9.8,19.6,W,49%,4.7
+Maharashtra,Mumbai,Apr-20,11.4,25,16,20.5,46,6.3,18.5,N,20%,4
+Karnataka,Bengaluru,Mar-21,65.1,37,25,31,30,5.9,11.2,E,65%,2.1
+Tamil Nadu,Coimbatore,Oct-21,46,35,26,30.5,84,6.8,22.8,E,85%,3.8
+Uttar Pradesh,Kanpur,Nov-23,66.8,39,27,33,90,9.9,23.1,S,75%,3.9
+Tamil Nadu,Madurai,Jan-20,43.8,33,27,30,57,6.4,7,W,90%,0.5
+Tamil Nadu,Coimbatore,May-24,57.8,32,24,28,41,5.3,12.4,E,84%,1.2
+Uttar Pradesh,Kanpur,Jun-24,24.1,37,30,33.5,43,7.8,16.8,N,44%,4.7
+Maharashtra,Nashik,Mar-23,21.6,33,24,28.5,34,4.1,19.1,SE,22%,2.8
+Karnataka,Bengaluru,Sep-21,394.6,42,36,39,47,8,12.9,NE,40%,4.6
+Karnataka,Mangaluru,Aug-23,271.1,27,18,22.5,48,5,18.8,W,77%,2
+Gujarat,Ahmedabad,Aug-21,211,36,26,31,84,6.9,24.9,N,50%,1.7
+Karnataka,Hubli,Apr-20,76.5,42,36,39,88,7.8,6.3,S,83%,0.4
+Maharashtra,Mumbai,May-22,24.2,27,18,22.5,90,5.4,15.6,SW,88%,0.7
+Maharashtra,Nashik,Apr-21,57.7,35,25,30,42,5.9,5.7,NE,49%,1.8
+Maharashtra,Nashik,Dec-23,19,40,30,35,41,10,24.4,NE,52%,4.8
+Maharashtra,Mumbai,Jan-20,47.9,31,25,28,87,7.9,24.3,SW,82%,4.1
+Maharashtra,Nagpur,Jul-22,71.3,36,30,33,82,8.1,20.2,SE,34%,0.3
+Gujarat,Rajkot,Aug-21,282.9,36,30,33,50,9.7,5.1,S,37%,3.6
+Uttar Pradesh,Lucknow,Jun-22,257.1,26,18,22,41,5.2,13.7,N,75%,3
+Maharashtra,Pune,Jul-20,84.1,38,31,34.5,75,9.9,5.6,SW,79%,4
+Maharashtra,Nashik,Jun-23,212.2,36,29,32.5,49,4.1,10.6,NW,33%,3.3
+Maharashtra,Nagpur,May-24,59.3,25,14,19.5,30,4.7,15.7,S,80%,1.8
+Gujarat,Vadodara,Nov-24,48.8,25,20,22.5,83,9.4,20.4,NE,58%,3.1
+Karnataka,Mangaluru,Mar-20,15.3,34,22,28,40,6.5,18,SE,61%,4.2
+Tamil Nadu,Tiruchirappalli,Jan-24,41.5,25,15,20,61,7.9,12.9,SW,61%,0.6
+Karnataka,Hubli,Sep-21,110.2,31,25,28,43,8.1,16.6,S,31%,3.3
+Tamil Nadu,Tiruchirappalli,Mar-21,74.4,25,18,21.5,50,5.2,24.4,S,34%,1
+Uttar Pradesh,Varanasi,Aug-20,197.2,39,32,35.5,34,6.5,21.2,E,40%,1.2
+Gujarat,Rajkot,Sep-24,35.4,30,24,27,59,9.9,12.7,SE,84%,0
+Tamil Nadu,Tiruchirappalli,Apr-20,34.2,34,29,31.5,82,6.2,12.3,N,32%,4.9
+Gujarat,Ahmedabad,Aug-24,260.8,28,19,23.5,90,9.9,23.4,W,59%,1.9
+Tamil Nadu,Coimbatore,Apr-21,70.2,35,23,29,48,5.6,7,N,74%,2
+Uttar Pradesh,Varanasi,Oct-22,7.1,29,23,26,56,7.6,15.7,N,37%,0.2
+Tamil Nadu,Coimbatore,Nov-21,15.7,40,35,37.5,78,8.4,16.2,NE,24%,4.8
+Maharashtra,Nagpur,May-21,63.8,27,17,22,43,5.8,24.2,E,50%,0.8
+Maharashtra,Pune,Aug-24,65.2,30,23,26.5,89,7.5,13.8,NW,41%,3.3
+Karnataka,Hubli,Jun-23,372.9,26,17,21.5,76,8.2,23.4,SE,63%,3.7
+Tamil Nadu,Chennai,Mar-22,1.8,38,32,35,39,6.6,24.4,W,30%,1.9
+Gujarat,Surat,Oct-21,26.6,25,13,19,68,7.5,22.3,NW,79%,1.5
+Karnataka,Bengaluru,Oct-23,35.9,27,20,23.5,84,9.3,18.3,NE,44%,0.1
+Maharashtra,Nashik,Nov-23,56.4,39,31,35,86,6.5,12.7,W,20%,1.1
+Karnataka,Bengaluru,Dec-24,30,28,19,23.5,89,4.2,9.5,N,25%,1.1
+Uttar Pradesh,Lucknow,Aug-24,208.2,32,22,27,43,6.4,5.8,SW,28%,1.8
+Maharashtra,Nagpur,Aug-20,134.2,38,32,35,76,8.6,9.1,W,87%,1.7
+Maharashtra,Nagpur,Mar-22,17.3,36,26,31,56,5.9,18.6,W,78%,4.1
+Uttar Pradesh,Lucknow,Apr-21,61.3,42,35,38.5,81,5.5,10.5,N,37%,4.7
+Tamil Nadu,Chennai,Apr-21,35.7,36,27,31.5,35,6.6,8.6,NE,26%,3.7
+Maharashtra,Nashik,Mar-20,76.5,32,25,28.5,33,4.1,10.4,W,17%,3.5
+Karnataka,Mysuru,Jun-24,387.2,34,27,30.5,51,9.7,11.7,E,20%,3.4
+Karnataka,Mangaluru,Dec-22,23.3,27,19,23,41,4,17.4,SE,40%,3.7
+Uttar Pradesh,Varanasi,Aug-21,210.7,27,19,23,53,8.2,22.2,W,57%,4.5
+Maharashtra,Pune,Sep-20,289.6,31,26,28.5,88,8.1,5.4,SE,15%,1.5
+Tamil Nadu,Coimbatore,Jul-21,112.2,42,30,36,36,8,18.7,NE,84%,2.9
+Tamil Nadu,Madurai,Jun-22,157.7,40,28,34,70,6,11.5,S,82%,2
+Uttar Pradesh,Kanpur,Jun-23,287.9,28,22,25,59,4.2,16.7,NE,24%,0.1
+Gujarat,Ahmedabad,Jun-22,263.2,27,15,21,47,6.7,8.2,E,84%,0.2
+Uttar Pradesh,Varanasi,Aug-21,210.7,27,19,23,53,8.2,22.2,W,57%,4.5
+Uttar Pradesh,Varanasi,Oct-21,79.4,31,23,27,47,6.1,9.3,NW,70%,3.8
+Tamil Nadu,Chennai,Sep-20,234.6,36,30,33,65,5.3,8.9,W,39%,3.2
+Karnataka,Mysuru,May-23,66.2,33,24,28.5,87,6.3,21.6,SE,75%,4.6
+Uttar Pradesh,Varanasi,Dec-20,13,37,27,32,69,9.6,24.9,E,30%,0.1
+Uttar Pradesh,Varanasi,Aug-22,176.3,42,37,39.5,34,8.5,18.7,N,42%,2.1
+Maharashtra,Mumbai,May-24,21.6,41,32,36.5,83,5.8,7.7,SE,61%,0.1
+Gujarat,Rajkot,Mar-20,2.8,26,19,22.5,53,7.5,18.2,SW,48%,1.8
+Maharashtra,Mumbai,Feb-21,31.5,41,29,35,38,9,11.5,W,70%,1.9
+Uttar Pradesh,Varanasi,Apr-23,43.8,41,29,35,87,8.6,12.9,S,78%,1.9
+Karnataka,Hubli,May-23,71.9,34,25,29.5,30,4.8,16.3,SE,47%,1.8
+Tamil Nadu,Madurai,Aug-24,165.7,26,19,22.5,90,9.8,15,NW,49%,1.7
+Tamil Nadu,Tiruchirappalli,Oct-20,26.2,41,36,38.5,36,8.1,8.2,SE,79%,4.7
+Karnataka,Mysuru,Nov-21,27.2,30,20,25,44,7.9,8.7,SE,28%,2.2
+Karnataka,Mysuru,May-23,66.2,33,24,28.5,87,6.3,21.6,SE,75%,4.6
+Uttar Pradesh,Agra,Jan-24,78.1,29,18,23.5,83,6,20.3,SE,54%,2.2
+Maharashtra,Nashik,Oct-24,62.5,29,17,23,53,6.4,12.2,N,85%,3.7
+Tamil Nadu,Madurai,Nov-22,75.1,35,30,32.5,76,7.8,15.1,S,38%,2.8
+Gujarat,Rajkot,Sep-22,346.6,25,14,19.5,71,9.6,22.6,W,57%,3.2
+Karnataka,Mangaluru,Nov-24,11.7,40,31,35.5,78,6.2,17.3,E,79%,3
+Karnataka,Bengaluru,Dec-21,3.4,38,29,33.5,54,5.9,15.5,SW,67%,3
+Maharashtra,Nashik,Jul-20,166.4,27,21,24,46,7.1,24.8,NE,33%,4.9
+Gujarat,Rajkot,Aug-24,355.2,42,32,37,89,6.8,18.2,SW,40%,4.1
+Uttar Pradesh,Kanpur,Oct-20,4.8,35,23,29,33,5.7,14.8,SE,61%,0.6
+Karnataka,Mangaluru,Jan-23,22.6,34,27,30.5,62,4.6,5.7,SE,90%,1.4
+Gujarat,Rajkot,May-23,28.9,37,27,32,70,8.9,12.7,E,54%,4.5
+Karnataka,Mangaluru,Aug-22,170.8,36,24,30,67,5.6,6.7,W,84%,1.6
+Tamil Nadu,Chennai,May-23,57.2,41,36,38.5,79,4.8,12.1,NE,43%,0.6
+Maharashtra,Pune,Jun-21,9.6,33,23,28,65,6.2,6,NW,20%,2.4
+Karnataka,Bengaluru,Mar-20,34.2,28,21,24.5,30,6.9,7.2,E,75%,0.3
+Gujarat,Surat,Jun-22,17.5,30,22,26,53,9.1,19.8,SE,85%,1.2
+Karnataka,Hubli,Jan-22,37.2,37,27,32,75,8.4,20.4,W,59%,0.2
+Gujarat,Rajkot,Sep-22,346.6,25,14,19.5,71,9.6,22.6,W,57%,3.2
+Tamil Nadu,Tiruchirappalli,Nov-22,17.4,34,27,30.5,79,4.4,18.3,NE,68%,1.6
+Gujarat,Surat,Aug-22,157,38,27,32.5,33,7.7,19.5,S,24%,0.2
+Maharashtra,Mumbai,Nov-23,2,26,21,23.5,70,9.9,23.7,NE,28%,4.5
+Tamil Nadu,Chennai,May-24,24.5,38,32,35,49,8.6,13.4,W,72%,4.4
+Tamil Nadu,Tiruchirappalli,Feb-20,61.7,30,24,27,77,5.5,16.1,W,41%,3.1
+Maharashtra,Nagpur,Aug-22,323.3,26,21,23.5,47,5.8,9,SE,55%,3.4
+Gujarat,Vadodara,Jul-23,83.1,29,18,23.5,45,6.7,17,SE,45%,1.8
+Tamil Nadu,Tiruchirappalli,Mar-24,65.9,39,27,33,75,6.1,18.4,W,64%,1.8
+Karnataka,Hubli,Jun-24,214.2,41,32,36.5,80,9,23.2,NE,13%,2
+Karnataka,Mysuru,Aug-22,201.6,28,17,22.5,53,5.3,5.3,NE,53%,1.2
+Gujarat,Vadodara,Dec-22,31.3,27,19,23,33,8,24,W,77%,1.5
+Uttar Pradesh,Agra,Sep-21,213.1,41,35,38,60,9,22.2,NW,63%,1.7
+Karnataka,Hubli,Oct-23,57.6,25,17,21,66,6.9,19.7,SE,82%,0.3
+Uttar Pradesh,Lucknow,Mar-24,11.8,27,15,21,30,6.6,8.1,S,52%,2.5
+Gujarat,Ahmedabad,Jul-23,378.7,38,27,32.5,33,6.4,16,E,45%,4.8
+Uttar Pradesh,Varanasi,Dec-24,37.7,40,31,35.5,32,5.9,15.3,SE,62%,2.2
+Maharashtra,Nashik,Jan-22,47.8,39,30,34.5,62,6.6,10,W,41%,3.7
+Karnataka,Mysuru,Oct-23,36.8,36,24,30,60,9.3,18.5,N,20%,4
+Karnataka,Mangaluru,Nov-20,63,35,24,29.5,50,9.3,22.3,W,47%,3.1
+Karnataka,Bengaluru,Jul-23,366,41,31,36,83,5.5,10,S,68%,2.8
+Tamil Nadu,Madurai,Aug-23,243,29,22,25.5,71,4.7,6.1,N,33%,1.4
+Tamil Nadu,Chennai,Jul-20,298.3,39,31,35,82,7.3,22.1,W,81%,1.5
+Gujarat,Rajkot,May-20,18.8,25,17,21,90,6.9,16.1,SW,22%,1.1
+Maharashtra,Nagpur,Feb-22,46.2,27,21,24,77,6.3,12.5,SE,83%,1.3
+Uttar Pradesh,Lucknow,Nov-20,61.6,35,30,32.5,53,8.1,10.2,NW,75%,2.3
+Karnataka,Mangaluru,Oct-24,41.9,35,28,31.5,87,8.9,11.8,E,73%,0.1
+Maharashtra,Nagpur,Jul-21,102.7,38,31,34.5,42,4.3,11.4,SW,24%,3.2
+Karnataka,Mysuru,Nov-24,70.2,37,31,34,47,7.3,18.7,N,38%,4
+Tamil Nadu,Coimbatore,Feb-24,21.2,36,24,30,50,5.3,20.4,SE,76%,0.9
+Tamil Nadu,Chennai,Apr-22,6,40,34,37,49,8.2,23.2,SE,56%,3.8
+Maharashtra,Pune,May-22,22.6,40,31,35.5,72,7.2,19,NW,23%,0.5
+Gujarat,Ahmedabad,May-20,19.9,31,24,27.5,32,8.3,13.5,NE,28%,0.8
+Maharashtra,Mumbai,Apr-23,59.4,39,31,35,55,9.2,6.7,W,89%,1.2
+Uttar Pradesh,Kanpur,Apr-22,78.9,33,28,30.5,48,7.3,5.2,NW,48%,2.6
+Uttar Pradesh,Agra,Aug-21,98.2,39,29,34,88,4.2,18.6,SW,77%,0.3
+Gujarat,Vadodara,Jul-23,83.1,29,18,23.5,45,6.7,17,SE,45%,1.8
+Uttar Pradesh,Lucknow,Apr-23,42.7,40,32,36,51,8.9,5.6,SE,34%,2.9
+Uttar Pradesh,Lucknow,Aug-20,173.6,27,17,22,74,6.7,14.8,NE,24%,0.9
+Uttar Pradesh,Varanasi,Sep-23,322.3,38,29,33.5,35,5.1,23.3,E,34%,1.4
+Karnataka,Bengaluru,Feb-23,71.9,28,20,24,67,4.9,20.4,NE,42%,3.7
+Tamil Nadu,Madurai,Sep-23,23.9,33,28,30.5,82,6.8,23.8,E,76%,1.5
+Maharashtra,Mumbai,Feb-21,31.5,41,29,35,38,9,11.5,W,70%,1.9
+Uttar Pradesh,Kanpur,Dec-23,12.6,35,27,31,68,6.4,18,E,73%,2.9
+Tamil Nadu,Coimbatore,Dec-23,26.8,32,27,29.5,46,4.2,9.3,NE,56%,3.3
+Uttar Pradesh,Lucknow,Jul-22,350.4,28,23,25.5,76,5.5,14.6,SE,81%,4.1
+Karnataka,Mangaluru,Jul-24,112.6,31,25,28,81,5.5,20.5,S,18%,3.5
+Uttar Pradesh,Kanpur,Jul-23,190.7,40,33,36.5,66,8.5,10.1,S,78%,3.4
+Gujarat,Rajkot,Jul-20,71.6,35,29,32,59,9.8,17,SW,53%,0.1
+Maharashtra,Pune,Jul-23,273.6,42,33,37.5,32,7.3,12.9,W,62%,3.6
+Karnataka,Mangaluru,May-24,20.8,41,30,35.5,61,7.1,13.4,E,47%,3.6
+Tamil Nadu,Coimbatore,May-24,57.8,32,24,28,41,5.3,12.4,E,84%,1.2
+Tamil Nadu,Coimbatore,Mar-24,21.7,34,27,30.5,87,7.2,6.8,NW,69%,0.6
+Uttar Pradesh,Kanpur,Jun-24,24.1,37,30,33.5,43,7.8,16.8,N,44%,4.7
+Maharashtra,Nashik,Mar-24,12.2,36,30,33,30,5.8,9.5,NW,24%,2.8
+Maharashtra,Mumbai,Sep-20,391.3,33,24,28.5,60,9.9,15.6,NW,68%,2.1
+Gujarat,Rajkot,Aug-23,387.8,29,20,24.5,35,5.9,21.1,NE,64%,0.6
+Gujarat,Vadodara,Dec-24,11.2,36,26,31,74,6.5,19.4,W,50%,1
+Gujarat,Rajkot,Mar-23,75.1,27,21,24,54,5.3,17.9,S,67%,3.7
+Tamil Nadu,Coimbatore,Apr-21,70.2,35,23,29,48,5.6,7,N,74%,2
+Tamil Nadu,Chennai,Aug-21,317.3,41,30,35.5,37,6.4,9,SW,63%,0.7
+Karnataka,Mysuru,Sep-22,116,39,33,36,55,4.1,15,NW,78%,0.3
+Maharashtra,Mumbai,Nov-24,62.2,34,28,31,51,5,20.6,N,74%,2.3
+Gujarat,Ahmedabad,Sep-20,203,30,23,26.5,87,8.5,8.5,SE,75%,0.2
+Gujarat,Vadodara,Jun-24,132.8,36,29,32.5,60,5.6,10.2,E,90%,2.9
+Tamil Nadu,Chennai,Jan-20,41.4,39,34,36.5,50,7.4,14.7,NE,13%,0.9
+Gujarat,Vadodara,Aug-24,397.1,32,26,29,84,6.1,6.3,SW,74%,3.2
+Gujarat,Rajkot,Jul-21,206.4,26,16,21,49,5.3,19.5,SE,16%,2.5
+Tamil Nadu,Chennai,Jan-20,41.4,39,34,36.5,50,7.4,14.7,NE,13%,0.9
+Gujarat,Rajkot,May-21,3,25,15,20,82,6.9,22.5,NE,56%,2.1
+Tamil Nadu,Coimbatore,Jul-23,156.3,40,28,34,85,8.7,11,SW,18%,4.8
+Gujarat,Ahmedabad,Apr-24,45.5,30,24,27,82,6.4,19.1,E,73%,2.8
+Tamil Nadu,Coimbatore,Apr-21,70.2,35,23,29,48,5.6,7,N,74%,2
+Karnataka,Hubli,Dec-21,10,42,36,39,75,7.1,16.2,W,10%,0.5
+Uttar Pradesh,Kanpur,Apr-24,28,25,15,20,61,6.4,14.7,N,19%,0.5
+Maharashtra,Nagpur,Nov-21,55.1,31,25,28,39,5.3,18.9,E,61%,1.1
+Karnataka,Bengaluru,Dec-23,5.2,39,33,36,55,8.3,10.1,SW,71%,0.3
+Gujarat,Ahmedabad,Jul-20,25.8,36,24,30,76,4.9,21.7,NE,33%,3.9
+Tamil Nadu,Coimbatore,Dec-20,33,39,31,35,79,7.1,21.7,SW,45%,0
+Maharashtra,Mumbai,Oct-22,48,41,32,36.5,38,6.4,17.9,NW,27%,2.4
+Gujarat,Rajkot,Jan-23,11.8,35,26,30.5,61,9.1,8.9,SW,68%,2.6
+Karnataka,Mangaluru,Oct-21,22.5,39,28,33.5,71,6.7,21.4,NW,75%,0.1
+Karnataka,Hubli,Dec-22,63.2,28,19,23.5,65,5.3,11.2,N,86%,2.5
+Tamil Nadu,Tiruchirappalli,May-24,55.7,27,16,21.5,67,4.7,18.6,E,66%,0.6
+Karnataka,Mysuru,Aug-20,96.2,37,30,33.5,82,9,13.4,SE,70%,1.4
+Uttar Pradesh,Agra,Dec-22,26.5,42,30,36,32,5.8,9.8,E,26%,4.4
+Tamil Nadu,Madurai,Oct-24,61,26,16,21,79,5.8,6,NE,45%,4.7
+Tamil Nadu,Coimbatore,Aug-20,309.8,27,16,21.5,73,6.9,12.8,N,19%,3.8
+Karnataka,Mysuru,Nov-23,52.9,32,27,29.5,89,8.3,24.1,NW,58%,0.7
+Karnataka,Hubli,Jun-22,356.5,26,20,23,79,6.9,14.9,S,59%,3.9
+Uttar Pradesh,Varanasi,Apr-22,78.6,25,19,22,85,8.1,17.6,E,43%,3.2
+Uttar Pradesh,Kanpur,May-23,20.1,31,20,25.5,85,5.2,10,SE,55%,4.6
+Maharashtra,Nashik,Aug-23,17.1,28,19,23.5,87,9.4,21.6,SW,62%,4.3
+Karnataka,Mysuru,Oct-24,24.8,29,20,24.5,90,7.9,23,NW,13%,3.7
+Tamil Nadu,Tiruchirappalli,Dec-20,51.9,30,21,25.5,87,5.9,6.4,S,49%,1.8
+Tamil Nadu,Tiruchirappalli,Dec-21,64.7,28,22,25,38,7.7,11,N,57%,1.8
+Karnataka,Bengaluru,Nov-20,35.9,34,23,28.5,34,6.5,24.9,NW,52%,2.8
+Karnataka,Mysuru,Oct-22,44.7,27,16,21.5,63,4.7,12.5,NW,90%,1.5
+Tamil Nadu,Coimbatore,Aug-20,309.8,27,16,21.5,73,6.9,12.8,N,19%,3.8
+Maharashtra,Mumbai,Mar-24,2.1,32,20,26,85,8,5.6,SW,13%,4.5
+Maharashtra,Nashik,Oct-24,62.5,29,17,23,53,6.4,12.2,N,85%,3.7
+Gujarat,Surat,Apr-24,61.6,27,19,23,73,9.5,10,S,52%,1.5
+Tamil Nadu,Coimbatore,Apr-23,18,40,28,34,57,9.4,24,S,57%,0.3
+Maharashtra,Nagpur,Sep-21,88,32,27,29.5,36,6.9,6,SW,53%,0.2
+Tamil Nadu,Tiruchirappalli,Mar-23,32.2,31,19,25,57,5.3,22.1,SE,11%,3.3
+Gujarat,Rajkot,Jun-22,90.6,26,16,21,79,7.6,18.2,W,62%,2.8
+Maharashtra,Nashik,Dec-20,24.1,26,15,20.5,71,8.7,21.1,W,31%,3.3
+Uttar Pradesh,Lucknow,Oct-22,13,28,18,23,55,6.1,5.1,S,68%,4.4
+Maharashtra,Nashik,Jun-20,214.3,33,26,29.5,61,8.6,23.4,NW,38%,4.9
+Uttar Pradesh,Lucknow,Sep-22,4.6,34,26,30,81,7.3,16.7,E,63%,2.3
+Tamil Nadu,Madurai,Oct-20,7.8,37,27,32,47,9.8,14.7,N,10%,1.1
+Tamil Nadu,Madurai,Jun-21,170.3,30,21,25.5,79,10,5.4,NW,89%,4
+Tamil Nadu,Coimbatore,Aug-22,317.7,35,27,31,45,7.3,24.1,N,84%,3.8
+Tamil Nadu,Madurai,Sep-21,146.9,31,24,27.5,78,8.2,5.7,SW,30%,3.7
+Karnataka,Mangaluru,Nov-22,64.5,42,37,39.5,63,8.8,20.8,S,37%,1.3
+Gujarat,Rajkot,Aug-24,355.2,42,32,37,89,6.8,18.2,SW,40%,4.1
+Karnataka,Bengaluru,Jun-24,147.6,26,19,22.5,67,6.7,12.1,NE,32%,1.2
+Uttar Pradesh,Lucknow,Aug-20,173.6,27,17,22,74,6.7,14.8,NE,24%,0.9
+Maharashtra,Pune,Jul-23,273.6,42,33,37.5,32,7.3,12.9,W,62%,3.6
+Maharashtra,Nagpur,Dec-20,42.8,28,19,23.5,74,5.3,17.6,SE,75%,1.9
+Gujarat,Vadodara,Mar-21,38.8,28,16,22,50,9,23.2,NW,31%,2.3
+Gujarat,Surat,May-20,12.5,31,19,25,72,5.4,16.5,NW,21%,0.6
+Uttar Pradesh,Kanpur,Nov-24,63,30,22,26,76,9.5,13.1,SW,42%,1.9
+Maharashtra,Pune,May-20,7.6,34,23,28.5,54,6.8,12.6,SE,69%,2.2
+Tamil Nadu,Madurai,May-24,25.1,37,25,31,67,6.9,22.6,SE,66%,2.1
+Gujarat,Vadodara,Apr-20,68.5,34,29,31.5,38,4.3,8.6,NW,56%,1.2
+Uttar Pradesh,Varanasi,Sep-20,380.3,32,23,27.5,67,6.6,16.2,SE,52%,1.9
+Maharashtra,Pune,Feb-21,9,33,26,29.5,78,5,6.7,NE,38%,3.7
+Gujarat,Surat,Feb-23,44.1,40,29,34.5,44,9,11.7,W,59%,2.2
+Karnataka,Mysuru,Jul-22,118.5,34,28,31,33,8.7,13.3,NE,73%,3.6
+Tamil Nadu,Tiruchirappalli,Apr-21,58.9,26,20,23,54,8,15.4,NE,70%,2.4
+Uttar Pradesh,Lucknow,Oct-20,9.6,42,34,38,35,6.5,20.2,N,73%,1.2
+Gujarat,Ahmedabad,May-22,3,41,34,37.5,32,9.2,11.2,NW,82%,0.7
+Karnataka,Bengaluru,Apr-22,66.1,28,17,22.5,82,9.3,17.7,E,28%,2.2
+Karnataka,Bengaluru,Nov-23,34.3,28,18,23,34,7.1,25,W,34%,1.6
+Tamil Nadu,Madurai,Dec-24,37.8,41,29,35,56,8.8,19.3,NE,72%,2.6
+Uttar Pradesh,Varanasi,Jun-24,133.2,35,25,30,82,7.5,20.4,N,20%,2
+Maharashtra,Nagpur,Jan-20,68.7,27,22,24.5,76,9.4,22.2,W,53%,0
+Uttar Pradesh,Agra,Oct-23,72.7,27,15,21,50,8.5,13,S,86%,2.7
+Tamil Nadu,Chennai,Sep-23,88.4,26,20,23,73,7.3,18.3,W,81%,3.4
+Karnataka,Hubli,Jun-21,21.9,39,34,36.5,55,7.4,21.9,E,63%,2.2
+Gujarat,Rajkot,Mar-22,43.2,36,25,30.5,83,5.3,15.4,S,37%,0.3
+Maharashtra,Nagpur,Jul-21,102.7,38,31,34.5,42,4.3,11.4,SW,24%,3.2
+Karnataka,Mangaluru,Oct-24,41.9,35,28,31.5,87,8.9,11.8,E,73%,0.1
+Gujarat,Ahmedabad,Jul-24,167.7,27,16,21.5,58,4.8,17.2,E,48%,1.9
+Uttar Pradesh,Agra,Jan-23,46.9,34,24,29,58,8.6,8.2,S,22%,1.3
+Karnataka,Bengaluru,Feb-20,59.4,33,23,28,81,8.8,22.3,SW,34%,4.7
+Uttar Pradesh,Lucknow,Oct-24,36.9,31,19,25,77,5.6,7.8,S,49%,3
+Karnataka,Mysuru,Oct-21,70.2,41,33,37,79,8.3,22.2,NE,57%,2.2
+Tamil Nadu,Chennai,May-22,6.9,25,18,21.5,69,7.6,10.4,NE,54%,0.6
+Maharashtra,Pune,Dec-21,25.7,40,31,35.5,85,8.3,15.6,NW,67%,2.7
+Karnataka,Mysuru,Jan-20,57.9,28,23,25.5,34,9.8,18.3,SE,57%,2.5
+Tamil Nadu,Coimbatore,Feb-22,72.6,26,15,20.5,71,6.8,15,NE,64%,3.6
+Maharashtra,Nagpur,Sep-24,64.4,35,28,31.5,38,7.2,23.5,NE,18%,2
+Tamil Nadu,Madurai,Jan-22,30,37,28,32.5,81,5.9,21.1,S,61%,0
+Maharashtra,Mumbai,Dec-21,21.9,26,20,23,34,5.5,8.8,SW,20%,2.3
+Uttar Pradesh,Varanasi,Apr-24,68.1,30,19,24.5,41,4,9,NE,63%,4.1
+Maharashtra,Nagpur,Oct-21,37.7,35,23,29,62,8.6,24.8,NW,70%,4.1
+Gujarat,Surat,Jul-22,223.4,33,24,28.5,49,5.2,16.2,SE,11%,1.5
+Tamil Nadu,Coimbatore,Jun-22,166.4,31,25,28,53,4.4,13.8,NE,34%,1.2
+Tamil Nadu,Madurai,Mar-22,12,39,34,36.5,85,4.7,12.9,SW,73%,2.8
+Tamil Nadu,Chennai,Feb-22,45.6,28,16,22,76,9.5,5.8,SW,89%,0.1
+Maharashtra,Nagpur,Nov-22,40.4,38,26,32,80,4.6,19.8,N,68%,0.6
+Uttar Pradesh,Agra,Aug-20,395.3,41,34,37.5,32,4.1,12.9,N,58%,4.5
+Maharashtra,Nagpur,May-20,34.4,33,21,27,65,9.6,13.3,E,63%,2
+Maharashtra,Pune,Mar-20,7.9,32,24,28,33,6.3,19.1,E,37%,3.8
+Uttar Pradesh,Kanpur,Sep-20,84.7,28,23,25.5,37,5.4,15.2,SE,83%,1
+Uttar Pradesh,Lucknow,Apr-22,11.4,34,28,31,56,5.2,9.3,NE,85%,1.8
+Tamil Nadu,Chennai,Jul-21,382.5,41,32,36.5,40,5.2,22.4,S,20%,0
+Tamil Nadu,Chennai,Nov-22,17,35,23,29,62,9.7,24.2,S,38%,4.8
+Gujarat,Ahmedabad,Aug-20,128.3,30,25,27.5,81,4.3,15.3,W,27%,4.5
+Uttar Pradesh,Kanpur,May-21,31.8,27,19,23,55,8.6,14.8,NW,14%,0.2
+Karnataka,Mangaluru,Nov-23,2.4,32,27,29.5,82,4.7,8.6,SW,38%,2.2
+Tamil Nadu,Tiruchirappalli,Mar-21,74.4,25,18,21.5,50,5.2,24.4,S,34%,1
+Tamil Nadu,Madurai,Oct-21,70.7,25,15,20,80,4.7,21.7,S,40%,1.9
+Maharashtra,Mumbai,Sep-23,373.3,38,32,35,43,8.5,12.4,NE,30%,1.5
+Maharashtra,Pune,Jan-23,53.8,33,28,30.5,65,4,6.9,W,79%,0.2
+Karnataka,Bengaluru,Dec-22,2.3,41,36,38.5,56,5.7,6.5,NE,75%,3.7
+Tamil Nadu,Tiruchirappalli,Oct-24,5.6,38,30,34,83,7.4,17.6,SE,76%,3.8
+Gujarat,Ahmedabad,Feb-24,59,29,19,24,58,7.5,15,NW,58%,3.6
+Maharashtra,Nagpur,Mar-22,17.3,36,26,31,56,5.9,18.6,W,78%,4.1
+Maharashtra,Nashik,Apr-24,4.4,38,27,32.5,52,7,5.1,E,23%,3.7
+Tamil Nadu,Chennai,Dec-21,13.9,42,34,38,77,9.1,21.7,S,79%,4.6
+Uttar Pradesh,Lucknow,Nov-20,61.6,35,30,32.5,53,8.1,10.2,NW,75%,2.3
+Gujarat,Surat,Apr-20,53.7,28,17,22.5,30,6.4,18.4,W,85%,3.8
+Karnataka,Mysuru,Dec-24,75.7,37,26,31.5,68,8.7,15.2,NW,68%,4.7
+Gujarat,Ahmedabad,Jul-23,378.7,38,27,32.5,33,6.4,16,E,45%,4.8
+Gujarat,Rajkot,Oct-23,28.4,26,21,23.5,35,7.4,9.9,E,52%,0.9
+Maharashtra,Mumbai,Mar-23,36.2,35,28,31.5,56,5.1,7.5,W,18%,3.5
+Gujarat,Rajkot,May-22,74.9,32,20,26,33,4.7,12.9,NE,16%,0.6
+Karnataka,Mangaluru,Aug-22,170.8,36,24,30,67,5.6,6.7,W,84%,1.6
+Tamil Nadu,Coimbatore,Jun-21,82.1,25,19,22,32,7,7.9,S,49%,1.8
+Tamil Nadu,Tiruchirappalli,Mar-24,65.9,39,27,33,75,6.1,18.4,W,64%,1.8
+Gujarat,Surat,Apr-21,79.9,29,17,23,41,7.2,9.2,N,35%,1.6
+Karnataka,Bengaluru,Oct-20,29.2,42,31,36.5,49,7.4,20.6,NW,81%,0.1
+Tamil Nadu,Tiruchirappalli,Jan-20,61.7,32,27,29.5,34,7.5,17.5,NW,43%,0.7
+Karnataka,Bengaluru,Feb-22,18.5,29,24,26.5,78,8.6,21.9,SW,60%,1.5
+Maharashtra,Nashik,Jul-23,330.2,27,19,23,50,9.9,18.4,N,10%,2.4
+Gujarat,Rajkot,Jun-21,258.5,34,24,29,76,4.2,21.9,W,40%,0.8
+Maharashtra,Nashik,Jul-23,330.2,27,19,23,50,9.9,18.4,N,10%,2.4
+Karnataka,Mangaluru,Jun-20,231.9,31,22,26.5,57,4.6,9.8,E,90%,4.5
+Karnataka,Mysuru,Sep-24,397.7,25,16,20.5,47,5.3,16.4,SE,63%,2
+Uttar Pradesh,Kanpur,Jul-20,365.4,31,20,25.5,65,7.9,20.9,NE,61%,2.7
+Karnataka,Hubli,Jan-22,37.2,37,27,32,75,8.4,20.4,W,59%,0.2
+Karnataka,Mangaluru,Oct-23,67.4,29,23,26,35,10,12.2,N,19%,3.6
+Gujarat,Ahmedabad,Jan-22,26.9,26,17,21.5,61,7.1,8.1,W,16%,1.7
+Tamil Nadu,Madurai,Mar-22,12,39,34,36.5,85,4.7,12.9,SW,73%,2.8
+Karnataka,Hubli,Mar-22,49.8,30,20,25,33,4.3,9.9,SW,69%,2.7
+Karnataka,Bengaluru,Jan-24,48,35,28,31.5,75,5.3,18.1,NE,38%,1.7
+Karnataka,Mysuru,Feb-23,71.2,33,23,28,56,5.3,10.8,NE,28%,2.4
+Uttar Pradesh,Kanpur,Feb-21,55.9,42,33,37.5,80,8,7.2,SE,83%,4.6
+Maharashtra,Mumbai,Jan-24,34.9,29,17,23,49,6.3,9.2,W,64%,4.8
+Tamil Nadu,Madurai,Sep-22,79.9,28,20,24,81,4.6,12,E,77%,1.3
+Maharashtra,Pune,Apr-20,19.3,31,23,27,90,7.6,17.6,S,29%,0.9
+Tamil Nadu,Coimbatore,Aug-21,361.4,32,21,26.5,61,4.1,6.2,W,30%,2.7
+Tamil Nadu,Madurai,Dec-24,37.8,41,29,35,56,8.8,19.3,NE,72%,2.6
+Gujarat,Rajkot,Jul-23,396,35,24,29.5,67,8.6,8.4,NE,20%,0.9
+Gujarat,Ahmedabad,Apr-20,13.9,34,24,29,69,6.5,20,SE,34%,0.9
+Gujarat,Ahmedabad,Jul-24,167.7,27,16,21.5,58,4.8,17.2,E,48%,1.9
+Uttar Pradesh,Varanasi,Aug-22,176.3,42,37,39.5,34,8.5,18.7,N,42%,2.1
+Uttar Pradesh,Lucknow,Oct-22,13,28,18,23,55,6.1,5.1,S,68%,4.4
+Karnataka,Mangaluru,Sep-23,321,32,20,26,60,7.9,18.3,E,29%,4.7
+Gujarat,Ahmedabad,Sep-20,203,30,23,26.5,87,8.5,8.5,SE,75%,0.2
+Uttar Pradesh,Agra,Aug-24,111.4,40,29,34.5,38,4.6,9.9,W,42%,1.7
+Uttar Pradesh,Kanpur,May-23,20.1,31,20,25.5,85,5.2,10,SE,55%,4.6
+Tamil Nadu,Tiruchirappalli,Sep-23,188.8,30,19,24.5,72,5.2,23.1,S,59%,3
+Karnataka,Hubli,Jan-23,5.9,30,19,24.5,78,6.3,10.9,W,40%,1.8
+Tamil Nadu,Tiruchirappalli,Oct-20,26.2,41,36,38.5,36,8.1,8.2,SE,79%,4.7
+Gujarat,Surat,Mar-21,2.4,39,27,33,37,5.3,8.4,NE,54%,2.7
+Karnataka,Bengaluru,Jun-21,214,40,32,36,41,5.5,13.6,W,61%,3.2
+Maharashtra,Nagpur,Jan-24,0.8,37,31,34,70,5.6,10.4,SW,62%,0.6
+Uttar Pradesh,Lucknow,Apr-24,11,26,18,22,30,5.4,12.7,NE,42%,4.3
+Maharashtra,Mumbai,Nov-20,36.6,33,21,27,90,9.6,23,W,10%,0.5
+Uttar Pradesh,Kanpur,Dec-20,21.7,27,18,22.5,43,7.9,10.6,NE,48%,2.8
+Uttar Pradesh,Agra,Aug-20,395.3,41,34,37.5,32,4.1,12.9,N,58%,4.5
+Tamil Nadu,Coimbatore,Nov-21,15.7,40,35,37.5,78,8.4,16.2,NE,24%,4.8
+Karnataka,Bengaluru,Aug-24,383.6,26,19,22.5,90,6.9,17.6,SW,44%,1.3
+Karnataka,Mysuru,Feb-24,18.9,40,31,35.5,62,8.5,23.6,SE,40%,2.4
+Gujarat,Vadodara,Apr-23,12,26,19,22.5,60,6.4,17.6,SE,59%,3
+Karnataka,Mysuru,Jan-23,37.5,42,33,37.5,72,6,19.3,E,16%,4.6
+Gujarat,Rajkot,Jan-21,1.8,41,31,36,35,6.4,14.4,W,12%,2.4
+Maharashtra,Mumbai,Jan-23,6.4,32,25,28.5,48,6.6,19.6,E,39%,3.7
+Gujarat,Rajkot,May-22,74.9,32,20,26,33,4.7,12.9,NE,16%,0.6
+Maharashtra,Nashik,Oct-23,54.3,39,28,33.5,67,8.1,6.6,NE,48%,4.8
+Tamil Nadu,Tiruchirappalli,Jun-21,8.8,40,35,37.5,39,7.6,11.8,W,27%,0.3
+Maharashtra,Pune,Jun-23,273.1,40,29,34.5,79,6.6,18.1,NE,88%,2.3
+Tamil Nadu,Tiruchirappalli,Aug-24,196.2,29,18,23.5,64,5.6,18.3,S,26%,1.8
+Maharashtra,Nashik,Aug-22,3.8,34,29,31.5,47,5.3,23,W,90%,0.6
+Maharashtra,Nashik,Apr-24,4.4,38,27,32.5,52,7,5.1,E,23%,3.7
+Gujarat,Ahmedabad,Feb-23,45.2,37,25,31,79,6.9,10.7,S,11%,2.2
+Tamil Nadu,Coimbatore,May-23,49.6,41,33,37,35,8,21.7,NW,29%,4.5
+Tamil Nadu,Coimbatore,May-20,11.1,32,22,27,43,6.1,11.8,NE,48%,2.9
+Karnataka,Bengaluru,May-21,65.6,31,25,28,56,5.3,16,W,36%,4.3
+Tamil Nadu,Chennai,Mar-23,31.5,40,35,37.5,88,5.6,13.4,E,65%,1.7
+Karnataka,Bengaluru,Apr-20,69.1,38,29,33.5,57,7.4,18.2,NE,72%,3.1
+Karnataka,Hubli,Jan-23,5.9,30,19,24.5,78,6.3,10.9,W,40%,1.8
+Gujarat,Rajkot,Sep-21,141.2,26,16,21,61,7.4,8.2,SE,24%,4.6
+Gujarat,Vadodara,Mar-23,39.5,31,19,25,56,7.8,13.4,SW,48%,3.1
+Karnataka,Hubli,Jun-20,275.3,34,24,29,65,8.7,6.7,SW,44%,4.5
+Karnataka,Hubli,Jun-20,275.3,34,24,29,65,8.7,6.7,SW,44%,4.5
+Uttar Pradesh,Agra,Oct-21,20.8,40,32,36,56,9.6,9.1,N,74%,0.3
+Karnataka,Hubli,Feb-21,41.8,28,21,24.5,47,8.2,10.6,NW,88%,2
+Maharashtra,Mumbai,May-22,24.2,27,18,22.5,90,5.4,15.6,SW,88%,0.7
+Tamil Nadu,Tiruchirappalli,Mar-24,65.9,39,27,33,75,6.1,18.4,W,64%,1.8
+Tamil Nadu,Madurai,Nov-23,70.5,30,21,25.5,69,6.7,8.6,SW,88%,3
+Maharashtra,Nashik,Dec-21,65.7,31,20,25.5,81,5.4,24.8,N,28%,2.7
+Gujarat,Vadodara,Dec-23,37.5,36,28,32,77,6.9,18.6,NE,64%,0.1
+Gujarat,Vadodara,Sep-20,51.7,29,21,25,62,9.1,13,S,90%,2.1
+Karnataka,Bengaluru,Dec-23,5.2,39,33,36,55,8.3,10.1,SW,71%,0.3
+Maharashtra,Mumbai,Oct-24,28.2,27,20,23.5,30,8.8,15.9,N,26%,3
+Tamil Nadu,Coimbatore,Dec-24,40.2,26,20,23,34,6.6,17.1,NE,90%,1.5
+Maharashtra,Nashik,May-21,63.1,40,31,35.5,83,8.3,8.7,E,27%,1.1
+Tamil Nadu,Chennai,Apr-20,72.3,32,27,29.5,57,7.8,23,SW,66%,4.3
+Gujarat,Rajkot,Dec-22,55.3,32,26,29,33,9,13.4,S,83%,2.5
+Maharashtra,Nashik,May-22,23.7,31,24,27.5,82,7.3,20.8,N,58%,2.8
+Maharashtra,Nashik,Dec-21,65.7,31,20,25.5,81,5.4,24.8,N,28%,2.7
+Gujarat,Ahmedabad,Aug-24,260.8,28,19,23.5,90,9.9,23.4,W,59%,1.9
+Gujarat,Surat,Oct-21,26.6,25,13,19,68,7.5,22.3,NW,79%,1.5
+Tamil Nadu,Tiruchirappalli,Aug-21,280.1,39,28,33.5,86,5.6,13.1,NE,71%,4.4
+Tamil Nadu,Madurai,Feb-21,35.5,32,21,26.5,35,7.3,19.7,W,59%,1.3
+Uttar Pradesh,Varanasi,Mar-21,43.2,34,22,28,86,9.3,19.5,E,45%,0
+Tamil Nadu,Madurai,Jun-24,385.8,35,25,30,81,4.4,6.9,E,29%,0.2
+Maharashtra,Nashik,Feb-23,57.5,30,25,27.5,76,4.9,18.1,W,54%,1.3
+Karnataka,Mangaluru,Nov-22,64.5,42,37,39.5,63,8.8,20.8,S,37%,1.3
+Tamil Nadu,Madurai,Aug-20,111.9,31,22,26.5,90,8.2,15,NW,89%,2.6
+Tamil Nadu,Chennai,Aug-24,115.7,28,21,24.5,45,4.7,7.4,S,27%,3.2
+Karnataka,Mysuru,Jan-23,37.5,42,33,37.5,72,6,19.3,E,16%,4.6
+Uttar Pradesh,Agra,Apr-24,46.9,29,18,23.5,60,5.2,9,NW,71%,3
+Maharashtra,Nagpur,Aug-21,210.4,29,20,24.5,89,5.5,20.6,S,51%,4.6
+Maharashtra,Nagpur,Mar-21,14.4,41,34,37.5,67,6.3,11.4,W,46%,0.3
+Maharashtra,Nagpur,Nov-23,44.3,42,30,36,43,5.6,24.3,SE,47%,2.9
+Tamil Nadu,Coimbatore,Jan-24,44.3,31,22,26.5,56,8.1,22.3,NE,63%,1.6
+Uttar Pradesh,Kanpur,Jul-20,365.4,31,20,25.5,65,7.9,20.9,NE,61%,2.7
+Karnataka,Mysuru,Jul-23,163.8,32,26,29,57,8.4,14.9,W,75%,0.8
+Uttar Pradesh,Kanpur,Jan-24,14.2,32,23,27.5,38,5.9,24.3,N,85%,0.2
+Uttar Pradesh,Kanpur,Jun-21,213.8,34,27,30.5,62,9.5,14.7,W,31%,0.3
+Uttar Pradesh,Varanasi,Aug-20,197.2,39,32,35.5,34,6.5,21.2,E,40%,1.2
+Tamil Nadu,Tiruchirappalli,Jan-20,61.7,32,27,29.5,34,7.5,17.5,NW,43%,0.7
+Maharashtra,Nashik,May-20,49.6,42,35,38.5,30,6.6,23.2,NW,54%,1.8
+Tamil Nadu,Coimbatore,Aug-22,317.7,35,27,31,45,7.3,24.1,N,84%,3.8
+Maharashtra,Mumbai,Dec-22,41.3,35,25,30,62,6.3,8.6,NE,30%,0.7
+Maharashtra,Nagpur,Dec-20,42.8,28,19,23.5,74,5.3,17.6,SE,75%,1.9
+Uttar Pradesh,Lucknow,Jun-22,257.1,26,18,22,41,5.2,13.7,N,75%,3
+Maharashtra,Pune,Jan-24,54.4,33,24,28.5,86,4.5,24,N,80%,3.1
+Tamil Nadu,Tiruchirappalli,Apr-21,58.9,26,20,23,54,8,15.4,NE,70%,2.4
+Karnataka,Mysuru,May-24,8.3,38,26,32,61,9.4,7.4,NW,79%,1.3
+Karnataka,Mysuru,Aug-20,96.2,37,30,33.5,82,9,13.4,SE,70%,1.4
+Uttar Pradesh,Agra,Sep-20,17.2,36,25,30.5,41,4.2,5,SW,87%,4.1
+Gujarat,Rajkot,Aug-21,282.9,36,30,33,50,9.7,5.1,S,37%,3.6
+Tamil Nadu,Coimbatore,Feb-21,67.5,32,26,29,83,8.5,11.8,SE,68%,4.7
+Uttar Pradesh,Varanasi,Nov-22,21.7,35,26,30.5,38,9.7,16.2,NE,52%,1.3
+Maharashtra,Nagpur,Oct-22,36.1,38,29,33.5,42,9.5,19.9,W,62%,0.8
+Karnataka,Bengaluru,Nov-24,7,42,37,39.5,78,9.2,19.4,W,54%,2.1
+Uttar Pradesh,Varanasi,Aug-24,103.9,26,19,22.5,68,4.7,5.2,S,37%,0.9
+Maharashtra,Nashik,Jun-24,395,31,19,25,43,7.9,9,S,79%,4.9
+Tamil Nadu,Madurai,Dec-24,37.8,41,29,35,56,8.8,19.3,NE,72%,2.6
+Maharashtra,Mumbai,Dec-23,38.8,38,30,34,59,6,18,SW,80%,1
+Tamil Nadu,Coimbatore,Nov-20,35.9,34,29,31.5,48,5.4,20.1,E,43%,1.6
+Karnataka,Mysuru,Oct-24,24.8,29,20,24.5,90,7.9,23,NW,13%,3.7
+Gujarat,Surat,Jul-22,223.4,33,24,28.5,49,5.2,16.2,SE,11%,1.5
+Gujarat,Rajkot,Jul-22,292.6,41,33,37,51,9.7,14.9,S,44%,0.4
+Tamil Nadu,Madurai,Oct-21,70.7,25,15,20,80,4.7,21.7,S,40%,1.9
+Gujarat,Rajkot,Nov-22,9,37,31,34,87,4.1,21.3,W,67%,4
+Gujarat,Vadodara,Oct-22,23.3,29,19,24,75,9.1,11.9,NW,54%,3.9
+Karnataka,Mysuru,May-22,54.9,31,26,28.5,43,5.2,13.6,NW,34%,4.1
+Karnataka,Hubli,Nov-21,0.7,42,37,39.5,62,5.5,14.5,S,19%,1
+Maharashtra,Mumbai,Jun-23,204.3,28,20,24,89,9.8,14.5,SE,29%,0.9
+Uttar Pradesh,Kanpur,Dec-21,50.2,29,19,24,45,6.1,7.8,SE,66%,4.1
+Karnataka,Hubli,Jun-20,275.3,34,24,29,65,8.7,6.7,SW,44%,4.5
+Uttar Pradesh,Kanpur,Dec-23,12.6,35,27,31,68,6.4,18,E,73%,2.9
+Karnataka,Mysuru,Nov-23,52.9,32,27,29.5,89,8.3,24.1,NW,58%,0.7
+Uttar Pradesh,Kanpur,Jun-21,213.8,34,27,30.5,62,9.5,14.7,W,31%,0.3
+Uttar Pradesh,Lucknow,Jun-21,230.7,36,27,31.5,46,4.9,19.3,SW,17%,4.8
+Maharashtra,Nashik,Aug-22,3.8,34,29,31.5,47,5.3,23,W,90%,0.6
+Karnataka,Mangaluru,Aug-20,341.8,28,22,25,31,6.6,17.4,SE,79%,2.4
+Uttar Pradesh,Lucknow,Dec-24,13.4,36,31,33.5,86,6.7,7.6,NW,79%,4.9
+Karnataka,Bengaluru,Dec-24,30,28,19,23.5,89,4.2,9.5,N,25%,1.1
+Uttar Pradesh,Kanpur,Oct-22,77.7,33,27,30,80,8.4,23,NE,52%,3.1
+Karnataka,Mysuru,Apr-21,68.4,35,24,29.5,63,4.1,5.4,NW,71%,0.1
+Maharashtra,Pune,Nov-22,13.2,41,36,38.5,84,7.3,19.6,E,86%,0.7
+Uttar Pradesh,Kanpur,May-22,51.3,39,29,34,32,8,11.5,N,38%,2.9
+Tamil Nadu,Madurai,Aug-23,243,29,22,25.5,71,4.7,6.1,N,33%,1.4
+Tamil Nadu,Tiruchirappalli,Jul-20,222.8,31,19,25,36,6.7,18,SW,80%,1.6
+Karnataka,Hubli,Jul-22,165.2,42,37,39.5,76,5.4,15.7,NW,77%,1
+Maharashtra,Mumbai,Dec-23,38.8,38,30,34,59,6,18,SW,80%,1
+Gujarat,Surat,Sep-20,395.1,35,28,31.5,47,6.9,7.2,NW,49%,3.4
+Maharashtra,Mumbai,Jan-21,14.3,31,23,27,85,9.7,13.6,SW,10%,4.9
+Karnataka,Hubli,Jan-22,37.2,37,27,32,75,8.4,20.4,W,59%,0.2
+Gujarat,Vadodara,Oct-23,37.5,27,15,21,54,4.1,6.5,NE,61%,1.8
+Gujarat,Vadodara,May-21,72,30,22,26,90,4.8,13.5,NE,65%,4
+Uttar Pradesh,Lucknow,Oct-23,66.8,41,29,35,88,6.7,10.2,SE,51%,0.2
+Karnataka,Mangaluru,Jun-21,101,42,33,37.5,65,8.3,10,E,46%,3.5
+Maharashtra,Mumbai,Jun-24,287.8,39,34,36.5,42,9.5,21.1,SW,43%,0.8
+Karnataka,Hubli,Apr-21,36.2,27,20,23.5,71,5,17.3,NW,51%,3
+Maharashtra,Nagpur,Dec-20,42.8,28,19,23.5,74,5.3,17.6,SE,75%,1.9
+Maharashtra,Nashik,Dec-22,17,27,19,23,57,8.4,7.2,E,78%,1.4
+Gujarat,Ahmedabad,Nov-22,44.8,31,21,26,34,7,24.5,W,19%,2.5
+Tamil Nadu,Chennai,Sep-21,142.7,40,34,37,63,4.1,16.8,NE,90%,2.9
+Karnataka,Mysuru,Feb-22,23.6,41,30,35.5,83,6.1,15.2,S,34%,4.3
+Maharashtra,Pune,Dec-22,66.6,29,21,25,41,8.8,8.9,W,87%,0.8
+Maharashtra,Nashik,Sep-24,365.8,38,26,32,45,9.8,20.7,SE,21%,2.4
+Karnataka,Mysuru,Sep-22,116,39,33,36,55,4.1,15,NW,78%,0.3
+Gujarat,Surat,Aug-21,134.9,38,30,34,36,8.8,10.3,NE,14%,4.3
+Karnataka,Bengaluru,Jun-24,147.6,26,19,22.5,67,6.7,12.1,NE,32%,1.2
+Tamil Nadu,Madurai,Dec-21,7.3,31,21,26,50,9.8,10.9,SE,78%,2.9
+Maharashtra,Pune,Mar-23,4.2,37,28,32.5,51,5.8,17.9,NW,89%,2.4
+Uttar Pradesh,Varanasi,May-23,69.2,34,24,29,76,7.1,15.3,E,77%,4.6
+Gujarat,Ahmedabad,Aug-22,202.9,29,18,23.5,37,7.1,20.5,W,18%,3.7
+Uttar Pradesh,Lucknow,Feb-21,12,30,18,24,77,4.6,17.3,N,29%,1
+Tamil Nadu,Chennai,Sep-23,88.4,26,20,23,73,7.3,18.3,W,81%,3.4
+Tamil Nadu,Madurai,May-22,40.6,25,19,22,75,9.3,13.9,NW,83%,4.8
+Karnataka,Mangaluru,Mar-24,43.1,26,19,22.5,38,9.2,12.7,E,29%,1.7
+Gujarat,Rajkot,Oct-24,62.1,38,33,35.5,47,4.9,22.1,S,38%,1.6
+Maharashtra,Nagpur,Apr-21,63.9,29,21,25,70,8.9,11.8,SE,75%,4.2
+Uttar Pradesh,Lucknow,Nov-24,6.1,39,33,36,58,9.6,22.1,N,36%,3.9
+Gujarat,Ahmedabad,Jan-24,59,41,33,37,45,8.8,5.6,NW,40%,0.7
+Tamil Nadu,Tiruchirappalli,May-22,15.6,41,36,38.5,58,7.9,15.2,SE,54%,2.2
+Tamil Nadu,Tiruchirappalli,Jan-22,13.2,29,19,24,86,6.9,15.1,SE,76%,1.5
+Uttar Pradesh,Varanasi,May-24,40.1,38,26,32,65,8.9,12.7,W,66%,3.3
+Uttar Pradesh,Varanasi,May-22,54.3,32,24,28,34,8.6,15.5,SW,27%,1.4
+Uttar Pradesh,Kanpur,Oct-23,38.4,26,19,22.5,74,5.5,15.2,E,74%,5
+Gujarat,Ahmedabad,Apr-21,76.6,31,19,25,78,5.5,5.2,NE,70%,3
+Maharashtra,Nashik,Jul-24,236,41,32,36.5,62,8.8,6.8,NE,51%,0.2
+Gujarat,Ahmedabad,Mar-22,9.4,27,21,24,42,9.2,6.6,SW,32%,0.6
+Gujarat,Ahmedabad,Nov-24,70.9,34,27,30.5,73,9.5,12.6,NW,14%,1.2
+Uttar Pradesh,Varanasi,Jan-21,18.6,31,25,28,88,9.4,12.5,W,75%,2.2
+Uttar Pradesh,Varanasi,Aug-23,336.6,25,16,20.5,40,7.7,25,SW,17%,0.2
+Uttar Pradesh,Agra,Oct-24,47.7,36,31,33.5,43,6.5,13,NW,13%,3.3
+Karnataka,Mysuru,May-24,8.3,38,26,32,61,9.4,7.4,NW,79%,1.3
+Uttar Pradesh,Varanasi,Jun-20,391.6,30,23,26.5,63,9.2,24,NE,11%,1.1
+Gujarat,Vadodara,Aug-22,179.3,34,22,28,46,5.4,24.7,S,49%,1.5
+Gujarat,Ahmedabad,Nov-24,70.9,34,27,30.5,73,9.5,12.6,NW,14%,1.2
+Karnataka,Bengaluru,Jul-21,321.8,27,16,21.5,42,9,5.3,NE,29%,0.1
+Tamil Nadu,Tiruchirappalli,May-22,15.6,41,36,38.5,58,7.9,15.2,SE,54%,2.2
+Maharashtra,Mumbai,Jul-20,157.8,33,25,29,90,5.8,19.8,E,54%,2.7
+Tamil Nadu,Madurai,Apr-23,53.5,31,25,28,65,4.1,21,SE,19%,4
+Uttar Pradesh,Kanpur,Nov-22,67.3,34,22,28,56,5.2,7.8,NE,39%,4.3
+Gujarat,Vadodara,Aug-20,122.9,36,26,31,36,6,9.9,SE,23%,2.7
+Karnataka,Hubli,Nov-20,30.9,34,22,28,87,6.6,12.9,N,33%,1.3
+Uttar Pradesh,Kanpur,Jan-20,32.5,34,29,31.5,68,8.1,18.1,NW,40%,2.3
+Gujarat,Vadodara,Mar-20,42.2,39,27,33,35,8.1,16.9,NW,19%,2.1
+Gujarat,Surat,Sep-21,163.3,38,28,33,38,6.7,22,N,23%,2.1
+Maharashtra,Nagpur,May-24,59.3,25,14,19.5,30,4.7,15.7,S,80%,1.8
+Maharashtra,Nashik,Feb-20,47.7,32,25,28.5,80,4.6,11.8,NE,52%,3.6
+Maharashtra,Mumbai,Dec-24,9.1,31,22,26.5,50,8,22.9,SE,72%,4.1
+Tamil Nadu,Chennai,Aug-24,115.7,28,21,24.5,45,4.7,7.4,S,27%,3.2
+Karnataka,Hubli,Dec-23,31.6,37,25,31,58,5.6,9.5,N,43%,4
+Karnataka,Hubli,Jan-23,5.9,30,19,24.5,78,6.3,10.9,W,40%,1.8
+Tamil Nadu,Coimbatore,Aug-23,381.2,42,36,39,56,8.6,10.2,NE,27%,1.2
+Karnataka,Mangaluru,Nov-21,67.1,32,24,28,49,8,16.2,W,22%,5
+Tamil Nadu,Coimbatore,Jan-22,13.9,36,24,30,49,7.7,13.7,E,66%,1.4
+Maharashtra,Nagpur,Dec-23,23.4,40,31,35.5,54,6,6.4,N,18%,4.3
+Maharashtra,Mumbai,Aug-23,153,41,36,38.5,43,9.7,15.7,W,37%,0.6
+Tamil Nadu,Tiruchirappalli,Apr-24,50.8,41,35,38,90,5.2,14.8,N,52%,4.3
+Uttar Pradesh,Kanpur,Dec-20,21.7,27,18,22.5,43,7.9,10.6,NE,48%,2.8
+Tamil Nadu,Madurai,Jun-23,361.4,25,13,19,43,5.1,5.6,NW,73%,3.9
+Uttar Pradesh,Varanasi,May-23,69.2,34,24,29,76,7.1,15.3,E,77%,4.6
+Tamil Nadu,Coimbatore,Aug-22,317.7,35,27,31,45,7.3,24.1,N,84%,3.8
+Tamil Nadu,Tiruchirappalli,Feb-20,61.7,30,24,27,77,5.5,16.1,W,41%,3.1
+Maharashtra,Nashik,Oct-22,17,39,28,33.5,52,4.7,18.5,SE,11%,0.4
+Maharashtra,Nashik,Jun-23,212.2,36,29,32.5,49,4.1,10.6,NW,33%,3.3
+Uttar Pradesh,Kanpur,Jan-22,63.7,40,35,37.5,46,8.7,24.7,W,32%,0.7
+Uttar Pradesh,Agra,Sep-22,262.1,30,22,26,80,4.6,18.7,SE,43%,0.9
+Maharashtra,Pune,Mar-24,16.7,31,26,28.5,36,4.9,16.3,W,83%,1.5
+Maharashtra,Pune,Sep-20,289.6,31,26,28.5,88,8.1,5.4,SE,15%,1.5
+Uttar Pradesh,Kanpur,Jul-20,365.4,31,20,25.5,65,7.9,20.9,NE,61%,2.7
+Uttar Pradesh,Agra,May-20,5.7,41,33,37,77,7.2,8.6,E,70%,2.8
+Uttar Pradesh,Agra,Aug-22,276,33,22,27.5,84,4,18.6,SE,11%,4.1
+Karnataka,Hubli,Dec-24,29.7,31,20,25.5,76,6.8,21.4,W,85%,0.8
+Tamil Nadu,Madurai,Mar-20,27.8,32,25,28.5,40,6.9,11.4,NW,57%,0.1
+Tamil Nadu,Tiruchirappalli,Sep-20,104.6,41,32,36.5,55,7.7,10.4,N,36%,3.6
+Gujarat,Ahmedabad,Jan-23,15.4,30,22,26,77,6.3,15.1,SW,74%,4.3
+Karnataka,Mangaluru,Jun-21,101,42,33,37.5,65,8.3,10,E,46%,3.5
+Maharashtra,Pune,Mar-23,4.2,37,28,32.5,51,5.8,17.9,NW,89%,2.4
+Karnataka,Mangaluru,Sep-21,17.2,37,25,31,71,5.9,21.5,E,28%,5
+Tamil Nadu,Chennai,Nov-22,17,35,23,29,62,9.7,24.2,S,38%,4.8
+Uttar Pradesh,Lucknow,Jul-23,397.2,41,36,38.5,73,5.7,19.6,W,68%,3.6
+Karnataka,Mysuru,Dec-20,47.4,39,28,33.5,66,6.1,24.1,SW,67%,3.6
+Karnataka,Mangaluru,Aug-21,367.6,35,28,31.5,41,9.6,10.6,SE,79%,2.8
+Tamil Nadu,Tiruchirappalli,May-22,15.6,41,36,38.5,58,7.9,15.2,SE,54%,2.2
+Uttar Pradesh,Kanpur,Dec-23,12.6,35,27,31,68,6.4,18,E,73%,2.9
+Tamil Nadu,Madurai,Dec-22,52.1,37,26,31.5,62,8.7,5.6,N,59%,1.7
+Gujarat,Vadodara,Sep-23,79.9,37,31,34,37,8.1,20.9,SE,56%,0.6
+Gujarat,Rajkot,Aug-21,282.9,36,30,33,50,9.7,5.1,S,37%,3.6
+Gujarat,Surat,Jul-20,25.1,35,28,31.5,30,8.1,22.4,S,28%,0.2
+Gujarat,Surat,Dec-23,16.3,38,33,35.5,69,4.9,23.8,SW,54%,3.5
+Maharashtra,Nashik,Jul-21,374.5,28,20,24,74,7.7,12.6,NE,39%,4.4
+Maharashtra,Nagpur,Dec-23,23.4,40,31,35.5,54,6,6.4,N,18%,4.3
+Gujarat,Ahmedabad,Jan-22,26.9,26,17,21.5,61,7.1,8.1,W,16%,1.7
+Tamil Nadu,Madurai,Nov-20,35.2,29,18,23.5,33,6.2,21.5,SW,53%,0.1
+Maharashtra,Mumbai,Oct-22,48,41,32,36.5,38,6.4,17.9,NW,27%,2.4
+Karnataka,Bengaluru,Aug-24,383.6,26,19,22.5,90,6.9,17.6,SW,44%,1.3
+Maharashtra,Nashik,Mar-23,21.6,33,24,28.5,34,4.1,19.1,SE,22%,2.8
+Gujarat,Rajkot,May-22,74.9,32,20,26,33,4.7,12.9,NE,16%,0.6
+Tamil Nadu,Tiruchirappalli,May-20,31.5,36,24,30,71,9,16.2,N,45%,0.7
+Karnataka,Mangaluru,Apr-22,18.8,25,14,19.5,45,5.4,10.6,SE,34%,2.6
+Uttar Pradesh,Varanasi,Dec-22,27,29,20,24.5,40,7.9,24.2,N,80%,1.9
+Tamil Nadu,Madurai,Mar-24,20.5,38,31,34.5,70,7.9,5.6,SW,25%,1.7
+Maharashtra,Pune,Feb-22,11.4,36,30,33,77,4.2,11.2,SE,88%,2.9
+Gujarat,Ahmedabad,Feb-20,79.8,34,27,30.5,47,9.9,16.4,W,67%,1.3
+Maharashtra,Pune,Sep-23,363.7,34,28,31,75,8.2,11.7,E,53%,3.1
+Maharashtra,Nashik,Jul-20,166.4,27,21,24,46,7.1,24.8,NE,33%,4.9
+Tamil Nadu,Coimbatore,Mar-23,33.3,32,22,27,43,4.6,22.4,SW,28%,4.7
+Tamil Nadu,Madurai,Aug-20,111.9,31,22,26.5,90,8.2,15,NW,89%,2.6
+Karnataka,Hubli,Dec-22,63.2,28,19,23.5,65,5.3,11.2,N,86%,2.5
+Uttar Pradesh,Lucknow,Sep-23,346,33,25,29,58,8.3,21.2,NW,64%,3
+Gujarat,Vadodara,Feb-23,18.3,37,28,32.5,80,6.7,8.2,SE,12%,0
+Tamil Nadu,Tiruchirappalli,Sep-24,244.2,37,27,32,64,6.6,12,N,58%,4.3
+Karnataka,Mysuru,Apr-20,53.3,42,31,36.5,75,6.6,9.6,N,16%,3.5
+Uttar Pradesh,Varanasi,Jun-22,32.5,26,17,21.5,75,5.2,17.5,SW,63%,3
+Tamil Nadu,Tiruchirappalli,Jan-24,41.5,25,15,20,61,7.9,12.9,SW,61%,0.6
+Uttar Pradesh,Lucknow,Jan-22,70.9,37,25,31,87,5.4,17.9,NE,56%,2.6
+Uttar Pradesh,Agra,Mar-23,69.1,40,32,36,35,5.3,22.7,SW,60%,3.1
+Tamil Nadu,Madurai,Jan-24,11.8,40,28,34,37,7.7,15.6,NW,32%,2.7
+Tamil Nadu,Tiruchirappalli,Feb-20,61.7,30,24,27,77,5.5,16.1,W,41%,3.1
+Gujarat,Vadodara,Oct-23,37.5,27,15,21,54,4.1,6.5,NE,61%,1.8
+Uttar Pradesh,Agra,Dec-24,43.4,34,29,31.5,69,5.1,20.6,S,17%,1.7
+Gujarat,Vadodara,Apr-24,33.6,28,21,24.5,64,6.1,17.2,S,57%,4.3
+Maharashtra,Nagpur,Jul-22,71.3,36,30,33,82,8.1,20.2,SE,34%,0.3
+Gujarat,Ahmedabad,Aug-20,128.3,30,25,27.5,81,4.3,15.3,W,27%,4.5
+Gujarat,Rajkot,Apr-23,21.2,40,32,36,83,6.9,8.2,SE,90%,1.8
+Gujarat,Rajkot,Oct-22,70.7,28,19,23.5,34,6.5,14.2,S,86%,4.2
+Tamil Nadu,Madurai,Sep-20,82.8,37,28,32.5,63,9.7,21.1,SW,36%,4.6
+Maharashtra,Nagpur,Jul-24,112.8,33,24,28.5,75,6.5,8.5,SW,82%,2.7
+Tamil Nadu,Chennai,Oct-22,59.3,32,27,29.5,39,4.9,9.2,SE,39%,3.5
+Uttar Pradesh,Agra,Mar-20,67.7,29,21,25,79,9.7,21.1,NE,49%,2.1
+Maharashtra,Pune,Nov-23,44.2,32,20,26,38,8,23.2,W,29%,2.6
+Karnataka,Bengaluru,Aug-22,275.5,38,26,32,77,6.7,22.4,E,73%,3.8
+Maharashtra,Pune,May-21,38.9,37,32,34.5,49,8.7,11.6,NE,10%,1.5
+Tamil Nadu,Madurai,Aug-21,133.1,31,23,27,37,7.3,18.5,NE,47%,4.8
+Gujarat,Vadodara,Oct-24,3.9,27,16,21.5,45,7.6,12,NW,41%,3.3
+Gujarat,Ahmedabad,Dec-21,69.9,39,32,35.5,65,8.2,23.1,NW,59%,4.8
+Tamil Nadu,Madurai,Jul-20,334.2,34,28,31,41,8.2,11.7,SE,35%,4.5
+Gujarat,Ahmedabad,May-20,19.9,31,24,27.5,32,8.3,13.5,NE,28%,0.8
+Tamil Nadu,Tiruchirappalli,Sep-24,244.2,37,27,32,64,6.6,12,N,58%,4.3
+Tamil Nadu,Tiruchirappalli,Dec-24,62.2,29,20,24.5,37,8.9,18.2,W,49%,2.4
+Tamil Nadu,Tiruchirappalli,May-22,15.6,41,36,38.5,58,7.9,15.2,SE,54%,2.2
+Gujarat,Rajkot,Nov-23,25,35,30,32.5,88,5.1,17.6,E,54%,4.9
+Maharashtra,Nagpur,Mar-24,61.8,35,26,30.5,32,6.6,10.7,W,43%,0
+Uttar Pradesh,Agra,Mar-24,60.4,33,22,27.5,47,8.4,5.7,NW,45%,2.9
+Karnataka,Mangaluru,Mar-23,24.8,35,27,31,81,5.6,16.9,SW,77%,0
+Gujarat,Rajkot,Mar-21,20,42,32,37,84,4.4,14.7,S,30%,0.2
+Karnataka,Mangaluru,Jun-20,231.9,31,22,26.5,57,4.6,9.8,E,90%,4.5
+Maharashtra,Nagpur,Apr-21,63.9,29,21,25,70,8.9,11.8,SE,75%,4.2
+Gujarat,Vadodara,Dec-20,41.8,29,18,23.5,46,9,17.4,NE,32%,4
+Maharashtra,Pune,Jan-21,58,33,22,27.5,36,6.8,15.3,NW,49%,1.2
+Tamil Nadu,Madurai,Apr-22,28.4,35,23,29,55,5.8,5.1,SW,56%,2.1
+Uttar Pradesh,Varanasi,May-23,69.2,34,24,29,76,7.1,15.3,E,77%,4.6
+Tamil Nadu,Chennai,Feb-23,42.1,42,34,38,45,4.4,20.7,NW,76%,3.4
+Uttar Pradesh,Kanpur,Dec-21,50.2,29,19,24,45,6.1,7.8,SE,66%,4.1
+Gujarat,Vadodara,Mar-24,13.7,27,21,24,59,9.6,19,E,72%,3.6
+Maharashtra,Pune,Mar-21,31.5,33,24,28.5,67,7.1,5.7,E,83%,0.6
+Maharashtra,Pune,Aug-24,65.2,30,23,26.5,89,7.5,13.8,NW,41%,3.3
+Tamil Nadu,Tiruchirappalli,Nov-21,47.3,40,32,36,30,7.3,18.9,E,83%,3.7
+Tamil Nadu,Madurai,Apr-24,63.2,41,31,36,37,6.5,19.6,E,17%,1.4
+Uttar Pradesh,Lucknow,Jul-20,382,31,24,27.5,30,4.3,20.7,N,15%,5
+Maharashtra,Mumbai,Apr-21,43.4,28,19,23.5,39,6.4,14.4,S,55%,3.9
+Gujarat,Vadodara,Jun-23,318,26,18,22,32,6.1,24.8,NE,82%,4.8
+Uttar Pradesh,Lucknow,Mar-23,22.9,35,29,32,72,4.6,5.5,NE,75%,2.7
+Maharashtra,Nagpur,Aug-22,323.3,26,21,23.5,47,5.8,9,SE,55%,3.4
+Gujarat,Ahmedabad,Mar-24,68.6,37,28,32.5,77,6.3,11.7,SE,35%,1.2
+Gujarat,Vadodara,Dec-21,46.8,32,27,29.5,60,9.1,20.4,SE,75%,3.2
+Gujarat,Vadodara,Dec-24,11.2,36,26,31,74,6.5,19.4,W,50%,1
+Tamil Nadu,Coimbatore,Aug-20,309.8,27,16,21.5,73,6.9,12.8,N,19%,3.8
+Karnataka,Mysuru,Jul-24,32.5,33,26,29.5,63,8.4,19.5,N,41%,1.4
+Maharashtra,Mumbai,Mar-20,78.6,38,31,34.5,49,7.5,19.5,SE,15%,2.5
+Maharashtra,Mumbai,Jul-21,283.2,40,29,34.5,54,8.5,23,W,53%,1.8
+Gujarat,Vadodara,Dec-23,37.5,36,28,32,77,6.9,18.6,NE,64%,0.1
+Gujarat,Rajkot,Oct-20,30.2,26,20,23,56,4.9,10.6,SW,40%,3.8
+Uttar Pradesh,Lucknow,Dec-23,11.2,37,26,31.5,33,7.7,18.5,E,67%,3.3
+Karnataka,Mangaluru,Jun-21,101,42,33,37.5,65,8.3,10,E,46%,3.5
+Uttar Pradesh,Agra,Jan-22,21.6,30,21,25.5,59,8.5,7.7,W,43%,1.3
+Maharashtra,Nagpur,Apr-22,74,30,25,27.5,72,7.2,7.8,SW,33%,1.3
+Uttar Pradesh,Kanpur,Mar-23,38.5,28,20,24,81,7.6,9.6,N,16%,0.1
+Gujarat,Vadodara,Jan-21,27.4,28,21,24.5,39,9.3,19.2,NW,57%,3.4
+Maharashtra,Mumbai,Sep-20,391.3,33,24,28.5,60,9.9,15.6,NW,68%,2.1
+Uttar Pradesh,Varanasi,Dec-22,27,29,20,24.5,40,7.9,24.2,N,80%,1.9
+Tamil Nadu,Coimbatore,Jun-22,166.4,31,25,28,53,4.4,13.8,NE,34%,1.2
+Maharashtra,Nagpur,Feb-22,46.2,27,21,24,77,6.3,12.5,SE,83%,1.3
+Karnataka,Bengaluru,Apr-21,68.8,42,31,36.5,43,9.6,20.7,N,29%,1.1
+Uttar Pradesh,Kanpur,Aug-22,199.5,32,26,29,46,9.3,16.8,NW,67%,0.1
+Tamil Nadu,Coimbatore,Oct-24,14.9,25,16,20.5,64,9.1,18.4,NW,60%,1.2
+Karnataka,Mysuru,Oct-21,70.2,41,33,37,79,8.3,22.2,NE,57%,2.2
+Maharashtra,Pune,Dec-22,66.6,29,21,25,41,8.8,8.9,W,87%,0.8
+Tamil Nadu,Tiruchirappalli,Feb-23,65.8,31,19,25,49,9.9,20.9,SE,10%,3.1
+Karnataka,Mysuru,Mar-22,78.5,39,28,33.5,90,4.5,20.6,S,56%,4.6
+Tamil Nadu,Coimbatore,Jun-24,359.8,37,26,31.5,51,8.4,14.3,W,17%,1.4
+Karnataka,Mangaluru,Jul-22,136.4,37,32,34.5,83,9,9.4,NW,22%,2.2
+Maharashtra,Pune,Nov-23,44.2,32,20,26,38,8,23.2,W,29%,2.6
+Uttar Pradesh,Agra,Dec-24,43.4,34,29,31.5,69,5.1,20.6,S,17%,1.7
+Tamil Nadu,Madurai,Sep-22,79.9,28,20,24,81,4.6,12,E,77%,1.3
+Gujarat,Surat,Apr-22,31.9,36,25,30.5,56,6.9,6.8,SW,10%,4.1
+Maharashtra,Nagpur,Sep-20,20.5,37,32,34.5,80,5.9,17.5,S,32%,4.4
+Gujarat,Surat,Apr-21,79.9,29,17,23,41,7.2,9.2,N,35%,1.6
+Karnataka,Mysuru,Oct-23,36.8,36,24,30,60,9.3,18.5,N,20%,4
+Uttar Pradesh,Agra,Dec-22,26.5,42,30,36,32,5.8,9.8,E,26%,4.4
+Karnataka,Mangaluru,Jan-22,21.2,34,25,29.5,34,8.2,13.2,S,68%,2
+Karnataka,Hubli,Oct-24,24.4,36,25,30.5,75,4.9,23.8,NW,11%,3.5
+Tamil Nadu,Tiruchirappalli,May-23,39.4,41,30,35.5,51,6.2,21.8,NW,65%,5
+Karnataka,Mysuru,Nov-21,27.2,30,20,25,44,7.9,8.7,SE,28%,2.2
+Gujarat,Vadodara,Mar-24,13.7,27,21,24,59,9.6,19,E,72%,3.6
+Maharashtra,Mumbai,Jul-23,151.5,26,20,23,63,8.1,12.7,N,17%,2.5
+Uttar Pradesh,Varanasi,Apr-20,29.7,36,28,32,77,7.3,5.5,NE,38%,0.1
+Uttar Pradesh,Kanpur,Jan-21,14.6,28,16,22,71,6,22.4,N,69%,5
+Gujarat,Surat,Apr-20,53.7,28,17,22.5,30,6.4,18.4,W,85%,3.8
+Uttar Pradesh,Agra,Jan-20,37.4,40,33,36.5,72,8.1,22.9,SW,23%,1.9
+Maharashtra,Nashik,Mar-24,12.2,36,30,33,30,5.8,9.5,NW,24%,2.8
+Tamil Nadu,Tiruchirappalli,Jan-21,40.1,30,22,26,72,9.4,9.9,NW,30%,2.7
+Uttar Pradesh,Kanpur,Feb-22,43.9,25,17,21,88,6.7,14.1,SE,15%,2.7
+Uttar Pradesh,Lucknow,Feb-22,74.3,25,16,20.5,40,6.4,6.3,E,64%,2.1
+Maharashtra,Pune,Jan-22,70.2,38,29,33.5,42,5.3,22.7,S,19%,2.2
+Gujarat,Rajkot,Apr-24,58.3,33,22,27.5,55,4.7,22.7,W,62%,2.8
+Uttar Pradesh,Agra,Oct-24,47.7,36,31,33.5,43,6.5,13,NW,13%,3.3
+Maharashtra,Pune,Jul-22,271.5,27,17,22,85,4.5,24.9,SW,26%,1.5
+Karnataka,Bengaluru,Oct-22,50.1,32,20,26,41,9.1,9.7,S,73%,0.8
+Tamil Nadu,Coimbatore,Oct-22,8.9,29,19,24,78,8.3,19,NE,25%,1.3
+Gujarat,Rajkot,Mar-20,2.8,26,19,22.5,53,7.5,18.2,SW,48%,1.8
+Tamil Nadu,Madurai,Sep-21,146.9,31,24,27.5,78,8.2,5.7,SW,30%,3.7
+Gujarat,Surat,Jan-21,56.8,40,29,34.5,70,4.5,20.9,NW,82%,2.4
+Tamil Nadu,Coimbatore,Oct-20,9.9,27,16,21.5,46,8.3,21.8,NW,76%,1
+Tamil Nadu,Chennai,Jan-20,41.4,39,34,36.5,50,7.4,14.7,NE,13%,0.9
+Tamil Nadu,Chennai,Jul-23,378.7,29,18,23.5,36,9.9,22.3,SE,74%,4.5
+Uttar Pradesh,Kanpur,Apr-22,78.9,33,28,30.5,48,7.3,5.2,NW,48%,2.6
+Tamil Nadu,Chennai,Oct-24,79,41,32,36.5,80,7.2,19.1,E,81%,1.9
+Uttar Pradesh,Kanpur,Feb-20,22.8,33,27,30,38,9.6,17.8,NW,42%,2.9
+Gujarat,Ahmedabad,Apr-22,51.2,29,23,26,45,6.6,23.7,S,53%,4.7
+Karnataka,Bengaluru,Nov-22,58,29,20,24.5,87,4.4,14.9,W,42%,2.9
+Maharashtra,Mumbai,Feb-21,31.5,41,29,35,38,9,11.5,W,70%,1.9
+Karnataka,Mysuru,Dec-24,75.7,37,26,31.5,68,8.7,15.2,NW,68%,4.7
+Uttar Pradesh,Lucknow,Jan-23,21.9,29,23,26,56,7.9,17,SW,87%,3.9
+Uttar Pradesh,Agra,Mar-21,27.2,25,14,19.5,74,7.3,14.8,NW,25%,0.4
+Karnataka,Mysuru,Mar-24,65.5,41,32,36.5,86,9,14.3,E,81%,0.2
+Maharashtra,Nashik,Apr-20,11.3,27,16,21.5,73,5.9,15.7,NW,60%,1.8
+Uttar Pradesh,Kanpur,Jan-21,14.6,28,16,22,71,6,22.4,N,69%,5
+Karnataka,Bengaluru,May-20,54.5,32,23,27.5,87,5,17.9,SE,57%,5
+Karnataka,Mangaluru,Mar-24,43.1,26,19,22.5,38,9.2,12.7,E,29%,1.7
+Gujarat,Vadodara,Jun-20,341,32,27,29.5,76,8.6,21.8,N,16%,1.6
+Gujarat,Ahmedabad,Dec-24,63.5,30,25,27.5,49,9.8,7.1,N,58%,2.8
+Karnataka,Mysuru,Jan-20,57.9,28,23,25.5,34,9.8,18.3,SE,57%,2.5
+Maharashtra,Pune,Jul-23,273.6,42,33,37.5,32,7.3,12.9,W,62%,3.6
+Gujarat,Rajkot,Aug-22,30.8,27,16,21.5,55,7.1,21.8,SE,72%,4.4
+Karnataka,Mysuru,Sep-20,166.7,27,17,22,70,6.3,8.6,SE,13%,3.7
+Karnataka,Mysuru,Jul-22,118.5,34,28,31,33,8.7,13.3,NE,73%,3.6
+Maharashtra,Nashik,Apr-22,21.6,27,21,24,77,8.4,13.6,NE,88%,4.5
+Uttar Pradesh,Varanasi,Jun-22,32.5,26,17,21.5,75,5.2,17.5,SW,63%,3
+Uttar Pradesh,Varanasi,Jan-21,18.6,31,25,28,88,9.4,12.5,W,75%,2.2
+Karnataka,Bengaluru,Nov-20,35.9,34,23,28.5,34,6.5,24.9,NW,52%,2.8
+Tamil Nadu,Madurai,Oct-24,61,26,16,21,79,5.8,6,NE,45%,4.7
+Uttar Pradesh,Lucknow,Jun-24,264,40,31,35.5,53,8.6,11.5,S,34%,4.5
+Maharashtra,Nagpur,Sep-21,88,32,27,29.5,36,6.9,6,SW,53%,0.2
+Gujarat,Rajkot,Feb-21,2.7,35,29,32,58,5.1,11.7,SW,65%,2.1
+Uttar Pradesh,Varanasi,Nov-20,63,26,14,20,34,7.7,18.6,W,44%,2.2
+Maharashtra,Mumbai,Oct-24,28.2,27,20,23.5,30,8.8,15.9,N,26%,3
+Tamil Nadu,Coimbatore,Jun-23,193.5,36,29,32.5,48,6,13.7,E,24%,3.3
+Karnataka,Mangaluru,Nov-23,2.4,32,27,29.5,82,4.7,8.6,SW,38%,2.2
+Maharashtra,Mumbai,Apr-22,52.5,42,37,39.5,78,8,12.1,NW,71%,1.5
+Gujarat,Surat,Jul-24,260.4,32,20,26,78,5.2,6.8,N,46%,1.7
+Uttar Pradesh,Agra,Mar-24,60.4,33,22,27.5,47,8.4,5.7,NW,45%,2.9
+Maharashtra,Nagpur,Jul-21,102.7,38,31,34.5,42,4.3,11.4,SW,24%,3.2
+Uttar Pradesh,Lucknow,Feb-24,65.5,35,26,30.5,71,5.7,23.7,NE,41%,1.9
+Tamil Nadu,Coimbatore,Jan-23,23.8,32,22,27,54,4.1,21.4,SW,71%,2.5
+Maharashtra,Mumbai,Dec-24,9.1,31,22,26.5,50,8,22.9,SE,72%,4.1
+Tamil Nadu,Coimbatore,Nov-24,50.7,39,30,34.5,36,8.2,17.2,NW,70%,3.8
+Gujarat,Vadodara,Jul-20,383.1,31,19,25,52,9,10.4,NW,18%,1.2
+Uttar Pradesh,Kanpur,Aug-22,199.5,32,26,29,46,9.3,16.8,NW,67%,0.1
+Karnataka,Mangaluru,Jun-24,282.1,39,33,36,64,4.3,9.9,NW,75%,3.5
+Tamil Nadu,Madurai,Dec-21,7.3,31,21,26,50,9.8,10.9,SE,78%,2.9
+Karnataka,Mysuru,Feb-21,30.7,42,34,38,45,4.4,14.2,S,33%,3.9
+Karnataka,Mangaluru,Sep-23,321,32,20,26,60,7.9,18.3,E,29%,4.7
+Uttar Pradesh,Kanpur,Jun-22,188.8,31,22,26.5,79,9.6,12.4,NE,79%,1.3
+Uttar Pradesh,Varanasi,Dec-24,37.7,40,31,35.5,32,5.9,15.3,SE,62%,2.2
+Karnataka,Mysuru,Sep-23,132.3,29,18,23.5,43,9.3,20.5,SW,88%,2.5
+Tamil Nadu,Madurai,Jun-24,385.8,35,25,30,81,4.4,6.9,E,29%,0.2
+Gujarat,Rajkot,Jan-23,11.8,35,26,30.5,61,9.1,8.9,SW,68%,2.6
+Tamil Nadu,Coimbatore,Jul-22,332.5,42,35,38.5,89,6.1,6.3,SW,12%,4.8
+Karnataka,Mangaluru,Oct-24,41.9,35,28,31.5,87,8.9,11.8,E,73%,0.1
+Maharashtra,Nagpur,Apr-20,60.2,31,22,26.5,71,4.7,21.5,NW,17%,1.1
+Uttar Pradesh,Varanasi,Jun-23,318,33,27,30,80,6,16.2,NW,46%,3.6
+Maharashtra,Mumbai,Jan-22,41.3,26,20,23,48,5.4,11.1,N,18%,2
+Uttar Pradesh,Kanpur,Nov-22,67.3,34,22,28,56,5.2,7.8,NE,39%,4.3
+Uttar Pradesh,Agra,Feb-20,20.3,31,24,27.5,51,8.3,10.3,N,53%,0.2
+Maharashtra,Nashik,Apr-21,57.7,35,25,30,42,5.9,5.7,NE,49%,1.8
+Uttar Pradesh,Kanpur,Aug-21,269,26,14,20,47,7.5,20.3,NW,75%,1.3
+Tamil Nadu,Chennai,Jan-22,15.8,40,29,34.5,38,5,10.8,SW,59%,1.8
+Tamil Nadu,Chennai,Jul-24,296.2,31,22,26.5,81,5.4,15.2,SE,61%,3.3
+Maharashtra,Mumbai,Oct-23,69,31,21,26,79,9.1,5.3,N,52%,4.9
+Uttar Pradesh,Agra,Apr-22,76,28,19,23.5,42,7.7,24,NW,29%,1.9
+Tamil Nadu,Chennai,Jan-24,49,26,16,21,48,7.1,11.6,N,48%,4
+Gujarat,Vadodara,Aug-20,122.9,36,26,31,36,6,9.9,SE,23%,2.7
+Maharashtra,Nagpur,Jul-20,346.4,37,28,32.5,56,7.2,14.9,NE,70%,4.1
+Karnataka,Hubli,Sep-23,391.1,36,26,31,43,7.7,5.3,S,89%,1.3
+Karnataka,Mangaluru,May-24,20.8,41,30,35.5,61,7.1,13.4,E,47%,3.6
+Gujarat,Ahmedabad,Nov-20,14.8,38,26,32,90,9.6,23.8,E,72%,3.7
+Uttar Pradesh,Kanpur,Aug-23,229.1,40,30,35,70,5.9,13.7,E,69%,4.8
+Tamil Nadu,Tiruchirappalli,Sep-23,188.8,30,19,24.5,72,5.2,23.1,S,59%,3
+Uttar Pradesh,Agra,Sep-20,17.2,36,25,30.5,41,4.2,5,SW,87%,4.1
+Maharashtra,Pune,Dec-20,24.2,42,31,36.5,62,8.1,11.2,NE,41%,3.8
+Gujarat,Surat,Jun-23,169.2,26,17,21.5,53,7.3,6.9,E,45%,4.4
+Uttar Pradesh,Kanpur,Oct-20,4.8,35,23,29,33,5.7,14.8,SE,61%,0.6
+Maharashtra,Nagpur,Jul-22,71.3,36,30,33,82,8.1,20.2,SE,34%,0.3
+Gujarat,Rajkot,Oct-23,28.4,26,21,23.5,35,7.4,9.9,E,52%,0.9
+Gujarat,Rajkot,Jan-20,55.1,39,33,36,83,7.7,13.9,SW,31%,2.5
+Maharashtra,Nagpur,Feb-21,60.5,27,21,24,74,7.6,6.9,S,78%,2.4
+Tamil Nadu,Madurai,Aug-21,133.1,31,23,27,37,7.3,18.5,NE,47%,4.8
+Uttar Pradesh,Agra,Jun-20,296,42,34,38,45,5.5,5.7,N,44%,1.5
+Gujarat,Ahmedabad,Nov-20,14.8,38,26,32,90,9.6,23.8,E,72%,3.7
+Karnataka,Bengaluru,Jan-24,48,35,28,31.5,75,5.3,18.1,NE,38%,1.7
+Uttar Pradesh,Varanasi,Mar-23,9.3,35,30,32.5,53,7.4,21.1,NE,50%,0.8
+Karnataka,Hubli,Apr-24,79.2,27,21,24,44,9.9,22.7,NW,90%,1.8
+Tamil Nadu,Coimbatore,Jul-21,112.2,42,30,36,36,8,18.7,NE,84%,2.9
+Karnataka,Bengaluru,Dec-21,3.4,38,29,33.5,54,5.9,15.5,SW,67%,3
+Uttar Pradesh,Agra,Jun-20,296,42,34,38,45,5.5,5.7,N,44%,1.5
+Tamil Nadu,Tiruchirappalli,Oct-20,26.2,41,36,38.5,36,8.1,8.2,SE,79%,4.7
+Tamil Nadu,Coimbatore,Jul-23,156.3,40,28,34,85,8.7,11,SW,18%,4.8
+Maharashtra,Mumbai,May-21,2.5,39,32,35.5,89,6.2,21,NE,71%,1.7
+Tamil Nadu,Tiruchirappalli,Jun-24,65.2,32,23,27.5,50,6.8,8.4,S,65%,1.7
+Uttar Pradesh,Lucknow,Apr-20,29.6,30,21,25.5,53,5.7,17.7,SW,33%,1.8
+Uttar Pradesh,Kanpur,Jul-21,48.6,34,25,29.5,38,6.6,16.1,NE,67%,0.5
+Maharashtra,Pune,Jun-21,9.6,33,23,28,65,6.2,6,NW,20%,2.4
+Karnataka,Mangaluru,Aug-21,367.6,35,28,31.5,41,9.6,10.6,SE,79%,2.8
+Tamil Nadu,Chennai,Dec-24,59.4,36,24,30,37,7.6,7.8,SE,58%,0.4
+Gujarat,Vadodara,Jul-23,83.1,29,18,23.5,45,6.7,17,SE,45%,1.8
+Uttar Pradesh,Agra,Jun-24,145.3,33,23,28,57,8,19.7,SE,81%,2.7
+Tamil Nadu,Madurai,Aug-24,165.7,26,19,22.5,90,9.8,15,NW,49%,1.7
+Gujarat,Vadodara,Oct-21,14,30,20,25,79,5.6,13.5,S,47%,0.4
+Uttar Pradesh,Agra,Nov-20,49.3,26,17,21.5,52,7.5,6.3,SW,41%,3.2
+Maharashtra,Pune,Feb-21,9,33,26,29.5,78,5,6.7,NE,38%,3.7
+Gujarat,Surat,Nov-24,5.3,30,23,26.5,53,8.7,16.6,SW,72%,0.2
+Uttar Pradesh,Agra,Apr-24,46.9,29,18,23.5,60,5.2,9,NW,71%,3
+Uttar Pradesh,Varanasi,Nov-20,63,26,14,20,34,7.7,18.6,W,44%,2.2
+Maharashtra,Nashik,Mar-24,12.2,36,30,33,30,5.8,9.5,NW,24%,2.8
+Tamil Nadu,Madurai,Sep-20,82.8,37,28,32.5,63,9.7,21.1,SW,36%,4.6
+Maharashtra,Nagpur,Jun-20,204.6,41,30,35.5,73,6.5,21.5,NE,35%,1.5
+Tamil Nadu,Tiruchirappalli,Feb-23,65.8,31,19,25,49,9.9,20.9,SE,10%,3.1
+Uttar Pradesh,Lucknow,Nov-20,61.6,35,30,32.5,53,8.1,10.2,NW,75%,2.3
+Tamil Nadu,Madurai,Nov-20,35.2,29,18,23.5,33,6.2,21.5,SW,53%,0.1
+Uttar Pradesh,Kanpur,Aug-22,199.5,32,26,29,46,9.3,16.8,NW,67%,0.1
+Tamil Nadu,Tiruchirappalli,Aug-22,103.1,32,24,28,70,6.7,20,S,65%,0.5
+Maharashtra,Nagpur,Feb-21,60.5,27,21,24,74,7.6,6.9,S,78%,2.4
+Maharashtra,Nashik,Aug-23,17.1,28,19,23.5,87,9.4,21.6,SW,62%,4.3
+Tamil Nadu,Madurai,Apr-23,53.5,31,25,28,65,4.1,21,SE,19%,4
+Uttar Pradesh,Kanpur,Apr-22,78.9,33,28,30.5,48,7.3,5.2,NW,48%,2.6
+Gujarat,Vadodara,Jul-22,400,27,16,21.5,33,5.3,12,NE,49%,3.1
+Maharashtra,Pune,Oct-22,10.7,29,18,23.5,63,5.2,18.4,S,13%,3.5
+Uttar Pradesh,Kanpur,Apr-22,78.9,33,28,30.5,48,7.3,5.2,NW,48%,2.6
+Uttar Pradesh,Kanpur,Sep-22,25.9,29,24,26.5,38,9.6,17.8,S,75%,1.5
+Uttar Pradesh,Lucknow,Apr-24,11,26,18,22,30,5.4,12.7,NE,42%,4.3
+Maharashtra,Nagpur,Jun-20,204.6,41,30,35.5,73,6.5,21.5,NE,35%,1.5
+Tamil Nadu,Tiruchirappalli,Jan-23,44.1,36,28,32,87,5,18.7,W,60%,3.3
+Maharashtra,Nagpur,Jan-22,71,25,20,22.5,33,4.5,18.1,SW,25%,4.1
+Karnataka,Hubli,Sep-23,391.1,36,26,31,43,7.7,5.3,S,89%,1.3
+Karnataka,Mysuru,Jul-21,393.8,40,34,37,51,4.3,17.8,NW,25%,3.6
+Maharashtra,Mumbai,Jan-22,41.3,26,20,23,48,5.4,11.1,N,18%,2
+Maharashtra,Mumbai,May-23,55.1,36,27,31.5,76,5.2,16.9,NE,10%,2.4
+Tamil Nadu,Tiruchirappalli,Feb-22,1.2,33,28,30.5,59,8,23.3,SE,24%,3.1
+Tamil Nadu,Madurai,Nov-20,35.2,29,18,23.5,33,6.2,21.5,SW,53%,0.1
+Gujarat,Ahmedabad,Sep-22,277.6,34,22,28,77,4.1,24.4,E,12%,4.6
+Tamil Nadu,Tiruchirappalli,Sep-20,104.6,41,32,36.5,55,7.7,10.4,N,36%,3.6
+Karnataka,Hubli,Apr-22,49.9,28,17,22.5,86,7.3,16,NE,42%,3.9
+Tamil Nadu,Coimbatore,Nov-23,20.4,28,20,24,77,5.5,9,E,76%,2.8
+Karnataka,Mangaluru,May-21,52.1,39,29,34,90,4.2,18,W,49%,3.8
+Karnataka,Mangaluru,Dec-20,51.5,42,34,38,58,9.6,18.2,S,50%,4.7
+Maharashtra,Nagpur,May-22,79.1,27,18,22.5,64,8.2,22.9,SE,51%,1.6
+Uttar Pradesh,Varanasi,Feb-21,62.7,37,32,34.5,66,4.7,8.7,NE,43%,3.3
+Karnataka,Mysuru,Oct-22,44.7,27,16,21.5,63,4.7,12.5,NW,90%,1.5
+Tamil Nadu,Coimbatore,Aug-24,345.9,41,35,38,69,7.3,24.1,NE,58%,4.9
+Karnataka,Hubli,Feb-23,3.6,26,21,23.5,70,7,6.5,N,74%,0.4
+Uttar Pradesh,Agra,Apr-20,19.5,41,33,37,62,5.3,17,SE,57%,0.2
+Gujarat,Vadodara,Mar-21,38.8,28,16,22,50,9,23.2,NW,31%,2.3
+Tamil Nadu,Chennai,Aug-20,76.3,42,31,36.5,37,9.7,16,E,43%,0.2
+Uttar Pradesh,Kanpur,Dec-21,50.2,29,19,24,45,6.1,7.8,SE,66%,4.1
+Gujarat,Ahmedabad,Mar-21,42.8,25,17,21,48,9.8,22.1,NW,69%,0.1
+Tamil Nadu,Chennai,Aug-22,9.4,39,28,33.5,86,5.8,15.2,W,18%,0.4
+Tamil Nadu,Chennai,Sep-23,88.4,26,20,23,73,7.3,18.3,W,81%,3.4
+Maharashtra,Mumbai,Apr-24,58.6,41,34,37.5,53,4.5,9.7,S,80%,2.7
+Karnataka,Mangaluru,Aug-22,170.8,36,24,30,67,5.6,6.7,W,84%,1.6
+Uttar Pradesh,Varanasi,Jun-20,391.6,30,23,26.5,63,9.2,24,NE,11%,1.1
+Uttar Pradesh,Varanasi,Aug-21,210.7,27,19,23,53,8.2,22.2,W,57%,4.5
+Gujarat,Vadodara,Jul-21,13.8,39,34,36.5,85,7.3,22,S,64%,1.4
+Uttar Pradesh,Lucknow,Jun-23,210.3,40,32,36,63,5.7,17.2,E,55%,3.6
+Maharashtra,Nagpur,Nov-22,40.4,38,26,32,80,4.6,19.8,N,68%,0.6
+Gujarat,Surat,Jul-22,223.4,33,24,28.5,49,5.2,16.2,SE,11%,1.5
+Uttar Pradesh,Lucknow,Jul-21,122.7,41,31,36,90,5.7,17.8,S,72%,3.2
+Gujarat,Rajkot,Oct-21,34.3,29,21,25,69,4.1,13.2,W,24%,3.4
+Karnataka,Mysuru,Sep-20,166.7,27,17,22,70,6.3,8.6,SE,13%,3.7
+Uttar Pradesh,Lucknow,Nov-24,6.1,39,33,36,58,9.6,22.1,N,36%,3.9
+Maharashtra,Nagpur,May-24,59.3,25,14,19.5,30,4.7,15.7,S,80%,1.8
+Gujarat,Rajkot,Mar-22,43.2,36,25,30.5,83,5.3,15.4,S,37%,0.3
+Tamil Nadu,Coimbatore,Nov-21,15.7,40,35,37.5,78,8.4,16.2,NE,24%,4.8
+Maharashtra,Pune,Mar-24,16.7,31,26,28.5,36,4.9,16.3,W,83%,1.5
+Uttar Pradesh,Agra,Mar-22,1.5,34,23,28.5,50,8.1,12.9,SE,79%,0.2
+Uttar Pradesh,Varanasi,Jul-23,186.7,41,31,36,50,8.2,5.8,SE,34%,0
+Uttar Pradesh,Agra,Dec-24,43.4,34,29,31.5,69,5.1,20.6,S,17%,1.7
+Uttar Pradesh,Kanpur,Mar-24,2.7,41,36,38.5,50,9.9,23.1,W,23%,2.5
+Uttar Pradesh,Varanasi,Apr-21,79.6,40,30,35,37,7.3,7.1,S,57%,1.7
+Karnataka,Bengaluru,Apr-24,45.7,28,19,23.5,76,5.1,14,S,51%,3.2
+Tamil Nadu,Chennai,Apr-22,6,40,34,37,49,8.2,23.2,SE,56%,3.8
+Maharashtra,Mumbai,Aug-24,91.7,32,26,29,65,5.4,22.1,NE,31%,3.7
+Maharashtra,Mumbai,Jun-23,204.3,28,20,24,89,9.8,14.5,SE,29%,0.9
+Tamil Nadu,Coimbatore,Oct-24,14.9,25,16,20.5,64,9.1,18.4,NW,60%,1.2
+Maharashtra,Nashik,May-22,23.7,31,24,27.5,82,7.3,20.8,N,58%,2.8
+Karnataka,Mangaluru,Aug-20,341.8,28,22,25,31,6.6,17.4,SE,79%,2.4
+Tamil Nadu,Madurai,Jun-23,361.4,25,13,19,43,5.1,5.6,NW,73%,3.9
+Maharashtra,Nashik,Jan-20,75.1,36,31,33.5,85,5.4,15.3,S,26%,1.7
+Tamil Nadu,Tiruchirappalli,Oct-22,79.2,39,30,34.5,50,4.7,19.7,SE,44%,3.4
+Gujarat,Vadodara,Nov-24,48.8,25,20,22.5,83,9.4,20.4,NE,58%,3.1
+Karnataka,Mysuru,Dec-21,18.4,34,26,30,71,4.3,15.7,W,10%,3.6
+Uttar Pradesh,Varanasi,Nov-23,32.2,26,17,21.5,85,9.5,15.4,N,70%,3.1
+Maharashtra,Mumbai,Mar-23,36.2,35,28,31.5,56,5.1,7.5,W,18%,3.5
+Maharashtra,Mumbai,Oct-20,18.1,30,21,25.5,85,9.6,11.9,S,24%,4.4
+Tamil Nadu,Madurai,May-20,48.9,32,26,29,83,9.2,6.2,N,33%,1.7
+Tamil Nadu,Madurai,Sep-21,146.9,31,24,27.5,78,8.2,5.7,SW,30%,3.7
+Karnataka,Hubli,Apr-20,76.5,42,36,39,88,7.8,6.3,S,83%,0.4
+Uttar Pradesh,Kanpur,Aug-21,269,26,14,20,47,7.5,20.3,NW,75%,1.3
+Uttar Pradesh,Lucknow,Apr-23,42.7,40,32,36,51,8.9,5.6,SE,34%,2.9
+Maharashtra,Mumbai,Sep-22,341.9,37,32,34.5,40,8,18.9,NE,84%,3.7
+Tamil Nadu,Madurai,Nov-21,2.2,27,15,21,87,9.8,13.4,NW,30%,0.1
+Gujarat,Rajkot,Apr-21,69.9,41,31,36,75,5.7,14.6,NE,20%,3.4
+Uttar Pradesh,Kanpur,Apr-24,28,25,15,20,61,6.4,14.7,N,19%,0.5
+Tamil Nadu,Tiruchirappalli,Oct-22,79.2,39,30,34.5,50,4.7,19.7,SE,44%,3.4
+Maharashtra,Nagpur,Sep-22,307.4,41,31,36,89,8.2,12.3,SW,49%,3.3
+Tamil Nadu,Chennai,Jan-20,41.4,39,34,36.5,50,7.4,14.7,NE,13%,0.9
+Uttar Pradesh,Kanpur,Feb-21,55.9,42,33,37.5,80,8,7.2,SE,83%,4.6
+Tamil Nadu,Tiruchirappalli,Jul-23,138.2,36,28,32,30,6.9,12.7,N,63%,1.8
+Gujarat,Vadodara,Jul-21,13.8,39,34,36.5,85,7.3,22,S,64%,1.4
+Karnataka,Mangaluru,Feb-20,37.8,27,16,21.5,43,4.4,5.5,NW,65%,2.1
+Maharashtra,Mumbai,Mar-20,78.6,38,31,34.5,49,7.5,19.5,SE,15%,2.5
+Gujarat,Rajkot,Jan-23,11.8,35,26,30.5,61,9.1,8.9,SW,68%,2.6
+Maharashtra,Pune,Jun-24,194.8,41,29,35,75,4.5,8.7,W,80%,2.7
+Maharashtra,Pune,Jun-20,239.6,37,30,33.5,74,5,19.8,S,68%,1
+Maharashtra,Nagpur,Feb-21,60.5,27,21,24,74,7.6,6.9,S,78%,2.4
+Tamil Nadu,Madurai,Apr-21,29.2,36,30,33,65,8.3,15.1,N,24%,4.9
+Uttar Pradesh,Agra,Mar-20,67.7,29,21,25,79,9.7,21.1,NE,49%,2.1
+Karnataka,Mangaluru,Oct-23,67.4,29,23,26,35,10,12.2,N,19%,3.6
+Uttar Pradesh,Kanpur,Jan-20,32.5,34,29,31.5,68,8.1,18.1,NW,40%,2.3
+Karnataka,Hubli,Jan-20,65.4,35,28,31.5,67,5.8,22.3,E,20%,2.2
+Gujarat,Rajkot,Apr-22,78.8,33,26,29.5,55,8.1,14.3,W,54%,3.5
+Gujarat,Rajkot,Apr-23,21.2,40,32,36,83,6.9,8.2,SE,90%,1.8
+Maharashtra,Mumbai,May-20,46.3,32,20,26,77,4.3,16.8,NE,56%,4.4
+Tamil Nadu,Tiruchirappalli,Jul-22,197.4,33,28,30.5,57,6.1,21.4,N,56%,4.6
+Gujarat,Surat,Sep-23,377.1,25,18,21.5,56,4,14,S,82%,1
+Uttar Pradesh,Varanasi,Dec-20,13,37,27,32,69,9.6,24.9,E,30%,0.1
+Tamil Nadu,Coimbatore,Feb-23,65.8,29,24,26.5,86,9.7,17.4,NE,32%,4.7
+Uttar Pradesh,Varanasi,Feb-24,62.5,40,34,37,34,7.7,7.6,SW,30%,2.9
+Tamil Nadu,Tiruchirappalli,Jun-22,144.4,40,29,34.5,42,6.8,9,E,39%,4.3
+Gujarat,Vadodara,Mar-21,38.8,28,16,22,50,9,23.2,NW,31%,2.3
+Uttar Pradesh,Kanpur,Jan-21,14.6,28,16,22,71,6,22.4,N,69%,5
+Maharashtra,Nagpur,Jun-21,99.9,28,23,25.5,67,6.7,8.5,SE,59%,4.7
+Uttar Pradesh,Kanpur,Apr-21,60.4,29,20,24.5,82,8.9,22.2,W,87%,1.6
+Maharashtra,Nashik,Jan-23,33.8,38,30,34,76,9.9,20.2,N,50%,4.5
+Karnataka,Hubli,Aug-22,281.6,37,31,34,75,5.1,22.2,N,74%,2.9
+Karnataka,Mysuru,Apr-20,53.3,42,31,36.5,75,6.6,9.6,N,16%,3.5
+Tamil Nadu,Chennai,Apr-20,72.3,32,27,29.5,57,7.8,23,SW,66%,4.3
+Uttar Pradesh,Lucknow,Jul-21,122.7,41,31,36,90,5.7,17.8,S,72%,3.2
+Maharashtra,Nashik,Sep-21,344.9,29,24,26.5,39,6.8,23.7,SE,84%,3.6
+Maharashtra,Nagpur,Jul-23,364.4,38,29,33.5,90,7.9,13.5,E,54%,4
+Maharashtra,Nagpur,Apr-24,61.8,37,28,32.5,56,6.5,19.6,E,62%,2.2
+Gujarat,Vadodara,Apr-20,68.5,34,29,31.5,38,4.3,8.6,NW,56%,1.2
+Tamil Nadu,Chennai,Feb-23,42.1,42,34,38,45,4.4,20.7,NW,76%,3.4
+Uttar Pradesh,Lucknow,Sep-20,226.1,38,28,33,48,8.9,10.3,SE,14%,4
+Maharashtra,Nagpur,Sep-24,64.4,35,28,31.5,38,7.2,23.5,NE,18%,2
+Gujarat,Ahmedabad,Dec-20,31.9,28,19,23.5,62,7.9,13.8,SW,37%,3
+Karnataka,Mangaluru,Dec-20,51.5,42,34,38,58,9.6,18.2,S,50%,4.7
+Gujarat,Vadodara,Jun-23,318,26,18,22,32,6.1,24.8,NE,82%,4.8
+Gujarat,Surat,Jan-21,56.8,40,29,34.5,70,4.5,20.9,NW,82%,2.4
+Maharashtra,Pune,Oct-23,17.1,41,29,35,35,5.6,12.2,W,61%,0.5
+Maharashtra,Pune,Feb-21,9,33,26,29.5,78,5,6.7,NE,38%,3.7
+Gujarat,Surat,May-21,29.8,42,35,38.5,54,7.9,8.1,E,21%,3.2
+Karnataka,Hubli,May-24,44.9,37,28,32.5,70,6,15.8,W,84%,2.3
+Karnataka,Mangaluru,Apr-21,69.3,38,30,34,55,5.3,15.1,NW,29%,4.4
+Gujarat,Rajkot,Jan-22,43.2,32,25,28.5,60,4.5,13.4,S,16%,0.1
+Tamil Nadu,Coimbatore,Sep-21,288.9,28,23,25.5,54,4.4,10.4,NW,64%,1.1
+Karnataka,Mangaluru,Apr-20,7.8,31,21,26,54,4.9,24.6,N,73%,3.7
+Gujarat,Ahmedabad,Jun-23,287,39,29,34,87,8.2,10.5,E,24%,2.8
+Maharashtra,Nagpur,Jun-22,231.9,36,29,32.5,42,9.8,13.5,SE,84%,0.3
+Karnataka,Bengaluru,Oct-21,24.7,34,23,28.5,62,5.6,17.7,W,72%,3.1
+Tamil Nadu,Coimbatore,Sep-20,142.6,29,19,24,51,7.4,9.2,S,50%,2.6
+Uttar Pradesh,Varanasi,Jun-21,387.8,34,23,28.5,77,9.2,14.6,E,27%,3.8
+Tamil Nadu,Chennai,Apr-23,7.6,25,13,19,50,6.1,9.8,W,40%,0.2
+Gujarat,Surat,Aug-24,296,35,30,32.5,61,5,24,SE,90%,5
+Tamil Nadu,Chennai,May-24,24.5,38,32,35,49,8.6,13.4,W,72%,4.4
+Uttar Pradesh,Kanpur,Apr-22,78.9,33,28,30.5,48,7.3,5.2,NW,48%,2.6
+Gujarat,Surat,Dec-22,69.1,26,15,20.5,76,6,20.8,S,63%,3.2
+Tamil Nadu,Coimbatore,Sep-21,288.9,28,23,25.5,54,4.4,10.4,NW,64%,1.1
+Karnataka,Bengaluru,Jul-22,226.9,32,23,27.5,45,6.5,18.3,NE,21%,2.5
+Uttar Pradesh,Agra,Apr-24,46.9,29,18,23.5,60,5.2,9,NW,71%,3
+Maharashtra,Nashik,Nov-21,8.4,30,25,27.5,60,4.5,16.2,S,65%,2.2
+Uttar Pradesh,Lucknow,Jul-24,16.8,37,32,34.5,85,6.1,18.1,N,81%,0.7
+Tamil Nadu,Chennai,Apr-23,7.6,25,13,19,50,6.1,9.8,W,40%,0.2
+Tamil Nadu,Chennai,Aug-23,287.5,40,28,34,64,9.7,22,S,23%,3.2
+Gujarat,Surat,May-22,5.1,37,30,33.5,46,6,13.3,NW,23%,4
+Tamil Nadu,Chennai,Oct-22,59.3,32,27,29.5,39,4.9,9.2,SE,39%,3.5
+Gujarat,Ahmedabad,Jul-22,264.8,28,17,22.5,41,4.8,17.5,N,12%,4.6
+Karnataka,Mysuru,Aug-21,250.3,26,16,21,57,8.1,11.7,SW,33%,1.5
+Karnataka,Mangaluru,Aug-20,341.8,28,22,25,31,6.6,17.4,SE,79%,2.4
+Maharashtra,Nagpur,Feb-23,37.4,35,25,30,61,9.2,20.1,S,90%,1.3
+Maharashtra,Pune,Apr-22,60.6,42,37,39.5,73,7.2,18.9,W,48%,2.9
+Uttar Pradesh,Lucknow,Mar-20,8.7,27,19,23,37,8.5,8.2,E,74%,4.8
+Tamil Nadu,Coimbatore,Sep-22,99,33,22,27.5,81,5.1,11.9,S,29%,1
+Uttar Pradesh,Kanpur,Aug-24,260.4,35,30,32.5,56,10,15,NW,19%,1.5
+Maharashtra,Nagpur,May-22,79.1,27,18,22.5,64,8.2,22.9,SE,51%,1.6
+Uttar Pradesh,Agra,Sep-22,262.1,30,22,26,80,4.6,18.7,SE,43%,0.9
+Gujarat,Rajkot,Aug-20,118.4,37,25,31,71,9.9,6.2,E,39%,0.1
+Karnataka,Mangaluru,Apr-21,69.3,38,30,34,55,5.3,15.1,NW,29%,4.4
+Tamil Nadu,Chennai,Jun-21,360.3,33,23,28,41,8.2,18.1,SW,85%,4
+Gujarat,Surat,Dec-22,69.1,26,15,20.5,76,6,20.8,S,63%,3.2
+Maharashtra,Pune,Jun-20,239.6,37,30,33.5,74,5,19.8,S,68%,1
+Uttar Pradesh,Agra,Nov-24,73.5,31,19,25,45,7.6,7.4,NW,72%,2.1
+Uttar Pradesh,Lucknow,Aug-24,208.2,32,22,27,43,6.4,5.8,SW,28%,1.8
+Karnataka,Mysuru,Mar-21,2,26,20,23,78,7.5,16.2,NE,87%,1.9
+Tamil Nadu,Madurai,Aug-23,243,29,22,25.5,71,4.7,6.1,N,33%,1.4
+Maharashtra,Mumbai,Dec-21,21.9,26,20,23,34,5.5,8.8,SW,20%,2.3
+Uttar Pradesh,Agra,Jan-24,78.1,29,18,23.5,83,6,20.3,SE,54%,2.2
+Uttar Pradesh,Lucknow,Jul-24,16.8,37,32,34.5,85,6.1,18.1,N,81%,0.7
+Karnataka,Mysuru,Aug-21,250.3,26,16,21,57,8.1,11.7,SW,33%,1.5
+Karnataka,Bengaluru,Jun-20,236.6,29,21,25,42,6.3,24.3,E,62%,2.1
+Gujarat,Vadodara,Dec-24,11.2,36,26,31,74,6.5,19.4,W,50%,1
+Gujarat,Vadodara,Feb-20,47.8,27,17,22,48,7.5,18.6,SW,61%,3.7
+Uttar Pradesh,Varanasi,Aug-20,197.2,39,32,35.5,34,6.5,21.2,E,40%,1.2
+Maharashtra,Nagpur,Jan-20,68.7,27,22,24.5,76,9.4,22.2,W,53%,0
+Tamil Nadu,Madurai,Dec-20,16.5,27,15,21,81,5,10.5,NE,20%,4.9
+Uttar Pradesh,Kanpur,Jun-20,149.7,41,31,36,70,7.8,12.6,N,39%,4.8
+Karnataka,Bengaluru,Oct-23,35.9,27,20,23.5,84,9.3,18.3,NE,44%,0.1
+Karnataka,Mangaluru,Jan-21,21.3,26,18,22,54,6,11,NW,85%,0.7
+Gujarat,Vadodara,Oct-20,0.8,31,21,26,31,4.4,19.4,NE,33%,1.1
+Tamil Nadu,Coimbatore,Apr-22,39,28,23,25.5,71,7.6,10.1,NE,69%,4.8
+Karnataka,Bengaluru,Aug-23,157.5,26,21,23.5,81,8.3,20.5,E,40%,3.7
+Tamil Nadu,Tiruchirappalli,Jul-22,197.4,33,28,30.5,57,6.1,21.4,N,56%,4.6
+Tamil Nadu,Coimbatore,Apr-24,28.5,30,20,25,50,6,21.3,NE,39%,3
+Tamil Nadu,Madurai,Aug-22,120.7,32,21,26.5,59,7.4,16,W,21%,3
+Gujarat,Surat,Apr-24,61.6,27,19,23,73,9.5,10,S,52%,1.5
+Uttar Pradesh,Lucknow,Jun-21,230.7,36,27,31.5,46,4.9,19.3,SW,17%,4.8
+Uttar Pradesh,Varanasi,Nov-21,75.7,39,27,33,89,8,21.7,SW,84%,0.4
+Maharashtra,Pune,Nov-24,65,27,20,23.5,76,8.6,12.2,W,61%,2.2
+Maharashtra,Mumbai,Feb-21,31.5,41,29,35,38,9,11.5,W,70%,1.9
+Maharashtra,Pune,Mar-22,9.9,41,30,35.5,35,7,18,E,86%,2.3
+Maharashtra,Nashik,Jan-21,72,41,34,37.5,35,7.7,16.4,NW,46%,4.1
+Tamil Nadu,Madurai,Sep-20,82.8,37,28,32.5,63,9.7,21.1,SW,36%,4.6
+Karnataka,Mysuru,Oct-24,24.8,29,20,24.5,90,7.9,23,NW,13%,3.7
+Gujarat,Ahmedabad,Jan-23,15.4,30,22,26,77,6.3,15.1,SW,74%,4.3
+Maharashtra,Nashik,Apr-23,15.2,40,29,34.5,59,8.7,23.4,SW,60%,0.3
+Gujarat,Ahmedabad,Jun-24,159.7,35,24,29.5,85,7.8,10.7,W,50%,2.7
+Maharashtra,Mumbai,Oct-24,28.2,27,20,23.5,30,8.8,15.9,N,26%,3
+Tamil Nadu,Coimbatore,May-22,45.5,41,31,36,48,6.2,7,SE,12%,2.3
+Tamil Nadu,Coimbatore,May-23,49.6,41,33,37,35,8,21.7,NW,29%,4.5
+Uttar Pradesh,Kanpur,Mar-21,66.5,32,22,27,72,4.5,23.8,NE,16%,3.3
+Tamil Nadu,Madurai,Mar-21,28.9,30,24,27,77,9.5,18.4,E,54%,1.2
+Karnataka,Mangaluru,Feb-23,54.1,42,30,36,39,5.9,11,SW,64%,2.8
+Uttar Pradesh,Lucknow,Nov-22,24.5,41,31,36,53,9.5,12.5,W,50%,1.5
+Gujarat,Surat,Oct-20,8.4,38,28,33,52,9.7,11.3,N,41%,4.6
+Karnataka,Mangaluru,Apr-21,69.3,38,30,34,55,5.3,15.1,NW,29%,4.4
+Karnataka,Mangaluru,Jun-24,282.1,39,33,36,64,4.3,9.9,NW,75%,3.5
+Karnataka,Bengaluru,Oct-22,50.1,32,20,26,41,9.1,9.7,S,73%,0.8
+Gujarat,Vadodara,Jan-24,49.9,37,25,31,68,9.8,11.9,W,60%,1.5
+Uttar Pradesh,Lucknow,Jul-24,16.8,37,32,34.5,85,6.1,18.1,N,81%,0.7
+Tamil Nadu,Coimbatore,Oct-23,13.8,41,33,37,71,7.6,20.1,E,37%,0.9
+Uttar Pradesh,Agra,Dec-20,79.3,33,26,29.5,36,7.7,19.3,NE,17%,3.3
+Gujarat,Vadodara,Jun-21,122,41,35,38,66,8.7,9.5,W,31%,3.6
+Tamil Nadu,Tiruchirappalli,Apr-24,50.8,41,35,38,90,5.2,14.8,N,52%,4.3
+Maharashtra,Mumbai,Dec-22,41.3,35,25,30,62,6.3,8.6,NE,30%,0.7
+Tamil Nadu,Madurai,Feb-24,57.4,27,20,23.5,58,4.2,9,SW,23%,0.8
+Uttar Pradesh,Lucknow,Oct-21,32.4,38,30,34,83,7.9,9.4,E,17%,2.5
+Gujarat,Ahmedabad,Apr-24,45.5,30,24,27,82,6.4,19.1,E,73%,2.8
+Uttar Pradesh,Lucknow,Nov-24,6.1,39,33,36,58,9.6,22.1,N,36%,3.9
+Gujarat,Ahmedabad,Nov-20,14.8,38,26,32,90,9.6,23.8,E,72%,3.7
+Tamil Nadu,Tiruchirappalli,Oct-23,23.9,29,19,24,54,7.9,19.7,SW,76%,4
+Tamil Nadu,Tiruchirappalli,Sep-23,188.8,30,19,24.5,72,5.2,23.1,S,59%,3
+Uttar Pradesh,Agra,Apr-23,13.4,30,25,27.5,62,8.9,6.4,E,64%,1.4
+Gujarat,Vadodara,Dec-24,11.2,36,26,31,74,6.5,19.4,W,50%,1
+Gujarat,Ahmedabad,Sep-20,203,30,23,26.5,87,8.5,8.5,SE,75%,0.2
+Karnataka,Bengaluru,Nov-20,35.9,34,23,28.5,34,6.5,24.9,NW,52%,2.8
+Tamil Nadu,Tiruchirappalli,Feb-21,41.6,41,30,35.5,47,9.7,11.3,SW,31%,4.4
+Karnataka,Hubli,Nov-21,0.7,42,37,39.5,62,5.5,14.5,S,19%,1
+Maharashtra,Mumbai,Aug-23,153,41,36,38.5,43,9.7,15.7,W,37%,0.6
+Uttar Pradesh,Varanasi,Jun-22,32.5,26,17,21.5,75,5.2,17.5,SW,63%,3
+Maharashtra,Nagpur,Mar-21,14.4,41,34,37.5,67,6.3,11.4,W,46%,0.3
+Uttar Pradesh,Agra,Jun-21,315.7,40,34,37,88,8.9,24.1,S,26%,1.1
+Maharashtra,Nagpur,May-20,34.4,33,21,27,65,9.6,13.3,E,63%,2
+Maharashtra,Pune,Dec-23,24.9,39,33,36,65,7.5,21.4,E,48%,0.3
+Maharashtra,Nashik,Apr-20,11.3,27,16,21.5,73,5.9,15.7,NW,60%,1.8
+Maharashtra,Mumbai,Jan-23,6.4,32,25,28.5,48,6.6,19.6,E,39%,3.7
+Karnataka,Mangaluru,Apr-22,18.8,25,14,19.5,45,5.4,10.6,SE,34%,2.6
+Maharashtra,Mumbai,Aug-23,153,41,36,38.5,43,9.7,15.7,W,37%,0.6
+Gujarat,Vadodara,Sep-21,291.3,33,26,29.5,61,6.6,21,W,19%,5
+Tamil Nadu,Coimbatore,May-23,49.6,41,33,37,35,8,21.7,NW,29%,4.5
+Maharashtra,Nashik,Jun-20,214.3,33,26,29.5,61,8.6,23.4,NW,38%,4.9
+Gujarat,Surat,Mar-24,56.2,26,14,20,88,5.4,10.7,SW,45%,2.2
+Karnataka,Mangaluru,Dec-23,13.4,35,25,30,53,8.5,20.5,W,38%,2
+Karnataka,Hubli,Jul-21,372.3,29,18,23.5,64,6.6,15.5,SW,80%,3.6
+Maharashtra,Pune,Aug-24,65.2,30,23,26.5,89,7.5,13.8,NW,41%,3.3
+Gujarat,Rajkot,Sep-20,208.1,38,26,32,41,9.8,10.3,SE,82%,2.2
+Uttar Pradesh,Kanpur,Jun-21,213.8,34,27,30.5,62,9.5,14.7,W,31%,0.3
+Maharashtra,Nagpur,Mar-21,14.4,41,34,37.5,67,6.3,11.4,W,46%,0.3
+Gujarat,Ahmedabad,Jun-21,191.2,26,16,21,64,9.3,15.3,S,71%,0.2
+Uttar Pradesh,Kanpur,May-24,46.8,38,33,35.5,42,5,22.3,SE,29%,3.3
+Uttar Pradesh,Varanasi,Jul-24,249.8,36,28,32,45,5.5,12.6,E,63%,3.2
+Karnataka,Mangaluru,Oct-20,65,30,20,25,41,4.6,5.4,NW,51%,4.2
+Maharashtra,Pune,Jun-23,273.1,40,29,34.5,79,6.6,18.1,NE,88%,2.3
+Uttar Pradesh,Kanpur,Aug-21,269,26,14,20,47,7.5,20.3,NW,75%,1.3
+Uttar Pradesh,Lucknow,Nov-22,24.5,41,31,36,53,9.5,12.5,W,50%,1.5
+Uttar Pradesh,Lucknow,Jun-20,52.2,35,25,30,78,8.9,13.2,SE,74%,0.2
+Tamil Nadu,Madurai,Feb-22,7.4,37,25,31,44,6.9,15.2,SE,64%,0.2
+Tamil Nadu,Coimbatore,Sep-20,142.6,29,19,24,51,7.4,9.2,S,50%,2.6
+Uttar Pradesh,Agra,Feb-21,24.3,31,24,27.5,59,9.2,16.3,NE,84%,4.6
+Maharashtra,Nashik,Nov-23,56.4,39,31,35,86,6.5,12.7,W,20%,1.1
+Tamil Nadu,Chennai,Aug-20,76.3,42,31,36.5,37,9.7,16,E,43%,0.2
+Tamil Nadu,Tiruchirappalli,Aug-20,282.8,38,29,33.5,58,5.1,8.1,N,64%,0.2
+Tamil Nadu,Madurai,Nov-21,2.2,27,15,21,87,9.8,13.4,NW,30%,0.1
+Karnataka,Mangaluru,Jan-23,22.6,34,27,30.5,62,4.6,5.7,SE,90%,1.4
+Uttar Pradesh,Varanasi,Sep-20,380.3,32,23,27.5,67,6.6,16.2,SE,52%,1.9
+Tamil Nadu,Madurai,Mar-23,0.8,42,30,36,54,7.9,22,SW,38%,3
+Karnataka,Mysuru,Apr-20,53.3,42,31,36.5,75,6.6,9.6,N,16%,3.5
+Tamil Nadu,Madurai,Feb-21,35.5,32,21,26.5,35,7.3,19.7,W,59%,1.3
+Maharashtra,Pune,May-23,18.6,41,35,38,33,4.6,17.5,S,13%,2.7
+Uttar Pradesh,Kanpur,Jun-20,149.7,41,31,36,70,7.8,12.6,N,39%,4.8
+Uttar Pradesh,Kanpur,Aug-23,229.1,40,30,35,70,5.9,13.7,E,69%,4.8
+Maharashtra,Pune,Jun-24,194.8,41,29,35,75,4.5,8.7,W,80%,2.7
+Maharashtra,Nagpur,Jun-22,231.9,36,29,32.5,42,9.8,13.5,SE,84%,0.3
+Gujarat,Vadodara,Aug-24,397.1,32,26,29,84,6.1,6.3,SW,74%,3.2
+Maharashtra,Nagpur,Jun-22,231.9,36,29,32.5,42,9.8,13.5,SE,84%,0.3
+Uttar Pradesh,Kanpur,Jul-20,365.4,31,20,25.5,65,7.9,20.9,NE,61%,2.7
+Tamil Nadu,Chennai,Jan-23,79.3,42,35,38.5,30,4.2,21.4,SE,13%,1.4
+Gujarat,Vadodara,Nov-22,34.5,42,36,39,47,8.5,16.4,NW,72%,4.5
+Maharashtra,Nashik,Sep-21,344.9,29,24,26.5,39,6.8,23.7,SE,84%,3.6
+Karnataka,Mysuru,Jan-21,3.5,37,30,33.5,72,9.3,5.1,SW,22%,2.1
+Tamil Nadu,Chennai,Oct-21,50.4,27,20,23.5,37,6.5,13.9,N,80%,0.7
+Maharashtra,Nashik,Jun-20,214.3,33,26,29.5,61,8.6,23.4,NW,38%,4.9
+Maharashtra,Nagpur,Oct-23,37.5,33,22,27.5,70,9.4,11.2,E,65%,0.7
+Maharashtra,Pune,Apr-21,12.3,35,27,31,69,6.6,18.4,S,61%,0.3
+Uttar Pradesh,Kanpur,Nov-22,67.3,34,22,28,56,5.2,7.8,NE,39%,4.3
+Karnataka,Hubli,Apr-23,56.4,41,34,37.5,87,9.3,5.6,NW,22%,0.4
+Gujarat,Ahmedabad,Oct-21,74.9,42,35,38.5,82,6,19.9,NE,41%,2.9
+Karnataka,Hubli,Sep-21,110.2,31,25,28,43,8.1,16.6,S,31%,3.3
+Maharashtra,Nagpur,Aug-22,323.3,26,21,23.5,47,5.8,9,SE,55%,3.4
+Tamil Nadu,Coimbatore,May-20,11.1,32,22,27,43,6.1,11.8,NE,48%,2.9
+Gujarat,Surat,Jun-24,271.2,26,21,23.5,68,8.6,12.2,SW,24%,3.4
+Gujarat,Surat,Oct-22,48.8,39,31,35,85,8.2,11.8,E,24%,0.3
+Tamil Nadu,Coimbatore,Jun-22,166.4,31,25,28,53,4.4,13.8,NE,34%,1.2
+Tamil Nadu,Coimbatore,Oct-23,13.8,41,33,37,71,7.6,20.1,E,37%,0.9
+Karnataka,Bengaluru,Apr-23,75.6,34,27,30.5,80,6.9,10.1,N,38%,2.1
+Gujarat,Surat,Jul-21,134.5,38,29,33.5,49,6,5.1,W,61%,3.3
+Gujarat,Vadodara,Feb-22,45.1,35,24,29.5,34,4.7,19.3,NE,37%,1.2
+Maharashtra,Pune,Aug-20,209.9,27,17,22,40,9.2,14.9,SE,40%,0.7
+Uttar Pradesh,Kanpur,Apr-23,10.4,38,31,34.5,49,8.9,24,W,17%,0.4
+Karnataka,Hubli,Jul-24,388.5,39,33,36,59,7.1,14.5,E,54%,1.6
+Maharashtra,Nagpur,Jan-23,23.8,30,20,25,41,4.4,17.1,N,16%,4.3
+Tamil Nadu,Madurai,May-21,63.4,30,21,25.5,87,8.9,13.9,S,75%,0.1
+Uttar Pradesh,Varanasi,Nov-22,21.7,35,26,30.5,38,9.7,16.2,NE,52%,1.3
+Karnataka,Mysuru,Feb-21,30.7,42,34,38,45,4.4,14.2,S,33%,3.9
+Karnataka,Bengaluru,Sep-22,276.9,34,28,31,81,9.6,11.6,SW,42%,1
+Gujarat,Ahmedabad,Apr-21,76.6,31,19,25,78,5.5,5.2,NE,70%,3
+Tamil Nadu,Coimbatore,Apr-22,39,28,23,25.5,71,7.6,10.1,NE,69%,4.8
+Karnataka,Mysuru,Sep-21,56.1,31,19,25,80,8.3,23.6,SW,87%,1.8
+Uttar Pradesh,Lucknow,Nov-20,61.6,35,30,32.5,53,8.1,10.2,NW,75%,2.3
+Uttar Pradesh,Lucknow,Aug-21,2.3,36,26,31,37,4.9,9.6,SW,22%,2.9
+Karnataka,Hubli,Aug-22,281.6,37,31,34,75,5.1,22.2,N,74%,2.9
+Karnataka,Hubli,May-24,44.9,37,28,32.5,70,6,15.8,W,84%,2.3
+Gujarat,Ahmedabad,Dec-24,63.5,30,25,27.5,49,9.8,7.1,N,58%,2.8
+Tamil Nadu,Coimbatore,Apr-24,28.5,30,20,25,50,6,21.3,NE,39%,3
+Karnataka,Hubli,Apr-23,56.4,41,34,37.5,87,9.3,5.6,NW,22%,0.4
+Uttar Pradesh,Lucknow,Nov-23,72.9,29,20,24.5,60,6.6,6.3,SW,88%,1.3
+Tamil Nadu,Coimbatore,Dec-24,40.2,26,20,23,34,6.6,17.1,NE,90%,1.5
+Karnataka,Mysuru,Aug-24,280.6,36,25,30.5,67,4.6,8.3,SE,12%,1.8
+Gujarat,Ahmedabad,May-20,19.9,31,24,27.5,32,8.3,13.5,NE,28%,0.8
+Tamil Nadu,Coimbatore,Jun-23,193.5,36,29,32.5,48,6,13.7,E,24%,3.3
+Tamil Nadu,Tiruchirappalli,Oct-22,79.2,39,30,34.5,50,4.7,19.7,SE,44%,3.4
+Gujarat,Surat,May-23,57.7,37,28,32.5,83,5.8,10.9,S,37%,0
+Karnataka,Mangaluru,Dec-24,47,40,28,34,38,8.2,18.3,SW,53%,2.1
+Gujarat,Ahmedabad,Aug-24,260.8,28,19,23.5,90,9.9,23.4,W,59%,1.9
+Gujarat,Vadodara,Oct-24,3.9,27,16,21.5,45,7.6,12,NW,41%,3.3
+Gujarat,Surat,Nov-22,65.4,33,21,27,34,8.3,11,SE,38%,1.8
+Maharashtra,Nashik,Jul-22,114.8,38,30,34,46,8.6,11.1,SW,56%,0.1
+Uttar Pradesh,Lucknow,Jul-22,350.4,28,23,25.5,76,5.5,14.6,SE,81%,4.1
+Tamil Nadu,Madurai,Dec-22,52.1,37,26,31.5,62,8.7,5.6,N,59%,1.7
+Maharashtra,Nagpur,Jul-24,112.8,33,24,28.5,75,6.5,8.5,SW,82%,2.7
+Tamil Nadu,Chennai,Jan-22,15.8,40,29,34.5,38,5,10.8,SW,59%,1.8
+Tamil Nadu,Chennai,Oct-23,71,38,26,32,74,9.8,19.6,W,49%,4.7
+Gujarat,Surat,Mar-24,56.2,26,14,20,88,5.4,10.7,SW,45%,2.2
+Gujarat,Ahmedabad,Jul-22,264.8,28,17,22.5,41,4.8,17.5,N,12%,4.6
+Tamil Nadu,Coimbatore,Mar-20,60.1,36,28,32,45,4.5,10.3,N,71%,2.8
+Tamil Nadu,Tiruchirappalli,Sep-22,387.2,39,31,35,66,8.5,9.4,S,16%,0.6
+Uttar Pradesh,Agra,Mar-20,67.7,29,21,25,79,9.7,21.1,NE,49%,2.1
+Uttar Pradesh,Lucknow,Jun-21,230.7,36,27,31.5,46,4.9,19.3,SW,17%,4.8
+Tamil Nadu,Coimbatore,Oct-23,13.8,41,33,37,71,7.6,20.1,E,37%,0.9
+Maharashtra,Nashik,Aug-24,152.6,38,31,34.5,42,6.5,19.2,SE,70%,3.3
+Maharashtra,Nashik,Mar-24,12.2,36,30,33,30,5.8,9.5,NW,24%,2.8
+Maharashtra,Pune,Dec-24,13.3,28,20,24,62,8.1,6.5,S,51%,5
+Tamil Nadu,Madurai,Jan-24,11.8,40,28,34,37,7.7,15.6,NW,32%,2.7
+Tamil Nadu,Tiruchirappalli,Dec-24,62.2,29,20,24.5,37,8.9,18.2,W,49%,2.4
+Maharashtra,Mumbai,Sep-23,373.3,38,32,35,43,8.5,12.4,NE,30%,1.5
+Maharashtra,Mumbai,Dec-22,41.3,35,25,30,62,6.3,8.6,NE,30%,0.7
+Gujarat,Vadodara,Jan-20,48.8,42,32,37,69,5.7,13.4,N,31%,3.1
+Karnataka,Hubli,Sep-22,225,25,14,19.5,80,7.6,15.6,E,12%,4.6
+Gujarat,Rajkot,Jun-21,258.5,34,24,29,76,4.2,21.9,W,40%,0.8
+Uttar Pradesh,Varanasi,Apr-23,43.8,41,29,35,87,8.6,12.9,S,78%,1.9
+Karnataka,Hubli,Apr-22,49.9,28,17,22.5,86,7.3,16,NE,42%,3.9
+Karnataka,Mysuru,Sep-24,397.7,25,16,20.5,47,5.3,16.4,SE,63%,2
+Gujarat,Surat,Oct-21,26.6,25,13,19,68,7.5,22.3,NW,79%,1.5
+Karnataka,Bengaluru,Aug-24,383.6,26,19,22.5,90,6.9,17.6,SW,44%,1.3
+Uttar Pradesh,Kanpur,Dec-24,28.5,26,20,23,60,7,18.1,W,73%,4.9
+Maharashtra,Nashik,Apr-20,11.3,27,16,21.5,73,5.9,15.7,NW,60%,1.8
+Karnataka,Bengaluru,Mar-24,14.5,38,26,32,49,9.9,23.9,N,36%,3.6
+Karnataka,Bengaluru,May-20,54.5,32,23,27.5,87,5,17.9,SE,57%,5
+Tamil Nadu,Chennai,Oct-20,42,25,14,19.5,90,7.9,15.6,S,53%,3.3
+Maharashtra,Pune,May-20,7.6,34,23,28.5,54,6.8,12.6,SE,69%,2.2
+Gujarat,Ahmedabad,Jul-22,264.8,28,17,22.5,41,4.8,17.5,N,12%,4.6
+Tamil Nadu,Tiruchirappalli,Jan-21,40.1,30,22,26,72,9.4,9.9,NW,30%,2.7
+Karnataka,Mangaluru,May-21,52.1,39,29,34,90,4.2,18,W,49%,3.8
+Karnataka,Mysuru,Jul-22,118.5,34,28,31,33,8.7,13.3,NE,73%,3.6
+Gujarat,Rajkot,Apr-24,58.3,33,22,27.5,55,4.7,22.7,W,62%,2.8
+Gujarat,Vadodara,Nov-21,12.8,34,28,31,80,7.7,16.2,W,75%,4.7
+Maharashtra,Nagpur,Sep-20,20.5,37,32,34.5,80,5.9,17.5,S,32%,4.4
+Gujarat,Rajkot,Apr-20,23.9,42,33,37.5,51,9.8,23,SW,24%,2.4
+Tamil Nadu,Coimbatore,Jun-22,166.4,31,25,28,53,4.4,13.8,NE,34%,1.2
+Maharashtra,Nagpur,Dec-21,35.5,38,33,35.5,59,5.3,19.9,N,22%,4.1
+Karnataka,Hubli,May-23,71.9,34,25,29.5,30,4.8,16.3,SE,47%,1.8
+Karnataka,Bengaluru,Apr-20,69.1,38,29,33.5,57,7.4,18.2,NE,72%,3.1
+Uttar Pradesh,Kanpur,Sep-24,390.9,31,26,28.5,72,6.6,24.9,S,58%,4.1
+Karnataka,Hubli,Dec-24,29.7,31,20,25.5,76,6.8,21.4,W,85%,0.8
+Karnataka,Hubli,Jan-24,2,30,21,25.5,88,7.3,15.4,SE,34%,2.9
+Uttar Pradesh,Lucknow,Apr-22,11.4,34,28,31,56,5.2,9.3,NE,85%,1.8
+Maharashtra,Mumbai,Jul-23,151.5,26,20,23,63,8.1,12.7,N,17%,2.5
+Gujarat,Surat,Feb-22,64.7,28,18,23,87,5.7,14.3,W,50%,2.5
+Tamil Nadu,Madurai,Jun-23,361.4,25,13,19,43,5.1,5.6,NW,73%,3.9
+Gujarat,Surat,Nov-23,40.8,31,25,28,38,5.7,21.8,W,45%,1
+Tamil Nadu,Coimbatore,Jun-23,193.5,36,29,32.5,48,6,13.7,E,24%,3.3
+Maharashtra,Mumbai,Feb-23,4.9,35,23,29,84,8.4,14.4,W,54%,0.8
+Karnataka,Hubli,Apr-23,56.4,41,34,37.5,87,9.3,5.6,NW,22%,0.4
+Tamil Nadu,Coimbatore,Jan-21,37.8,36,25,30.5,64,6.1,7.2,E,89%,2
+Maharashtra,Pune,Sep-23,363.7,34,28,31,75,8.2,11.7,E,53%,3.1
+Gujarat,Rajkot,Sep-24,35.4,30,24,27,59,9.9,12.7,SE,84%,0
+Gujarat,Surat,Apr-21,79.9,29,17,23,41,7.2,9.2,N,35%,1.6
+Karnataka,Mysuru,Jun-24,387.2,34,27,30.5,51,9.7,11.7,E,20%,3.4
+Tamil Nadu,Madurai,Aug-24,165.7,26,19,22.5,90,9.8,15,NW,49%,1.7
+Uttar Pradesh,Kanpur,Jan-24,14.2,32,23,27.5,38,5.9,24.3,N,85%,0.2
+Gujarat,Surat,Sep-22,121.5,28,19,23.5,72,7.6,13.2,N,49%,2.8
+Maharashtra,Pune,Aug-24,65.2,30,23,26.5,89,7.5,13.8,NW,41%,3.3
+Tamil Nadu,Tiruchirappalli,Jan-21,40.1,30,22,26,72,9.4,9.9,NW,30%,2.7
+Tamil Nadu,Coimbatore,Jan-24,44.3,31,22,26.5,56,8.1,22.3,NE,63%,1.6
+Uttar Pradesh,Lucknow,Feb-21,12,30,18,24,77,4.6,17.3,N,29%,1
+Tamil Nadu,Madurai,Jun-23,361.4,25,13,19,43,5.1,5.6,NW,73%,3.9
+Maharashtra,Pune,Mar-22,9.9,41,30,35.5,35,7,18,E,86%,2.3
+Gujarat,Surat,Aug-24,296,35,30,32.5,61,5,24,SE,90%,5
+Maharashtra,Mumbai,Sep-21,364.5,28,19,23.5,68,7,9,N,38%,2.8
+Karnataka,Bengaluru,Jan-24,48,35,28,31.5,75,5.3,18.1,NE,38%,1.7
+Tamil Nadu,Tiruchirappalli,Aug-21,280.1,39,28,33.5,86,5.6,13.1,NE,71%,4.4
+Uttar Pradesh,Varanasi,Oct-24,47.1,30,24,27,41,6,15.9,W,12%,3.1
+Gujarat,Rajkot,Oct-20,30.2,26,20,23,56,4.9,10.6,SW,40%,3.8
+Tamil Nadu,Chennai,Jun-22,233,36,27,31.5,60,4.1,24.5,S,38%,0.2
+Karnataka,Hubli,Oct-20,41.2,40,30,35,31,6.7,20.7,E,11%,3.4
+Uttar Pradesh,Lucknow,Oct-23,66.8,41,29,35,88,6.7,10.2,SE,51%,0.2
+Karnataka,Mangaluru,Feb-23,54.1,42,30,36,39,5.9,11,SW,64%,2.8
+Karnataka,Hubli,May-20,63.3,33,23,28,43,4.7,23.6,NE,60%,2.4
+Gujarat,Rajkot,Nov-21,36.1,27,16,21.5,78,5,13.4,NE,27%,0.6
+Karnataka,Mangaluru,Sep-23,321,32,20,26,60,7.9,18.3,E,29%,4.7
+Uttar Pradesh,Agra,Aug-23,263.8,32,27,29.5,63,7.5,6.7,N,23%,3.5
+Karnataka,Mangaluru,Sep-20,111.4,42,34,38,67,5.4,14.5,N,17%,2.9
+Karnataka,Mysuru,Dec-22,43.8,39,31,35,86,9.7,8.7,SW,40%,2.5
+Karnataka,Hubli,Feb-20,78.5,36,24,30,70,5.9,11.9,NW,33%,1.5
+Karnataka,Mangaluru,Mar-22,36.5,29,24,26.5,48,8.4,14.8,SE,10%,4.9
+Karnataka,Hubli,Jan-22,37.2,37,27,32,75,8.4,20.4,W,59%,0.2
+Karnataka,Mysuru,Apr-21,68.4,35,24,29.5,63,4.1,5.4,NW,71%,0.1
+Maharashtra,Pune,Jun-24,194.8,41,29,35,75,4.5,8.7,W,80%,2.7
+Karnataka,Bengaluru,Sep-20,395.5,33,23,28,35,4.4,24.4,N,42%,1.3
+Maharashtra,Mumbai,May-23,55.1,36,27,31.5,76,5.2,16.9,NE,10%,2.4
+Tamil Nadu,Madurai,Jan-22,30,37,28,32.5,81,5.9,21.1,S,61%,0
+Uttar Pradesh,Kanpur,Oct-24,71.3,38,33,35.5,54,9.9,21.7,SW,61%,3.7
+Maharashtra,Mumbai,Jul-24,152,38,32,35,38,7.7,21.4,SW,46%,2.9
+Gujarat,Vadodara,Jul-22,400,27,16,21.5,33,5.3,12,NE,49%,3.1
+Maharashtra,Nagpur,Feb-20,55.5,25,20,22.5,45,9.5,7.2,E,60%,2.1
+Uttar Pradesh,Lucknow,Jul-21,122.7,41,31,36,90,5.7,17.8,S,72%,3.2
+Gujarat,Rajkot,Jun-20,102.4,36,30,33,46,9.1,17.2,NE,74%,2.7
+Uttar Pradesh,Kanpur,May-21,31.8,27,19,23,55,8.6,14.8,NW,14%,0.2
+Maharashtra,Pune,Jun-21,9.6,33,23,28,65,6.2,6,NW,20%,2.4
+Tamil Nadu,Coimbatore,Oct-21,46,35,26,30.5,84,6.8,22.8,E,85%,3.8
+Tamil Nadu,Coimbatore,Jul-24,155.7,31,25,28,54,4.8,21.1,NW,59%,0
+Tamil Nadu,Chennai,Sep-22,4.1,28,23,25.5,84,7.7,24.4,NW,14%,1.1
+Tamil Nadu,Coimbatore,Feb-22,72.6,26,15,20.5,71,6.8,15,NE,64%,3.6
+Uttar Pradesh,Lucknow,May-21,19.5,28,19,23.5,31,7.8,9,N,50%,2.4
+Maharashtra,Pune,Dec-24,13.3,28,20,24,62,8.1,6.5,S,51%,5
+Gujarat,Rajkot,Mar-23,75.1,27,21,24,54,5.3,17.9,S,67%,3.7
+Tamil Nadu,Chennai,Jun-21,360.3,33,23,28,41,8.2,18.1,SW,85%,4
+Uttar Pradesh,Agra,Nov-22,50.9,40,33,36.5,70,5.4,12.2,N,85%,3
+Maharashtra,Nashik,Jun-20,214.3,33,26,29.5,61,8.6,23.4,NW,38%,4.9
+Uttar Pradesh,Kanpur,May-20,25.5,33,23,28,58,5.1,22.3,NE,26%,4.2
+Tamil Nadu,Tiruchirappalli,Mar-23,32.2,31,19,25,57,5.3,22.1,SE,11%,3.3
+Tamil Nadu,Chennai,Mar-21,50.6,29,23,26,36,6.5,13.1,SW,86%,2.3
+Karnataka,Mysuru,May-20,18.6,28,22,25,63,4.9,22.2,NW,48%,4.8
+Gujarat,Surat,Aug-24,296,35,30,32.5,61,5,24,SE,90%,5
+Maharashtra,Nagpur,May-21,63.8,27,17,22,43,5.8,24.2,E,50%,0.8
+Maharashtra,Nashik,Oct-22,17,39,28,33.5,52,4.7,18.5,SE,11%,0.4
+Karnataka,Mysuru,Nov-24,70.2,37,31,34,47,7.3,18.7,N,38%,4
+Maharashtra,Nashik,Sep-24,365.8,38,26,32,45,9.8,20.7,SE,21%,2.4
+Gujarat,Vadodara,Feb-24,36.1,25,19,22,36,6.9,20,NE,68%,4.6
+Maharashtra,Mumbai,Oct-21,79.5,32,21,26.5,56,4.2,19.6,SE,23%,3.3
+Karnataka,Hubli,Jan-20,65.4,35,28,31.5,67,5.8,22.3,E,20%,2.2
+Maharashtra,Mumbai,Oct-22,48,41,32,36.5,38,6.4,17.9,NW,27%,2.4
+Karnataka,Mangaluru,Feb-24,50,33,23,28,72,7.7,11.7,N,46%,1.3
+Maharashtra,Nashik,Oct-23,54.3,39,28,33.5,67,8.1,6.6,NE,48%,4.8
+Karnataka,Mysuru,Apr-24,79.5,41,29,35,70,7.5,17.3,SE,42%,1.4
+Tamil Nadu,Coimbatore,Jul-20,135,36,31,33.5,43,9.9,17.7,E,81%,1.3
+Uttar Pradesh,Kanpur,Jan-24,14.2,32,23,27.5,38,5.9,24.3,N,85%,0.2
+Maharashtra,Nagpur,Sep-24,64.4,35,28,31.5,38,7.2,23.5,NE,18%,2
+Karnataka,Hubli,May-21,58.4,32,27,29.5,39,6.3,24.1,E,65%,0.6
+Uttar Pradesh,Varanasi,May-24,40.1,38,26,32,65,8.9,12.7,W,66%,3.3
+Uttar Pradesh,Lucknow,Dec-21,11.3,29,18,23.5,86,4.4,10.4,W,41%,5
+Gujarat,Vadodara,Feb-23,18.3,37,28,32.5,80,6.7,8.2,SE,12%,0
+Tamil Nadu,Tiruchirappalli,Oct-21,16.2,35,26,30.5,76,4.7,16.2,NE,32%,0.5
+Maharashtra,Nashik,Feb-23,57.5,30,25,27.5,76,4.9,18.1,W,54%,1.3
+Uttar Pradesh,Agra,Jul-23,300.4,30,25,27.5,51,9.2,18.2,NW,73%,4.7
+Uttar Pradesh,Lucknow,Oct-22,13,28,18,23,55,6.1,5.1,S,68%,4.4
+Maharashtra,Pune,Sep-24,61.7,36,24,30,60,6.2,15.6,W,31%,2.7
+Maharashtra,Nashik,Jun-23,212.2,36,29,32.5,49,4.1,10.6,NW,33%,3.3
+Karnataka,Mysuru,Jul-21,393.8,40,34,37,51,4.3,17.8,NW,25%,3.6
+Gujarat,Rajkot,Sep-24,35.4,30,24,27,59,9.9,12.7,SE,84%,0
+Maharashtra,Nagpur,Aug-20,134.2,38,32,35,76,8.6,9.1,W,87%,1.7
+Maharashtra,Pune,May-22,22.6,40,31,35.5,72,7.2,19,NW,23%,0.5
+Tamil Nadu,Coimbatore,Oct-22,8.9,29,19,24,78,8.3,19,NE,25%,1.3
+Maharashtra,Mumbai,Sep-23,373.3,38,32,35,43,8.5,12.4,NE,30%,1.5
+Tamil Nadu,Coimbatore,Nov-20,35.9,34,29,31.5,48,5.4,20.1,E,43%,1.6
+Maharashtra,Mumbai,Jan-23,6.4,32,25,28.5,48,6.6,19.6,E,39%,3.7
+Gujarat,Rajkot,Dec-20,57.8,36,24,30,87,9,8.3,N,70%,4.2
+Karnataka,Mangaluru,Apr-20,7.8,31,21,26,54,4.9,24.6,N,73%,3.7
+Maharashtra,Nashik,Nov-24,58.3,38,29,33.5,34,9,9.4,S,17%,3.7
+Gujarat,Rajkot,Aug-22,30.8,27,16,21.5,55,7.1,21.8,SE,72%,4.4
+Maharashtra,Nagpur,Jul-24,112.8,33,24,28.5,75,6.5,8.5,SW,82%,2.7
+Karnataka,Mysuru,Aug-20,96.2,37,30,33.5,82,9,13.4,SE,70%,1.4
+Karnataka,Mangaluru,Jan-22,21.2,34,25,29.5,34,8.2,13.2,S,68%,2
+Maharashtra,Nagpur,Apr-22,74,30,25,27.5,72,7.2,7.8,SW,33%,1.3
+Gujarat,Rajkot,Mar-24,1.5,36,24,30,77,5.9,13.4,SW,49%,4.6
+Maharashtra,Nashik,Jan-22,47.8,39,30,34.5,62,6.6,10,W,41%,3.7
+Uttar Pradesh,Varanasi,Aug-24,103.9,26,19,22.5,68,4.7,5.2,S,37%,0.9
+Gujarat,Vadodara,Oct-23,37.5,27,15,21,54,4.1,6.5,NE,61%,1.8
+Maharashtra,Pune,Feb-23,34.9,27,16,21.5,86,9.2,5.1,S,36%,0.1
+Uttar Pradesh,Varanasi,Feb-23,73.7,32,23,27.5,35,6.3,7.2,W,82%,3.2
+Uttar Pradesh,Lucknow,Jul-20,382,31,24,27.5,30,4.3,20.7,N,15%,5
+Tamil Nadu,Chennai,May-20,54.8,34,27,30.5,72,4.8,24.7,NE,59%,2.3
+Tamil Nadu,Madurai,Feb-21,35.5,32,21,26.5,35,7.3,19.7,W,59%,1.3
+Gujarat,Surat,Feb-20,41.9,38,30,34,40,6.8,5.5,W,88%,0.3
+Tamil Nadu,Tiruchirappalli,Oct-23,23.9,29,19,24,54,7.9,19.7,SW,76%,4
+Uttar Pradesh,Agra,Feb-21,24.3,31,24,27.5,59,9.2,16.3,NE,84%,4.6
+Gujarat,Vadodara,Dec-22,31.3,27,19,23,33,8,24,W,77%,1.5
+Tamil Nadu,Madurai,Mar-21,28.9,30,24,27,77,9.5,18.4,E,54%,1.2
+Gujarat,Surat,Nov-20,48.5,25,19,22,51,8.9,18.5,SW,87%,2.6
+Gujarat,Vadodara,Apr-22,72.3,34,28,31,43,4.9,5.6,SE,16%,4.7
+Karnataka,Mysuru,Apr-24,79.5,41,29,35,70,7.5,17.3,SE,42%,1.4
+Karnataka,Bengaluru,May-24,29.6,40,28,34,80,10,15.8,SE,35%,0.2
+Uttar Pradesh,Lucknow,Jan-23,21.9,29,23,26,56,7.9,17,SW,87%,3.9
+Uttar Pradesh,Kanpur,Jun-23,287.9,28,22,25,59,4.2,16.7,NE,24%,0.1
+Tamil Nadu,Tiruchirappalli,Apr-22,26.6,36,31,33.5,36,7.7,19.8,NE,36%,1.4
+Tamil Nadu,Tiruchirappalli,Sep-23,188.8,30,19,24.5,72,5.2,23.1,S,59%,3
+Karnataka,Bengaluru,Jul-20,287,34,29,31.5,39,4.3,24.5,E,44%,3.6
+Karnataka,Mysuru,Apr-23,28.8,37,32,34.5,77,5.5,22.9,N,72%,2
+Tamil Nadu,Madurai,Dec-22,52.1,37,26,31.5,62,8.7,5.6,N,59%,1.7
+Tamil Nadu,Madurai,Oct-23,29.2,35,26,30.5,66,4.6,7.3,SW,16%,2.9
+Tamil Nadu,Coimbatore,Aug-21,361.4,32,21,26.5,61,4.1,6.2,W,30%,2.7
+Tamil Nadu,Chennai,Jun-20,268.6,34,29,31.5,65,7.9,9.5,NE,85%,4.2
+Tamil Nadu,Tiruchirappalli,Jul-24,65.5,25,15,20,46,8,19.1,NW,47%,0.4
+Maharashtra,Mumbai,Aug-24,91.7,32,26,29,65,5.4,22.1,NE,31%,3.7
+Uttar Pradesh,Lucknow,Mar-23,22.9,35,29,32,72,4.6,5.5,NE,75%,2.7
+Tamil Nadu,Chennai,Jan-22,15.8,40,29,34.5,38,5,10.8,SW,59%,1.8
+Uttar Pradesh,Kanpur,Apr-23,10.4,38,31,34.5,49,8.9,24,W,17%,0.4
+Uttar Pradesh,Lucknow,Mar-22,33.5,25,17,21,60,7.3,8.2,SW,82%,3.7
+Gujarat,Surat,Nov-23,40.8,31,25,28,38,5.7,21.8,W,45%,1
+Uttar Pradesh,Lucknow,Oct-20,9.6,42,34,38,35,6.5,20.2,N,73%,1.2
+Uttar Pradesh,Agra,Mar-24,60.4,33,22,27.5,47,8.4,5.7,NW,45%,2.9
+Gujarat,Surat,May-20,12.5,31,19,25,72,5.4,16.5,NW,21%,0.6
+Uttar Pradesh,Kanpur,Oct-21,25.1,33,23,28,41,6.7,10.9,W,52%,0.4
+Maharashtra,Nashik,May-23,78.3,33,26,29.5,88,4.8,8.2,E,67%,2
+Karnataka,Mysuru,Feb-21,30.7,42,34,38,45,4.4,14.2,S,33%,3.9
+Karnataka,Hubli,Mar-21,2.7,41,33,37,75,5.2,14.4,NE,14%,2.2
+Maharashtra,Mumbai,Oct-20,18.1,30,21,25.5,85,9.6,11.9,S,24%,4.4
+Tamil Nadu,Tiruchirappalli,Oct-22,79.2,39,30,34.5,50,4.7,19.7,SE,44%,3.4
+Uttar Pradesh,Varanasi,Aug-23,336.6,25,16,20.5,40,7.7,25,SW,17%,0.2
+Gujarat,Vadodara,Jul-20,383.1,31,19,25,52,9,10.4,NW,18%,1.2
+Maharashtra,Pune,Aug-23,209.7,34,24,29,51,9.3,21.8,E,40%,4.5
+Maharashtra,Nashik,Apr-21,57.7,35,25,30,42,5.9,5.7,NE,49%,1.8
+Maharashtra,Pune,Feb-23,34.9,27,16,21.5,86,9.2,5.1,S,36%,0.1
+Gujarat,Surat,Nov-21,71.1,29,21,25,89,8.4,6.9,SE,47%,3
+Karnataka,Hubli,Sep-20,181,33,23,28,86,7.4,19.7,SW,41%,2.8
+Maharashtra,Nagpur,Jul-20,346.4,37,28,32.5,56,7.2,14.9,NE,70%,4.1
+Karnataka,Mangaluru,Feb-20,37.8,27,16,21.5,43,4.4,5.5,NW,65%,2.1
+Uttar Pradesh,Lucknow,Nov-23,72.9,29,20,24.5,60,6.6,6.3,SW,88%,1.3
+Gujarat,Ahmedabad,Sep-23,295.3,38,30,34,82,8.7,21.6,SW,88%,1.4
+Maharashtra,Nashik,Sep-21,344.9,29,24,26.5,39,6.8,23.7,SE,84%,3.6
+Maharashtra,Nagpur,Dec-22,4.9,38,33,35.5,31,4,23.8,W,39%,4.5
+Uttar Pradesh,Lucknow,Aug-21,2.3,36,26,31,37,4.9,9.6,SW,22%,2.9
+Uttar Pradesh,Varanasi,Jun-21,387.8,34,23,28.5,77,9.2,14.6,E,27%,3.8
+Karnataka,Hubli,Aug-24,360.8,29,21,25,74,6.9,18.5,N,77%,0.9
+Uttar Pradesh,Lucknow,Nov-24,6.1,39,33,36,58,9.6,22.1,N,36%,3.9
+Karnataka,Mangaluru,Jan-21,21.3,26,18,22,54,6,11,NW,85%,0.7
+Karnataka,Bengaluru,Feb-22,18.5,29,24,26.5,78,8.6,21.9,SW,60%,1.5
+Maharashtra,Mumbai,Dec-20,55.9,36,25,30.5,48,9.8,20.1,N,54%,1.2
+Uttar Pradesh,Kanpur,Jul-23,190.7,40,33,36.5,66,8.5,10.1,S,78%,3.4
+Gujarat,Surat,Dec-23,16.3,38,33,35.5,69,4.9,23.8,SW,54%,3.5
+Karnataka,Mangaluru,Mar-24,43.1,26,19,22.5,38,9.2,12.7,E,29%,1.7
+Maharashtra,Mumbai,Jul-22,14.8,30,22,26,48,9.7,9.7,NW,50%,4.8
+Uttar Pradesh,Varanasi,Sep-24,217.4,34,26,30,38,5.5,13.4,NW,88%,0.2
+Karnataka,Mysuru,Jul-22,118.5,34,28,31,33,8.7,13.3,NE,73%,3.6
+Uttar Pradesh,Kanpur,Aug-22,199.5,32,26,29,46,9.3,16.8,NW,67%,0.1
+Karnataka,Hubli,Jun-24,214.2,41,32,36.5,80,9,23.2,NE,13%,2
+Gujarat,Surat,Nov-23,40.8,31,25,28,38,5.7,21.8,W,45%,1
+Gujarat,Ahmedabad,Feb-24,59,29,19,24,58,7.5,15,NW,58%,3.6
+Tamil Nadu,Madurai,Apr-22,28.4,35,23,29,55,5.8,5.1,SW,56%,2.1
+Gujarat,Surat,Sep-20,395.1,35,28,31.5,47,6.9,7.2,NW,49%,3.4
+Uttar Pradesh,Varanasi,May-20,46.8,42,31,36.5,88,5.1,23.3,E,39%,1.3
+Gujarat,Rajkot,Oct-21,34.3,29,21,25,69,4.1,13.2,W,24%,3.4
+Karnataka,Mysuru,May-23,66.2,33,24,28.5,87,6.3,21.6,SE,75%,4.6
+Gujarat,Rajkot,Jul-20,71.6,35,29,32,59,9.8,17,SW,53%,0.1
+Maharashtra,Pune,Oct-22,10.7,29,18,23.5,63,5.2,18.4,S,13%,3.5
+Maharashtra,Nashik,Aug-20,244.1,33,21,27,65,7.1,6.2,SE,12%,3.3
+Gujarat,Rajkot,Jul-23,396,35,24,29.5,67,8.6,8.4,NE,20%,0.9
+Gujarat,Surat,Oct-21,26.6,25,13,19,68,7.5,22.3,NW,79%,1.5
+Tamil Nadu,Tiruchirappalli,Aug-24,196.2,29,18,23.5,64,5.6,18.3,S,26%,1.8
+Uttar Pradesh,Kanpur,Jan-24,14.2,32,23,27.5,38,5.9,24.3,N,85%,0.2
+Karnataka,Hubli,Jul-21,372.3,29,18,23.5,64,6.6,15.5,SW,80%,3.6
+Gujarat,Surat,Dec-20,18,39,30,34.5,70,5.3,6.9,E,48%,1.1
+Tamil Nadu,Chennai,May-20,54.8,34,27,30.5,72,4.8,24.7,NE,59%,2.3
+Gujarat,Ahmedabad,May-21,14.7,31,24,27.5,86,5.5,8.5,NE,16%,2.3
+Maharashtra,Pune,Jun-21,9.6,33,23,28,65,6.2,6,NW,20%,2.4
+Tamil Nadu,Chennai,Aug-23,287.5,40,28,34,64,9.7,22,S,23%,3.2
+Gujarat,Ahmedabad,Feb-23,45.2,37,25,31,79,6.9,10.7,S,11%,2.2
+Maharashtra,Mumbai,Feb-20,29.5,27,15,21,60,8.6,16.2,NW,87%,3.8
+Gujarat,Rajkot,Mar-20,2.8,26,19,22.5,53,7.5,18.2,SW,48%,1.8
+Uttar Pradesh,Lucknow,Jul-24,16.8,37,32,34.5,85,6.1,18.1,N,81%,0.7
+Gujarat,Ahmedabad,Dec-21,69.9,39,32,35.5,65,8.2,23.1,NW,59%,4.8
+Maharashtra,Nagpur,Sep-23,223,38,28,33,65,9.9,24,SE,16%,0.7
+Tamil Nadu,Tiruchirappalli,Sep-22,387.2,39,31,35,66,8.5,9.4,S,16%,0.6
+Uttar Pradesh,Agra,Dec-22,26.5,42,30,36,32,5.8,9.8,E,26%,4.4
+Tamil Nadu,Madurai,May-21,63.4,30,21,25.5,87,8.9,13.9,S,75%,0.1
+Gujarat,Vadodara,Jul-22,400,27,16,21.5,33,5.3,12,NE,49%,3.1
+Gujarat,Rajkot,Jun-23,40.3,32,20,26,45,7.2,10,W,84%,4.5
+Tamil Nadu,Madurai,Oct-24,61,26,16,21,79,5.8,6,NE,45%,4.7
+Tamil Nadu,Coimbatore,Jul-22,332.5,42,35,38.5,89,6.1,6.3,SW,12%,4.8
+Karnataka,Mysuru,Sep-20,166.7,27,17,22,70,6.3,8.6,SE,13%,3.7
+Maharashtra,Mumbai,Sep-22,341.9,37,32,34.5,40,8,18.9,NE,84%,3.7
+Gujarat,Ahmedabad,Jan-21,19.9,26,21,23.5,47,6,16.1,E,62%,3.7
+Maharashtra,Pune,Sep-21,231.7,28,18,23,59,5.7,5.9,W,19%,2.7
+Maharashtra,Mumbai,Sep-24,73.8,42,35,38.5,76,5.4,22.3,W,73%,2.7
+Tamil Nadu,Coimbatore,Sep-24,217.1,29,19,24,38,5.1,21.8,NW,35%,4.7
+Tamil Nadu,Madurai,Feb-23,48.7,28,17,22.5,86,5,20.3,NE,15%,4.7
+Gujarat,Rajkot,Jan-23,11.8,35,26,30.5,61,9.1,8.9,SW,68%,2.6
+Maharashtra,Nagpur,Dec-24,18.7,42,30,36,67,8.9,21.2,SE,84%,3.1
+Uttar Pradesh,Kanpur,Jul-24,221.7,29,20,24.5,61,9.7,9.6,E,84%,4.1
+Tamil Nadu,Madurai,Dec-24,37.8,41,29,35,56,8.8,19.3,NE,72%,2.6
+Uttar Pradesh,Agra,Dec-22,26.5,42,30,36,32,5.8,9.8,E,26%,4.4
+Gujarat,Ahmedabad,Oct-20,9.4,35,29,32,36,8,19,E,88%,5
+Uttar Pradesh,Varanasi,May-23,69.2,34,24,29,76,7.1,15.3,E,77%,4.6
+Karnataka,Mysuru,Aug-24,280.6,36,25,30.5,67,4.6,8.3,SE,12%,1.8
+Gujarat,Rajkot,Oct-21,34.3,29,21,25,69,4.1,13.2,W,24%,3.4
+Uttar Pradesh,Kanpur,Mar-24,2.7,41,36,38.5,50,9.9,23.1,W,23%,2.5
+Karnataka,Hubli,Mar-21,2.7,41,33,37,75,5.2,14.4,NE,14%,2.2
+Tamil Nadu,Chennai,May-20,54.8,34,27,30.5,72,4.8,24.7,NE,59%,2.3
+Gujarat,Vadodara,Dec-23,37.5,36,28,32,77,6.9,18.6,NE,64%,0.1
+Maharashtra,Nashik,Apr-24,4.4,38,27,32.5,52,7,5.1,E,23%,3.7
+Karnataka,Mysuru,Nov-24,70.2,37,31,34,47,7.3,18.7,N,38%,4
+Gujarat,Rajkot,Sep-23,160.3,29,19,24,34,6.8,18.8,NW,86%,0.5
+Uttar Pradesh,Lucknow,Aug-22,243.3,25,15,20,46,6.9,14.1,SW,44%,3.6
+Gujarat,Ahmedabad,May-24,53.8,40,30,35,47,4.2,15.6,NE,42%,3.7
+Gujarat,Rajkot,Dec-23,66.4,41,34,37.5,77,4.7,13.4,W,18%,2.6
+Uttar Pradesh,Varanasi,Nov-21,75.7,39,27,33,89,8,21.7,SW,84%,0.4
+Tamil Nadu,Tiruchirappalli,Feb-23,65.8,31,19,25,49,9.9,20.9,SE,10%,3.1
+Karnataka,Mangaluru,Jan-23,22.6,34,27,30.5,62,4.6,5.7,SE,90%,1.4
+Uttar Pradesh,Kanpur,Jun-21,213.8,34,27,30.5,62,9.5,14.7,W,31%,0.3
+Karnataka,Bengaluru,Oct-23,35.9,27,20,23.5,84,9.3,18.3,NE,44%,0.1
+Karnataka,Mysuru,May-20,18.6,28,22,25,63,4.9,22.2,NW,48%,4.8
+Uttar Pradesh,Lucknow,Aug-20,173.6,27,17,22,74,6.7,14.8,NE,24%,0.9
+Tamil Nadu,Chennai,Feb-22,45.6,28,16,22,76,9.5,5.8,SW,89%,0.1
+Uttar Pradesh,Kanpur,Aug-23,229.1,40,30,35,70,5.9,13.7,E,69%,4.8
+Uttar Pradesh,Varanasi,Oct-21,79.4,31,23,27,47,6.1,9.3,NW,70%,3.8
+Maharashtra,Mumbai,Dec-22,41.3,35,25,30,62,6.3,8.6,NE,30%,0.7
+Maharashtra,Pune,May-20,7.6,34,23,28.5,54,6.8,12.6,SE,69%,2.2
+Uttar Pradesh,Kanpur,May-24,46.8,38,33,35.5,42,5,22.3,SE,29%,3.3
+Maharashtra,Nagpur,Nov-21,55.1,31,25,28,39,5.3,18.9,E,61%,1.1
+Maharashtra,Nashik,Apr-23,15.2,40,29,34.5,59,8.7,23.4,SW,60%,0.3
+Uttar Pradesh,Lucknow,Oct-20,9.6,42,34,38,35,6.5,20.2,N,73%,1.2
+Maharashtra,Pune,Dec-24,13.3,28,20,24,62,8.1,6.5,S,51%,5
+Gujarat,Ahmedabad,Sep-22,277.6,34,22,28,77,4.1,24.4,E,12%,4.6
+Gujarat,Ahmedabad,Jun-20,199.4,37,28,32.5,37,6.9,20,SE,24%,4.8
+Uttar Pradesh,Kanpur,Nov-21,78.8,41,31,36,65,9.1,9.4,NE,41%,0.6
+Uttar Pradesh,Agra,Apr-21,12.5,41,30,35.5,84,5.2,8.4,NW,30%,3.1
+Gujarat,Rajkot,Aug-24,355.2,42,32,37,89,6.8,18.2,SW,40%,4.1
+Gujarat,Vadodara,Jun-23,318,26,18,22,32,6.1,24.8,NE,82%,4.8
+Karnataka,Bengaluru,Apr-20,69.1,38,29,33.5,57,7.4,18.2,NE,72%,3.1
+Gujarat,Vadodara,Aug-24,397.1,32,26,29,84,6.1,6.3,SW,74%,3.2
+Karnataka,Bengaluru,May-23,79.5,37,25,31,72,6.2,10.7,NW,51%,1.6
+Uttar Pradesh,Lucknow,Mar-24,11.8,27,15,21,30,6.6,8.1,S,52%,2.5
+Gujarat,Ahmedabad,May-23,4.9,38,29,33.5,90,4,23.2,NE,61%,4.3
+Tamil Nadu,Tiruchirappalli,Nov-23,46.9,42,36,39,39,4.8,24.9,N,79%,3.9
+Uttar Pradesh,Kanpur,Jul-22,219.2,40,30,35,48,7.5,18.2,SE,24%,0.9
+Karnataka,Mysuru,Oct-20,63.6,31,25,28,88,4.1,19.7,SE,43%,3.9
+Gujarat,Rajkot,Mar-23,75.1,27,21,24,54,5.3,17.9,S,67%,3.7
+Karnataka,Hubli,Mar-23,71.6,31,22,26.5,60,7.5,23.3,E,80%,2.2
+Tamil Nadu,Chennai,Mar-20,45.4,35,23,29,37,6.2,18.5,S,27%,4.1
+Maharashtra,Mumbai,May-21,2.5,39,32,35.5,89,6.2,21,NE,71%,1.7
+Tamil Nadu,Tiruchirappalli,May-23,39.4,41,30,35.5,51,6.2,21.8,NW,65%,5
+Gujarat,Rajkot,Feb-22,28.5,26,20,23,64,4.2,20.7,SW,68%,4.1
+Maharashtra,Pune,Feb-24,61.2,42,35,38.5,30,9.5,20.2,W,25%,3.3
+Gujarat,Ahmedabad,Jun-24,159.7,35,24,29.5,85,7.8,10.7,W,50%,2.7
+Maharashtra,Mumbai,Dec-21,21.9,26,20,23,34,5.5,8.8,SW,20%,2.3
+Uttar Pradesh,Agra,Dec-24,43.4,34,29,31.5,69,5.1,20.6,S,17%,1.7
+Uttar Pradesh,Kanpur,Aug-20,40.7,26,17,21.5,49,4.5,21.2,N,82%,3.3
+Tamil Nadu,Madurai,May-23,12.2,38,29,33.5,87,9.4,11.1,SW,13%,0.8
+Karnataka,Hubli,Jan-24,2,30,21,25.5,88,7.3,15.4,SE,34%,2.9
+Gujarat,Surat,Jul-22,223.4,33,24,28.5,49,5.2,16.2,SE,11%,1.5
+Karnataka,Mysuru,Nov-23,52.9,32,27,29.5,89,8.3,24.1,NW,58%,0.7
+Tamil Nadu,Coimbatore,Sep-22,99,33,22,27.5,81,5.1,11.9,S,29%,1
+Tamil Nadu,Chennai,Nov-24,17,26,21,23.5,55,8.7,21,N,24%,2.8
+Karnataka,Mangaluru,May-20,56.9,38,26,32,50,4.3,21.2,NE,82%,2
+Karnataka,Mangaluru,Feb-21,68.8,30,23,26.5,33,4.8,18.9,NW,62%,0.3
+Maharashtra,Mumbai,Nov-21,76.2,38,33,35.5,73,4.1,15.6,SE,76%,4.3
+Uttar Pradesh,Kanpur,May-23,20.1,31,20,25.5,85,5.2,10,SE,55%,4.6
+Karnataka,Mangaluru,Jul-21,205,31,21,26,56,7.5,16.4,N,31%,2.8
+Gujarat,Rajkot,Jun-24,56.8,29,23,26,34,4.9,12.3,SE,29%,3.8
+Maharashtra,Pune,Jan-22,70.2,38,29,33.5,42,5.3,22.7,S,19%,2.2
+Gujarat,Ahmedabad,May-21,14.7,31,24,27.5,86,5.5,8.5,NE,16%,2.3
+Tamil Nadu,Chennai,Jun-21,360.3,33,23,28,41,8.2,18.1,SW,85%,4
+Uttar Pradesh,Varanasi,Aug-23,336.6,25,16,20.5,40,7.7,25,SW,17%,0.2
+Tamil Nadu,Tiruchirappalli,Feb-24,54.1,27,20,23.5,54,5.6,22.9,NW,88%,3.3
+Karnataka,Bengaluru,May-22,19.4,34,27,30.5,81,9,12.2,NE,78%,4.7
+Maharashtra,Pune,Jun-21,9.6,33,23,28,65,6.2,6,NW,20%,2.4
+Uttar Pradesh,Kanpur,Feb-22,43.9,25,17,21,88,6.7,14.1,SE,15%,2.7
+Gujarat,Rajkot,Apr-21,69.9,41,31,36,75,5.7,14.6,NE,20%,3.4
+Maharashtra,Pune,May-20,7.6,34,23,28.5,54,6.8,12.6,SE,69%,2.2
+Karnataka,Mysuru,Jul-23,163.8,32,26,29,57,8.4,14.9,W,75%,0.8
+Karnataka,Hubli,Aug-21,240.7,29,19,24,72,10,8.4,N,26%,1.7
+Tamil Nadu,Coimbatore,Oct-20,9.9,27,16,21.5,46,8.3,21.8,NW,76%,1
+Karnataka,Mangaluru,Dec-21,5.8,27,17,22,77,7.3,6,SE,38%,1.2
+Maharashtra,Mumbai,Oct-24,28.2,27,20,23.5,30,8.8,15.9,N,26%,3
+Tamil Nadu,Coimbatore,Feb-24,21.2,36,24,30,50,5.3,20.4,SE,76%,0.9
+Tamil Nadu,Chennai,Nov-20,47.7,37,26,31.5,34,4.2,14.7,SW,15%,4
+Uttar Pradesh,Kanpur,Nov-24,63,30,22,26,76,9.5,13.1,SW,42%,1.9
+Uttar Pradesh,Varanasi,Dec-24,37.7,40,31,35.5,32,5.9,15.3,SE,62%,2.2
+Karnataka,Mangaluru,Jan-20,77.8,40,30,35,68,7.4,19.1,NE,30%,2.7
+Maharashtra,Mumbai,Jul-21,283.2,40,29,34.5,54,8.5,23,W,53%,1.8
+Gujarat,Surat,Dec-22,69.1,26,15,20.5,76,6,20.8,S,63%,3.2
+Karnataka,Bengaluru,Oct-21,24.7,34,23,28.5,62,5.6,17.7,W,72%,3.1
+Gujarat,Ahmedabad,May-24,53.8,40,30,35,47,4.2,15.6,NE,42%,3.7
+Tamil Nadu,Coimbatore,Dec-21,55.7,35,30,32.5,45,9.9,8.5,N,45%,4.9
+Uttar Pradesh,Varanasi,Sep-24,217.4,34,26,30,38,5.5,13.4,NW,88%,0.2
+Tamil Nadu,Coimbatore,Mar-22,17.7,34,25,29.5,81,6.8,17.4,NW,38%,0
+Gujarat,Rajkot,Aug-23,387.8,29,20,24.5,35,5.9,21.1,NE,64%,0.6
+Uttar Pradesh,Kanpur,Jul-21,48.6,34,25,29.5,38,6.6,16.1,NE,67%,0.5
+Gujarat,Surat,Nov-23,40.8,31,25,28,38,5.7,21.8,W,45%,1
+Tamil Nadu,Coimbatore,Jan-23,23.8,32,22,27,54,4.1,21.4,SW,71%,2.5
+Tamil Nadu,Coimbatore,Nov-24,50.7,39,30,34.5,36,8.2,17.2,NW,70%,3.8
+Karnataka,Bengaluru,Dec-20,66.9,33,25,29,68,9,10.1,W,31%,4.4
+Maharashtra,Pune,May-24,75.1,37,28,32.5,83,9.2,11.4,NW,52%,2.1
+Gujarat,Vadodara,Jul-24,305.3,36,27,31.5,36,8.6,18.4,S,24%,1.5
+Uttar Pradesh,Varanasi,Jun-20,391.6,30,23,26.5,63,9.2,24,NE,11%,1.1
+Karnataka,Mysuru,May-20,18.6,28,22,25,63,4.9,22.2,NW,48%,4.8
+Karnataka,Bengaluru,Apr-24,45.7,28,19,23.5,76,5.1,14,S,51%,3.2
+Maharashtra,Nashik,Jan-22,47.8,39,30,34.5,62,6.6,10,W,41%,3.7
+Gujarat,Ahmedabad,Apr-24,45.5,30,24,27,82,6.4,19.1,E,73%,2.8
+Uttar Pradesh,Lucknow,Apr-22,11.4,34,28,31,56,5.2,9.3,NE,85%,1.8
+Gujarat,Vadodara,Sep-23,79.9,37,31,34,37,8.1,20.9,SE,56%,0.6
+Karnataka,Bengaluru,Dec-23,5.2,39,33,36,55,8.3,10.1,SW,71%,0.3
+Uttar Pradesh,Agra,Mar-22,1.5,34,23,28.5,50,8.1,12.9,SE,79%,0.2
+Gujarat,Ahmedabad,Dec-20,31.9,28,19,23.5,62,7.9,13.8,SW,37%,3
+Gujarat,Surat,Aug-21,134.9,38,30,34,36,8.8,10.3,NE,14%,4.3
+Tamil Nadu,Coimbatore,Jul-21,112.2,42,30,36,36,8,18.7,NE,84%,2.9
+Gujarat,Rajkot,Sep-21,141.2,26,16,21,61,7.4,8.2,SE,24%,4.6
+Karnataka,Hubli,Jun-22,356.5,26,20,23,79,6.9,14.9,S,59%,3.9
+Tamil Nadu,Coimbatore,Nov-22,73.1,29,19,24,63,9.2,7.8,SW,41%,0.3
+Tamil Nadu,Chennai,Dec-21,13.9,42,34,38,77,9.1,21.7,S,79%,4.6
+Uttar Pradesh,Varanasi,Jun-21,387.8,34,23,28.5,77,9.2,14.6,E,27%,3.8
+Tamil Nadu,Tiruchirappalli,Aug-20,282.8,38,29,33.5,58,5.1,8.1,N,64%,0.2
+Tamil Nadu,Madurai,May-23,12.2,38,29,33.5,87,9.4,11.1,SW,13%,0.8
+Maharashtra,Nagpur,Apr-22,74,30,25,27.5,72,7.2,7.8,SW,33%,1.3
+Tamil Nadu,Tiruchirappalli,Nov-24,38.7,36,24,30,72,9.6,22.6,E,37%,4.3
+Karnataka,Mysuru,May-22,54.9,31,26,28.5,43,5.2,13.6,NW,34%,4.1
+Tamil Nadu,Madurai,Dec-22,52.1,37,26,31.5,62,8.7,5.6,N,59%,1.7
+Maharashtra,Pune,Sep-20,289.6,31,26,28.5,88,8.1,5.4,SE,15%,1.5
+Gujarat,Ahmedabad,Dec-24,63.5,30,25,27.5,49,9.8,7.1,N,58%,2.8
+Gujarat,Vadodara,May-20,0.9,34,25,29.5,78,5.8,13.1,NW,44%,3.4
+Karnataka,Mysuru,Mar-21,2,26,20,23,78,7.5,16.2,NE,87%,1.9
+Tamil Nadu,Chennai,Nov-22,17,35,23,29,62,9.7,24.2,S,38%,4.8
+Uttar Pradesh,Varanasi,Dec-20,13,37,27,32,69,9.6,24.9,E,30%,0.1
+Karnataka,Bengaluru,Jan-21,50.7,28,23,25.5,45,7.5,11.7,N,76%,0.6
+Maharashtra,Nashik,Dec-22,17,27,19,23,57,8.4,7.2,E,78%,1.4
+Maharashtra,Pune,Jun-20,239.6,37,30,33.5,74,5,19.8,S,68%,1
+Gujarat,Rajkot,Aug-21,282.9,36,30,33,50,9.7,5.1,S,37%,3.6
+Karnataka,Bengaluru,Mar-22,17.9,41,30,35.5,82,9.8,23.9,NW,65%,3.6
+Karnataka,Mysuru,Apr-21,68.4,35,24,29.5,63,4.1,5.4,NW,71%,0.1
+Karnataka,Mysuru,Jul-20,72.9,31,22,26.5,90,5.4,10.3,SE,41%,2
+Uttar Pradesh,Agra,Aug-24,111.4,40,29,34.5,38,4.6,9.9,W,42%,1.7
+Gujarat,Rajkot,Jan-24,71.1,34,26,30,69,5.2,5.3,NE,44%,1
+Uttar Pradesh,Agra,Dec-23,48.5,33,27,30,58,8.2,7.3,E,75%,2.2
+Gujarat,Ahmedabad,Aug-22,202.9,29,18,23.5,37,7.1,20.5,W,18%,3.7
+Gujarat,Vadodara,Sep-23,79.9,37,31,34,37,8.1,20.9,SE,56%,0.6
+Karnataka,Hubli,Oct-22,18.7,42,36,39,80,5.5,16.6,SE,78%,2.1
+Karnataka,Mysuru,Oct-22,44.7,27,16,21.5,63,4.7,12.5,NW,90%,1.5
+Tamil Nadu,Tiruchirappalli,Jul-20,222.8,31,19,25,36,6.7,18,SW,80%,1.6
+Uttar Pradesh,Varanasi,Jul-24,249.8,36,28,32,45,5.5,12.6,E,63%,3.2
+Gujarat,Surat,May-24,50.5,41,29,35,85,8.3,15.4,SE,46%,0.4
+Uttar Pradesh,Lucknow,Oct-22,13,28,18,23,55,6.1,5.1,S,68%,4.4
+Gujarat,Rajkot,Dec-20,57.8,36,24,30,87,9,8.3,N,70%,4.2
+Tamil Nadu,Madurai,Sep-23,23.9,33,28,30.5,82,6.8,23.8,E,76%,1.5
+Uttar Pradesh,Kanpur,Sep-24,390.9,31,26,28.5,72,6.6,24.9,S,58%,4.1
+Gujarat,Rajkot,Apr-21,69.9,41,31,36,75,5.7,14.6,NE,20%,3.4
+Maharashtra,Nashik,Dec-24,13.1,26,18,22,69,5.3,8.9,NE,30%,4.8
+Maharashtra,Mumbai,Sep-20,391.3,33,24,28.5,60,9.9,15.6,NW,68%,2.1
+Uttar Pradesh,Agra,Aug-22,276,33,22,27.5,84,4,18.6,SE,11%,4.1
+Gujarat,Surat,Jun-24,271.2,26,21,23.5,68,8.6,12.2,SW,24%,3.4
+Karnataka,Hubli,Sep-23,391.1,36,26,31,43,7.7,5.3,S,89%,1.3
+Tamil Nadu,Madurai,Dec-20,16.5,27,15,21,81,5,10.5,NE,20%,4.9
+Maharashtra,Pune,Mar-21,31.5,33,24,28.5,67,7.1,5.7,E,83%,0.6
+Gujarat,Rajkot,Dec-22,55.3,32,26,29,33,9,13.4,S,83%,2.5
+Gujarat,Ahmedabad,Jan-23,15.4,30,22,26,77,6.3,15.1,SW,74%,4.3
+Uttar Pradesh,Kanpur,Aug-21,269,26,14,20,47,7.5,20.3,NW,75%,1.3
+Tamil Nadu,Coimbatore,Jul-23,156.3,40,28,34,85,8.7,11,SW,18%,4.8
+Gujarat,Surat,Apr-23,2.8,27,21,24,44,6.5,14.9,E,54%,0.6
+Gujarat,Surat,Jul-21,134.5,38,29,33.5,49,6,5.1,W,61%,3.3
+Gujarat,Ahmedabad,Jun-20,199.4,37,28,32.5,37,6.9,20,SE,24%,4.8
+Tamil Nadu,Madurai,Mar-24,20.5,38,31,34.5,70,7.9,5.6,SW,25%,1.7
+Gujarat,Rajkot,Sep-21,141.2,26,16,21,61,7.4,8.2,SE,24%,4.6
+Gujarat,Vadodara,Nov-23,54.9,32,21,26.5,44,4.5,7.2,NW,37%,2.2
+Maharashtra,Nashik,Apr-23,15.2,40,29,34.5,59,8.7,23.4,SW,60%,0.3
+Tamil Nadu,Tiruchirappalli,Mar-20,15.9,26,20,23,65,5.4,17.5,N,28%,2.6
+Maharashtra,Nashik,Sep-22,195,36,27,31.5,40,7.8,17.1,W,25%,4.6
+Maharashtra,Nashik,May-22,23.7,31,24,27.5,82,7.3,20.8,N,58%,2.8
+Karnataka,Hubli,Feb-21,41.8,28,21,24.5,47,8.2,10.6,NW,88%,2
+Tamil Nadu,Coimbatore,Apr-22,39,28,23,25.5,71,7.6,10.1,NE,69%,4.8
+Tamil Nadu,Chennai,Apr-20,72.3,32,27,29.5,57,7.8,23,SW,66%,4.3
+Karnataka,Mangaluru,Oct-22,52.1,33,25,29,53,6.1,19.4,N,56%,3.5
+Gujarat,Surat,Mar-24,56.2,26,14,20,88,5.4,10.7,SW,45%,2.2
+Uttar Pradesh,Varanasi,Jan-20,4.8,25,15,20,81,7.4,15.8,SE,77%,3.5
+Karnataka,Bengaluru,Jul-23,366,41,31,36,83,5.5,10,S,68%,2.8
+Gujarat,Vadodara,Jul-24,305.3,36,27,31.5,36,8.6,18.4,S,24%,1.5
+Gujarat,Surat,Jul-24,260.4,32,20,26,78,5.2,6.8,N,46%,1.7
+Tamil Nadu,Chennai,Apr-20,72.3,32,27,29.5,57,7.8,23,SW,66%,4.3
+Maharashtra,Mumbai,Apr-22,52.5,42,37,39.5,78,8,12.1,NW,71%,1.5
+Tamil Nadu,Madurai,Mar-21,28.9,30,24,27,77,9.5,18.4,E,54%,1.2
+Uttar Pradesh,Agra,Dec-24,43.4,34,29,31.5,69,5.1,20.6,S,17%,1.7
+Tamil Nadu,Coimbatore,Sep-23,391.9,34,28,31,36,6,19.2,SE,66%,0.2
+Gujarat,Surat,Nov-22,65.4,33,21,27,34,8.3,11,SE,38%,1.8
+Uttar Pradesh,Agra,May-22,42.6,30,24,27,86,4.5,5.9,N,48%,3.2
+Karnataka,Hubli,Sep-23,391.1,36,26,31,43,7.7,5.3,S,89%,1.3
+Tamil Nadu,Coimbatore,Sep-24,217.1,29,19,24,38,5.1,21.8,NW,35%,4.7
+Maharashtra,Nagpur,Feb-22,46.2,27,21,24,77,6.3,12.5,SE,83%,1.3
+Gujarat,Rajkot,Apr-20,23.9,42,33,37.5,51,9.8,23,SW,24%,2.4
+Tamil Nadu,Chennai,Dec-22,71.5,31,23,27,54,9.3,13.6,N,86%,2
+Maharashtra,Pune,Sep-22,306.2,31,24,27.5,31,6.9,9.3,NE,89%,4.8
+Karnataka,Bengaluru,Feb-20,59.4,33,23,28,81,8.8,22.3,SW,34%,4.7
+Maharashtra,Nashik,Dec-23,19,40,30,35,41,10,24.4,NE,52%,4.8
+Karnataka,Mangaluru,May-21,52.1,39,29,34,90,4.2,18,W,49%,3.8
+Uttar Pradesh,Kanpur,Feb-24,4.5,34,25,29.5,45,6.3,20.4,SW,48%,3.8
+Karnataka,Mangaluru,Dec-20,51.5,42,34,38,58,9.6,18.2,S,50%,4.7
+Maharashtra,Nashik,May-23,78.3,33,26,29.5,88,4.8,8.2,E,67%,2
+Maharashtra,Mumbai,Jan-21,14.3,31,23,27,85,9.7,13.6,SW,10%,4.9
+Maharashtra,Nashik,Oct-22,17,39,28,33.5,52,4.7,18.5,SE,11%,0.4
+Maharashtra,Mumbai,Jul-24,152,38,32,35,38,7.7,21.4,SW,46%,2.9
+Maharashtra,Pune,Mar-21,31.5,33,24,28.5,67,7.1,5.7,E,83%,0.6
+Gujarat,Rajkot,Dec-21,42.3,42,36,39,74,9.9,16.1,S,17%,1.6
+Maharashtra,Nashik,Mar-24,12.2,36,30,33,30,5.8,9.5,NW,24%,2.8
+Maharashtra,Pune,Jul-24,354,37,29,33,35,6.3,15,S,33%,2.7
+Uttar Pradesh,Lucknow,Jan-23,21.9,29,23,26,56,7.9,17,SW,87%,3.9
+Gujarat,Rajkot,Nov-24,26.3,37,31,34,88,7,17.6,E,24%,1.2
+Tamil Nadu,Coimbatore,Apr-20,48.3,41,34,37.5,73,6.6,20.4,N,27%,4
+Gujarat,Surat,Sep-21,163.3,38,28,33,38,6.7,22,N,23%,2.1
+Gujarat,Ahmedabad,Jul-21,267.9,41,35,38,41,4.7,23.8,S,76%,1.4
+Maharashtra,Nashik,Nov-22,14.1,29,19,24,38,7.1,14,W,32%,3.2
+Karnataka,Bengaluru,Jul-23,366,41,31,36,83,5.5,10,S,68%,2.8
+Uttar Pradesh,Varanasi,Dec-21,23.4,32,20,26,43,9,18.7,N,90%,1.1
+Tamil Nadu,Coimbatore,Dec-20,33,39,31,35,79,7.1,21.7,SW,45%,0
+Karnataka,Mysuru,Jan-22,14.4,26,15,20.5,84,6.7,20.7,W,83%,4.7
+Gujarat,Vadodara,Aug-21,136.9,38,29,33.5,35,9.1,13.1,W,10%,2.6
+Uttar Pradesh,Lucknow,Nov-21,6.4,30,24,27,37,7.8,9.4,SE,14%,3.1
+Karnataka,Mangaluru,Oct-21,22.5,39,28,33.5,71,6.7,21.4,NW,75%,0.1
+Gujarat,Ahmedabad,Mar-22,9.4,27,21,24,42,9.2,6.6,SW,32%,0.6
+Karnataka,Mangaluru,Mar-21,43.1,35,28,31.5,74,8.4,13.6,W,77%,3.9
+Karnataka,Mangaluru,Oct-23,67.4,29,23,26,35,10,12.2,N,19%,3.6
+Tamil Nadu,Madurai,Jan-23,40.8,26,17,21.5,34,7.7,14.5,SE,13%,3.7
+Maharashtra,Nashik,May-21,63.1,40,31,35.5,83,8.3,8.7,E,27%,1.1
+Tamil Nadu,Chennai,Jan-20,41.4,39,34,36.5,50,7.4,14.7,NE,13%,0.9
+Gujarat,Vadodara,Apr-20,68.5,34,29,31.5,38,4.3,8.6,NW,56%,1.2
+Uttar Pradesh,Varanasi,Jul-23,186.7,41,31,36,50,8.2,5.8,SE,34%,0
+Maharashtra,Nagpur,Aug-21,210.4,29,20,24.5,89,5.5,20.6,S,51%,4.6
+Uttar Pradesh,Kanpur,Jan-22,63.7,40,35,37.5,46,8.7,24.7,W,32%,0.7
+Karnataka,Bengaluru,Mar-21,65.1,37,25,31,30,5.9,11.2,E,65%,2.1
+Gujarat,Rajkot,May-20,18.8,25,17,21,90,6.9,16.1,SW,22%,1.1
+Maharashtra,Nashik,Mar-22,31.2,26,20,23,59,7.5,17,W,81%,1
+Uttar Pradesh,Kanpur,Apr-20,69.8,33,24,28.5,63,7.5,9.2,W,55%,3.7
+Gujarat,Ahmedabad,Nov-24,70.9,34,27,30.5,73,9.5,12.6,NW,14%,1.2
+Maharashtra,Mumbai,Feb-20,29.5,27,15,21,60,8.6,16.2,NW,87%,3.8
+Tamil Nadu,Chennai,Feb-22,45.6,28,16,22,76,9.5,5.8,SW,89%,0.1
+Maharashtra,Nagpur,Aug-22,323.3,26,21,23.5,47,5.8,9,SE,55%,3.4
+Tamil Nadu,Tiruchirappalli,Nov-22,17.4,34,27,30.5,79,4.4,18.3,NE,68%,1.6
+Maharashtra,Mumbai,Oct-23,69,31,21,26,79,9.1,5.3,N,52%,4.9
+Gujarat,Surat,Mar-24,56.2,26,14,20,88,5.4,10.7,SW,45%,2.2
+Tamil Nadu,Madurai,Apr-21,29.2,36,30,33,65,8.3,15.1,N,24%,4.9
+Maharashtra,Nashik,Apr-22,21.6,27,21,24,77,8.4,13.6,NE,88%,4.5
+Tamil Nadu,Madurai,Jul-21,178.3,27,20,23.5,82,5.2,24.8,W,56%,0.1
+Karnataka,Mysuru,Dec-21,18.4,34,26,30,71,4.3,15.7,W,10%,3.6
+Uttar Pradesh,Kanpur,Feb-23,8.3,34,27,30.5,82,7.1,7,S,86%,0.9
+Tamil Nadu,Tiruchirappalli,Jan-24,41.5,25,15,20,61,7.9,12.9,SW,61%,0.6
+Karnataka,Hubli,Oct-20,41.2,40,30,35,31,6.7,20.7,E,11%,3.4
+Gujarat,Ahmedabad,Feb-20,79.8,34,27,30.5,47,9.9,16.4,W,67%,1.3
+Gujarat,Vadodara,Feb-23,18.3,37,28,32.5,80,6.7,8.2,SE,12%,0
+Gujarat,Vadodara,Mar-23,39.5,31,19,25,56,7.8,13.4,SW,48%,3.1
+Gujarat,Vadodara,Jun-24,132.8,36,29,32.5,60,5.6,10.2,E,90%,2.9
+Karnataka,Bengaluru,Apr-20,69.1,38,29,33.5,57,7.4,18.2,NE,72%,3.1
+Maharashtra,Nagpur,Jul-22,71.3,36,30,33,82,8.1,20.2,SE,34%,0.3
+Gujarat,Vadodara,May-22,40.1,25,15,20,57,4.3,16.1,W,65%,2.8
+Maharashtra,Nashik,Mar-20,76.5,32,25,28.5,33,4.1,10.4,W,17%,3.5
+Uttar Pradesh,Varanasi,Feb-23,73.7,32,23,27.5,35,6.3,7.2,W,82%,3.2
+Karnataka,Mangaluru,May-21,52.1,39,29,34,90,4.2,18,W,49%,3.8
+Karnataka,Mysuru,Feb-21,30.7,42,34,38,45,4.4,14.2,S,33%,3.9
+Uttar Pradesh,Agra,Nov-23,49,31,25,28,87,8.2,18.2,S,69%,2.2
+Tamil Nadu,Chennai,Dec-22,71.5,31,23,27,54,9.3,13.6,N,86%,2
+Gujarat,Vadodara,Feb-21,8.6,29,23,26,42,9.7,5.2,NW,20%,1.5
+Maharashtra,Nagpur,Feb-21,60.5,27,21,24,74,7.6,6.9,S,78%,2.4
+Uttar Pradesh,Lucknow,Sep-20,226.1,38,28,33,48,8.9,10.3,SE,14%,4
+Gujarat,Ahmedabad,Jul-21,267.9,41,35,38,41,4.7,23.8,S,76%,1.4
+Tamil Nadu,Madurai,Jan-21,42.4,41,33,37,67,9.5,23.2,S,21%,0.4
+Gujarat,Surat,Nov-22,65.4,33,21,27,34,8.3,11,SE,38%,1.8
+Uttar Pradesh,Kanpur,Mar-21,66.5,32,22,27,72,4.5,23.8,NE,16%,3.3
+Maharashtra,Nashik,Oct-23,54.3,39,28,33.5,67,8.1,6.6,NE,48%,4.8
+Karnataka,Mysuru,Nov-22,72.1,28,23,25.5,82,7.9,12.7,N,17%,2.5
+Maharashtra,Nagpur,Dec-23,23.4,40,31,35.5,54,6,6.4,N,18%,4.3
+Karnataka,Mysuru,Mar-22,78.5,39,28,33.5,90,4.5,20.6,S,56%,4.6
+Uttar Pradesh,Varanasi,Sep-21,38.2,30,22,26,73,6.8,14.5,S,81%,4
+Tamil Nadu,Madurai,Aug-24,165.7,26,19,22.5,90,9.8,15,NW,49%,1.7
+Maharashtra,Nashik,Nov-22,14.1,29,19,24,38,7.1,14,W,32%,3.2
+Karnataka,Bengaluru,Aug-21,211.9,39,31,35,36,6.5,7.8,SW,53%,0.8
+Karnataka,Hubli,Sep-20,181,33,23,28,86,7.4,19.7,SW,41%,2.8
+Tamil Nadu,Coimbatore,May-23,49.6,41,33,37,35,8,21.7,NW,29%,4.5
+Uttar Pradesh,Agra,Jul-24,382.4,38,33,35.5,66,8.9,6.5,NE,17%,3
+Maharashtra,Pune,Nov-21,26.2,30,21,25.5,69,6.4,5.9,W,59%,3.1
+Maharashtra,Mumbai,Jul-21,283.2,40,29,34.5,54,8.5,23,W,53%,1.8
+Maharashtra,Mumbai,Feb-22,69.2,32,23,27.5,74,6.8,11.9,SE,80%,4.9
+Uttar Pradesh,Lucknow,Nov-22,24.5,41,31,36,53,9.5,12.5,W,50%,1.5
+Karnataka,Mangaluru,Nov-23,2.4,32,27,29.5,82,4.7,8.6,SW,38%,2.2
+Gujarat,Surat,Apr-20,53.7,28,17,22.5,30,6.4,18.4,W,85%,3.8
+Uttar Pradesh,Agra,Dec-24,43.4,34,29,31.5,69,5.1,20.6,S,17%,1.7
+Karnataka,Bengaluru,Dec-21,3.4,38,29,33.5,54,5.9,15.5,SW,67%,3
+Gujarat,Surat,Jul-21,134.5,38,29,33.5,49,6,5.1,W,61%,3.3
+Uttar Pradesh,Varanasi,Jun-20,391.6,30,23,26.5,63,9.2,24,NE,11%,1.1
+Karnataka,Mangaluru,Nov-24,11.7,40,31,35.5,78,6.2,17.3,E,79%,3
+Tamil Nadu,Tiruchirappalli,Sep-22,387.2,39,31,35,66,8.5,9.4,S,16%,0.6
+Gujarat,Surat,Nov-20,48.5,25,19,22,51,8.9,18.5,SW,87%,2.6
+Karnataka,Mangaluru,Sep-24,315.4,38,33,35.5,34,4.5,13.2,N,79%,2.6
+Maharashtra,Mumbai,Mar-22,11.5,37,31,34,70,7.3,18.5,NE,21%,3
+Karnataka,Hubli,Oct-24,24.4,36,25,30.5,75,4.9,23.8,NW,11%,3.5
+Uttar Pradesh,Lucknow,Sep-24,219,35,23,29,69,6.5,5.8,N,54%,1
+Gujarat,Ahmedabad,Apr-24,45.5,30,24,27,82,6.4,19.1,E,73%,2.8
+Tamil Nadu,Coimbatore,Sep-22,99,33,22,27.5,81,5.1,11.9,S,29%,1
+Maharashtra,Nashik,May-24,79.7,25,17,21,81,10,9.7,NW,26%,1.2
+Uttar Pradesh,Agra,Aug-22,276,33,22,27.5,84,4,18.6,SE,11%,4.1
+Gujarat,Ahmedabad,Jan-22,26.9,26,17,21.5,61,7.1,8.1,W,16%,1.7
+Maharashtra,Nagpur,Sep-21,88,32,27,29.5,36,6.9,6,SW,53%,0.2
+Uttar Pradesh,Lucknow,Jun-21,230.7,36,27,31.5,46,4.9,19.3,SW,17%,4.8
+Gujarat,Surat,Dec-21,18.3,31,22,26.5,59,5.8,17.1,NE,67%,2.7
+Karnataka,Hubli,Dec-20,5.4,38,30,34,82,4,18.6,N,67%,0.7
+Maharashtra,Pune,Apr-23,13.6,37,27,32,64,9.5,9.9,SE,78%,2.9
+Uttar Pradesh,Kanpur,Jan-24,14.2,32,23,27.5,38,5.9,24.3,N,85%,0.2
+Karnataka,Mysuru,Dec-23,43.8,35,28,31.5,53,7.1,17.8,W,54%,3
+Maharashtra,Mumbai,Nov-20,36.6,33,21,27,90,9.6,23,W,10%,0.5
+Gujarat,Surat,Sep-23,377.1,25,18,21.5,56,4,14,S,82%,1
+Maharashtra,Nagpur,Dec-23,23.4,40,31,35.5,54,6,6.4,N,18%,4.3
+Karnataka,Mysuru,Feb-21,30.7,42,34,38,45,4.4,14.2,S,33%,3.9
+Gujarat,Rajkot,Oct-21,34.3,29,21,25,69,4.1,13.2,W,24%,3.4
+Gujarat,Rajkot,Jul-24,367.9,25,15,20,52,7.6,22.5,W,13%,1
+Uttar Pradesh,Agra,May-24,54.5,38,26,32,59,6.2,11.2,SW,72%,2.4
+Uttar Pradesh,Agra,Nov-24,73.5,31,19,25,45,7.6,7.4,NW,72%,2.1
+Karnataka,Bengaluru,Nov-20,35.9,34,23,28.5,34,6.5,24.9,NW,52%,2.8
+Uttar Pradesh,Agra,Jul-22,370.7,27,17,22,44,6.6,5.1,N,27%,1.1
+Uttar Pradesh,Kanpur,Nov-21,78.8,41,31,36,65,9.1,9.4,NE,41%,0.6
+Karnataka,Mysuru,Nov-21,27.2,30,20,25,44,7.9,8.7,SE,28%,2.2
+Tamil Nadu,Chennai,Jul-21,382.5,41,32,36.5,40,5.2,22.4,S,20%,0
+Karnataka,Mysuru,Sep-20,166.7,27,17,22,70,6.3,8.6,SE,13%,3.7
+Maharashtra,Mumbai,Feb-24,64.7,38,33,35.5,49,8.7,16.3,E,60%,1.1
+Uttar Pradesh,Kanpur,Apr-23,10.4,38,31,34.5,49,8.9,24,W,17%,0.4
+Karnataka,Bengaluru,Oct-24,3.8,41,29,35,85,4.9,13,NE,79%,3.7
+Karnataka,Mysuru,Aug-24,280.6,36,25,30.5,67,4.6,8.3,SE,12%,1.8
+Gujarat,Vadodara,Jan-20,48.8,42,32,37,69,5.7,13.4,N,31%,3.1
+Karnataka,Bengaluru,Aug-22,275.5,38,26,32,77,6.7,22.4,E,73%,3.8
+Tamil Nadu,Coimbatore,May-23,49.6,41,33,37,35,8,21.7,NW,29%,4.5
+Maharashtra,Nagpur,May-21,63.8,27,17,22,43,5.8,24.2,E,50%,0.8
+Gujarat,Ahmedabad,Sep-24,7.6,35,27,31,43,9.9,10.4,N,86%,1.6
+Uttar Pradesh,Kanpur,Apr-22,78.9,33,28,30.5,48,7.3,5.2,NW,48%,2.6
+Gujarat,Rajkot,Feb-21,2.7,35,29,32,58,5.1,11.7,SW,65%,2.1
+Uttar Pradesh,Agra,Jul-23,300.4,30,25,27.5,51,9.2,18.2,NW,73%,4.7
+Tamil Nadu,Madurai,May-21,63.4,30,21,25.5,87,8.9,13.9,S,75%,0.1
+Uttar Pradesh,Kanpur,Sep-21,151.8,42,33,37.5,55,8.7,15.8,NE,76%,1.1
+Uttar Pradesh,Lucknow,Sep-23,346,33,25,29,58,8.3,21.2,NW,64%,3
+Gujarat,Rajkot,May-23,28.9,37,27,32,70,8.9,12.7,E,54%,4.5
+Gujarat,Vadodara,Jul-21,13.8,39,34,36.5,85,7.3,22,S,64%,1.4
+Gujarat,Ahmedabad,May-21,14.7,31,24,27.5,86,5.5,8.5,NE,16%,2.3
+Karnataka,Bengaluru,Jan-22,77.9,27,21,24,57,9.7,10.6,E,49%,4.3
+Karnataka,Hubli,Apr-23,56.4,41,34,37.5,87,9.3,5.6,NW,22%,0.4
+Gujarat,Vadodara,Nov-20,20.9,25,14,19.5,41,6.6,15.5,SW,74%,3.6
+Karnataka,Mysuru,Nov-21,27.2,30,20,25,44,7.9,8.7,SE,28%,2.2
+Karnataka,Bengaluru,Nov-21,40.8,37,30,33.5,32,9,7.5,N,80%,0.3
+Tamil Nadu,Coimbatore,May-23,49.6,41,33,37,35,8,21.7,NW,29%,4.5
+Gujarat,Vadodara,Dec-21,46.8,32,27,29.5,60,9.1,20.4,SE,75%,3.2
+Maharashtra,Mumbai,Jul-22,14.8,30,22,26,48,9.7,9.7,NW,50%,4.8
+Uttar Pradesh,Kanpur,Nov-20,73.6,29,20,24.5,83,8.3,17.2,E,14%,2.6
+Maharashtra,Mumbai,Dec-23,38.8,38,30,34,59,6,18,SW,80%,1
+Gujarat,Rajkot,Aug-20,118.4,37,25,31,71,9.9,6.2,E,39%,0.1
+Maharashtra,Pune,Feb-23,34.9,27,16,21.5,86,9.2,5.1,S,36%,0.1
+Gujarat,Ahmedabad,Nov-22,44.8,31,21,26,34,7,24.5,W,19%,2.5
+Maharashtra,Pune,Sep-21,231.7,28,18,23,59,5.7,5.9,W,19%,2.7
+Tamil Nadu,Chennai,Oct-20,42,25,14,19.5,90,7.9,15.6,S,53%,3.3
+Uttar Pradesh,Lucknow,Oct-20,9.6,42,34,38,35,6.5,20.2,N,73%,1.2
+Uttar Pradesh,Varanasi,Nov-21,75.7,39,27,33,89,8,21.7,SW,84%,0.4
+Karnataka,Hubli,Oct-20,41.2,40,30,35,31,6.7,20.7,E,11%,3.4
+Karnataka,Bengaluru,Dec-23,5.2,39,33,36,55,8.3,10.1,SW,71%,0.3
+Tamil Nadu,Tiruchirappalli,Apr-22,26.6,36,31,33.5,36,7.7,19.8,NE,36%,1.4
+Uttar Pradesh,Agra,Jan-24,78.1,29,18,23.5,83,6,20.3,SE,54%,2.2
+Gujarat,Rajkot,Apr-20,23.9,42,33,37.5,51,9.8,23,SW,24%,2.4
+Maharashtra,Nagpur,Oct-22,36.1,38,29,33.5,42,9.5,19.9,W,62%,0.8
+Tamil Nadu,Madurai,Oct-23,29.2,35,26,30.5,66,4.6,7.3,SW,16%,2.9
+Tamil Nadu,Madurai,Sep-20,82.8,37,28,32.5,63,9.7,21.1,SW,36%,4.6
+Maharashtra,Mumbai,Jun-23,204.3,28,20,24,89,9.8,14.5,SE,29%,0.9
+Uttar Pradesh,Lucknow,Aug-24,208.2,32,22,27,43,6.4,5.8,SW,28%,1.8
+Karnataka,Bengaluru,Jul-22,226.9,32,23,27.5,45,6.5,18.3,NE,21%,2.5
+Karnataka,Hubli,May-23,71.9,34,25,29.5,30,4.8,16.3,SE,47%,1.8
+Maharashtra,Pune,Dec-23,24.9,39,33,36,65,7.5,21.4,E,48%,0.3
+Uttar Pradesh,Varanasi,Jun-22,32.5,26,17,21.5,75,5.2,17.5,SW,63%,3
+Uttar Pradesh,Varanasi,Mar-21,43.2,34,22,28,86,9.3,19.5,E,45%,0
+Maharashtra,Mumbai,Jun-21,49.4,38,30,34,43,8.7,10.4,S,62%,3.3
+Uttar Pradesh,Kanpur,Dec-21,50.2,29,19,24,45,6.1,7.8,SE,66%,4.1
+Uttar Pradesh,Kanpur,Dec-23,12.6,35,27,31,68,6.4,18,E,73%,2.9
+Maharashtra,Pune,Apr-23,13.6,37,27,32,64,9.5,9.9,SE,78%,2.9
+Karnataka,Hubli,Aug-22,281.6,37,31,34,75,5.1,22.2,N,74%,2.9
+Karnataka,Hubli,Jan-20,65.4,35,28,31.5,67,5.8,22.3,E,20%,2.2
+Tamil Nadu,Coimbatore,Jan-22,13.9,36,24,30,49,7.7,13.7,E,66%,1.4
+Tamil Nadu,Tiruchirappalli,Nov-23,46.9,42,36,39,39,4.8,24.9,N,79%,3.9
+Gujarat,Ahmedabad,Jul-24,167.7,27,16,21.5,58,4.8,17.2,E,48%,1.9
+Karnataka,Mysuru,Apr-22,58.6,32,20,26,55,8.6,13.9,S,25%,1.3
+Uttar Pradesh,Kanpur,Sep-21,151.8,42,33,37.5,55,8.7,15.8,NE,76%,1.1
+Uttar Pradesh,Lucknow,Jul-23,397.2,41,36,38.5,73,5.7,19.6,W,68%,3.6
+Maharashtra,Mumbai,Dec-20,55.9,36,25,30.5,48,9.8,20.1,N,54%,1.2
+Maharashtra,Mumbai,Aug-23,153,41,36,38.5,43,9.7,15.7,W,37%,0.6
+Tamil Nadu,Tiruchirappalli,Feb-20,61.7,30,24,27,77,5.5,16.1,W,41%,3.1
+Uttar Pradesh,Agra,May-20,5.7,41,33,37,77,7.2,8.6,E,70%,2.8
+Gujarat,Surat,Nov-23,40.8,31,25,28,38,5.7,21.8,W,45%,1
+Karnataka,Mysuru,Dec-23,43.8,35,28,31.5,53,7.1,17.8,W,54%,3
+Karnataka,Mysuru,Sep-24,397.7,25,16,20.5,47,5.3,16.4,SE,63%,2
+Maharashtra,Pune,Nov-24,65,27,20,23.5,76,8.6,12.2,W,61%,2.2
+Gujarat,Vadodara,Jul-24,305.3,36,27,31.5,36,8.6,18.4,S,24%,1.5
+Gujarat,Vadodara,Mar-22,45,38,28,33,87,6,11.7,NW,87%,3.3
+Maharashtra,Mumbai,Jan-22,41.3,26,20,23,48,5.4,11.1,N,18%,2
+Uttar Pradesh,Lucknow,Aug-24,208.2,32,22,27,43,6.4,5.8,SW,28%,1.8
+Karnataka,Bengaluru,Jan-22,77.9,27,21,24,57,9.7,10.6,E,49%,4.3
+Karnataka,Mysuru,Nov-24,70.2,37,31,34,47,7.3,18.7,N,38%,4
+Gujarat,Surat,Nov-21,71.1,29,21,25,89,8.4,6.9,SE,47%,3
+Maharashtra,Pune,May-22,22.6,40,31,35.5,72,7.2,19,NW,23%,0.5
+Maharashtra,Pune,May-24,75.1,37,28,32.5,83,9.2,11.4,NW,52%,2.1
+Uttar Pradesh,Lucknow,Mar-24,11.8,27,15,21,30,6.6,8.1,S,52%,2.5
+Gujarat,Surat,Feb-22,64.7,28,18,23,87,5.7,14.3,W,50%,2.5
+Karnataka,Mangaluru,Dec-24,47,40,28,34,38,8.2,18.3,SW,53%,2.1
+Tamil Nadu,Tiruchirappalli,Sep-21,360.4,36,26,31,76,9.8,15.4,SW,83%,1.2
+Uttar Pradesh,Lucknow,Dec-20,24.6,35,28,31.5,59,4.1,23.3,E,85%,0
+Maharashtra,Nashik,May-21,63.1,40,31,35.5,83,8.3,8.7,E,27%,1.1
+Tamil Nadu,Coimbatore,Aug-22,317.7,35,27,31,45,7.3,24.1,N,84%,3.8
+Maharashtra,Pune,Apr-21,12.3,35,27,31,69,6.6,18.4,S,61%,0.3
+Tamil Nadu,Coimbatore,Feb-20,52.4,40,28,34,61,6.8,17.9,SE,79%,3.4
+Tamil Nadu,Madurai,Jan-20,43.8,33,27,30,57,6.4,7,W,90%,0.5
+Gujarat,Rajkot,Oct-20,30.2,26,20,23,56,4.9,10.6,SW,40%,3.8
+Maharashtra,Mumbai,Aug-21,389.7,33,25,29,66,4.7,15.2,SW,32%,1.4
+Maharashtra,Pune,Feb-20,43.7,27,17,22,64,9.8,16.6,N,59%,4
+Maharashtra,Pune,Jun-22,349.5,42,31,36.5,42,8.3,17.5,N,48%,1.5
+Karnataka,Mysuru,Jun-20,82,35,28,31.5,59,4.7,15.1,SW,86%,0.8
+Maharashtra,Pune,Jan-23,53.8,33,28,30.5,65,4,6.9,W,79%,0.2
+Tamil Nadu,Chennai,Aug-23,287.5,40,28,34,64,9.7,22,S,23%,3.2
+Uttar Pradesh,Lucknow,Aug-20,173.6,27,17,22,74,6.7,14.8,NE,24%,0.9
+Uttar Pradesh,Varanasi,Jun-24,133.2,35,25,30,82,7.5,20.4,N,20%,2
+Tamil Nadu,Chennai,Dec-20,20.8,31,25,28,38,7.6,24.6,S,73%,0.4
+Gujarat,Rajkot,Oct-24,62.1,38,33,35.5,47,4.9,22.1,S,38%,1.6
+Uttar Pradesh,Varanasi,Jun-23,318,33,27,30,80,6,16.2,NW,46%,3.6
+Gujarat,Vadodara,Feb-20,47.8,27,17,22,48,7.5,18.6,SW,61%,3.7
+Uttar Pradesh,Kanpur,Sep-23,323.8,42,33,37.5,88,9.6,15.5,NE,66%,1.2
+Gujarat,Vadodara,May-20,0.9,34,25,29.5,78,5.8,13.1,NW,44%,3.4
+Uttar Pradesh,Agra,Nov-21,18,37,32,34.5,30,9.2,22.4,SW,69%,3.2
+Maharashtra,Mumbai,May-22,24.2,27,18,22.5,90,5.4,15.6,SW,88%,0.7
+Tamil Nadu,Madurai,Oct-23,29.2,35,26,30.5,66,4.6,7.3,SW,16%,2.9
+Maharashtra,Pune,Jan-20,71.3,29,23,26,70,7.2,20,W,82%,4.2
+Tamil Nadu,Chennai,Jan-21,22.4,33,28,30.5,58,6.9,11.1,W,50%,1.3
+Uttar Pradesh,Lucknow,Apr-24,11,26,18,22,30,5.4,12.7,NE,42%,4.3
+Maharashtra,Nashik,Mar-21,51.7,31,19,25,47,6.1,5.5,N,40%,3.1
+Karnataka,Mysuru,Jul-20,72.9,31,22,26.5,90,5.4,10.3,SE,41%,2
+Uttar Pradesh,Agra,Oct-23,72.7,27,15,21,50,8.5,13,S,86%,2.7
+Uttar Pradesh,Varanasi,Oct-20,36.6,36,27,31.5,44,6.5,7.8,N,39%,3.2
+Karnataka,Mangaluru,Jun-22,115,38,27,32.5,31,6.7,10.2,N,78%,2
+Karnataka,Mangaluru,May-23,69.4,36,24,30,81,4.7,23.1,SE,23%,3.8
+Maharashtra,Nashik,Jul-20,166.4,27,21,24,46,7.1,24.8,NE,33%,4.9
+Uttar Pradesh,Varanasi,Jan-24,35.8,25,14,19.5,36,4.7,23.7,SE,45%,4
+Karnataka,Mangaluru,Jul-24,112.6,31,25,28,81,5.5,20.5,S,18%,3.5
+Maharashtra,Mumbai,Dec-23,38.8,38,30,34,59,6,18,SW,80%,1
+Karnataka,Bengaluru,Mar-22,17.9,41,30,35.5,82,9.8,23.9,NW,65%,3.6
+Gujarat,Rajkot,Jun-24,56.8,29,23,26,34,4.9,12.3,SE,29%,3.8
+Tamil Nadu,Coimbatore,Sep-23,391.9,34,28,31,36,6,19.2,SE,66%,0.2
+Maharashtra,Nashik,Jul-22,114.8,38,30,34,46,8.6,11.1,SW,56%,0.1
+Gujarat,Rajkot,Mar-20,2.8,26,19,22.5,53,7.5,18.2,SW,48%,1.8
+Tamil Nadu,Chennai,Jul-22,381.7,34,28,31,55,6.7,18.6,E,26%,1.7
+Karnataka,Bengaluru,Jul-20,287,34,29,31.5,39,4.3,24.5,E,44%,3.6
+Karnataka,Mangaluru,Apr-24,39,27,18,22.5,87,5.6,13,NW,79%,0.4
+Uttar Pradesh,Lucknow,Nov-23,72.9,29,20,24.5,60,6.6,6.3,SW,88%,1.3
+Gujarat,Surat,Feb-22,64.7,28,18,23,87,5.7,14.3,W,50%,2.5
+Maharashtra,Nashik,Dec-22,17,27,19,23,57,8.4,7.2,E,78%,1.4
+Maharashtra,Nashik,May-21,63.1,40,31,35.5,83,8.3,8.7,E,27%,1.1
+Gujarat,Rajkot,Aug-23,387.8,29,20,24.5,35,5.9,21.1,NE,64%,0.6
+Maharashtra,Nashik,Dec-20,24.1,26,15,20.5,71,8.7,21.1,W,31%,3.3
+Maharashtra,Pune,Feb-21,9,33,26,29.5,78,5,6.7,NE,38%,3.7
+Gujarat,Vadodara,Mar-24,13.7,27,21,24,59,9.6,19,E,72%,3.6
+Uttar Pradesh,Varanasi,May-23,69.2,34,24,29,76,7.1,15.3,E,77%,4.6
+Tamil Nadu,Chennai,Sep-22,4.1,28,23,25.5,84,7.7,24.4,NW,14%,1.1
+Karnataka,Hubli,Oct-22,18.7,42,36,39,80,5.5,16.6,SE,78%,2.1
+Maharashtra,Nagpur,Feb-20,55.5,25,20,22.5,45,9.5,7.2,E,60%,2.1
+Tamil Nadu,Madurai,Jan-20,43.8,33,27,30,57,6.4,7,W,90%,0.5
+Karnataka,Mangaluru,Nov-22,64.5,42,37,39.5,63,8.8,20.8,S,37%,1.3
+Tamil Nadu,Tiruchirappalli,Sep-24,244.2,37,27,32,64,6.6,12,N,58%,4.3
+Gujarat,Vadodara,Nov-23,54.9,32,21,26.5,44,4.5,7.2,NW,37%,2.2
+Maharashtra,Nagpur,Aug-22,323.3,26,21,23.5,47,5.8,9,SE,55%,3.4
+Karnataka,Bengaluru,May-20,54.5,32,23,27.5,87,5,17.9,SE,57%,5
+Gujarat,Ahmedabad,Jan-22,26.9,26,17,21.5,61,7.1,8.1,W,16%,1.7
+Tamil Nadu,Madurai,Nov-24,79,33,23,28,53,9.8,15.3,NW,56%,4.5
+Karnataka,Bengaluru,May-24,29.6,40,28,34,80,10,15.8,SE,35%,0.2
+Uttar Pradesh,Varanasi,Oct-20,36.6,36,27,31.5,44,6.5,7.8,N,39%,3.2
+Maharashtra,Mumbai,Jun-24,287.8,39,34,36.5,42,9.5,21.1,SW,43%,0.8
+Uttar Pradesh,Varanasi,Sep-22,142.2,34,25,29.5,86,8.5,22.5,S,45%,0.7
+Karnataka,Mysuru,Feb-22,23.6,41,30,35.5,83,6.1,15.2,S,34%,4.3
+Maharashtra,Nashik,Sep-22,195,36,27,31.5,40,7.8,17.1,W,25%,4.6
+Karnataka,Mysuru,Jun-21,155.5,30,18,24,64,6.4,15,S,49%,0.3
+Gujarat,Surat,Oct-23,21.4,37,32,34.5,83,9.3,17.9,N,39%,2.2
+Maharashtra,Pune,Mar-24,16.7,31,26,28.5,36,4.9,16.3,W,83%,1.5
+Uttar Pradesh,Agra,Jan-22,21.6,30,21,25.5,59,8.5,7.7,W,43%,1.3
+Maharashtra,Pune,Dec-22,66.6,29,21,25,41,8.8,8.9,W,87%,0.8
+Tamil Nadu,Coimbatore,Jan-23,23.8,32,22,27,54,4.1,21.4,SW,71%,2.5
+Uttar Pradesh,Varanasi,Apr-23,43.8,41,29,35,87,8.6,12.9,S,78%,1.9
+Tamil Nadu,Chennai,Nov-21,14.4,40,28,34,57,5.7,24,S,28%,0.6
+Uttar Pradesh,Varanasi,Jul-24,249.8,36,28,32,45,5.5,12.6,E,63%,3.2
+Karnataka,Bengaluru,Apr-23,75.6,34,27,30.5,80,6.9,10.1,N,38%,2.1
+Uttar Pradesh,Varanasi,Dec-21,23.4,32,20,26,43,9,18.7,N,90%,1.1
+Tamil Nadu,Madurai,Oct-21,70.7,25,15,20,80,4.7,21.7,S,40%,1.9
+Uttar Pradesh,Varanasi,Sep-22,142.2,34,25,29.5,86,8.5,22.5,S,45%,0.7
+Karnataka,Mysuru,Jul-23,163.8,32,26,29,57,8.4,14.9,W,75%,0.8
+Karnataka,Mangaluru,Dec-24,47,40,28,34,38,8.2,18.3,SW,53%,2.1
+Karnataka,Hubli,Nov-24,13.3,37,31,34,59,9.3,9.5,NW,71%,1.1
+Karnataka,Hubli,Aug-23,87.4,25,15,20,34,7.5,15.9,N,85%,5
+Gujarat,Rajkot,Aug-21,282.9,36,30,33,50,9.7,5.1,S,37%,3.6
+Tamil Nadu,Chennai,Jul-23,378.7,29,18,23.5,36,9.9,22.3,SE,74%,4.5
+Karnataka,Mysuru,Jan-24,45.4,33,21,27,35,5.3,21.6,NE,69%,1.3
+Karnataka,Hubli,Nov-20,30.9,34,22,28,87,6.6,12.9,N,33%,1.3
+Maharashtra,Mumbai,Aug-21,389.7,33,25,29,66,4.7,15.2,SW,32%,1.4
+Karnataka,Mangaluru,Feb-24,50,33,23,28,72,7.7,11.7,N,46%,1.3
+Gujarat,Surat,Oct-24,32.1,35,30,32.5,49,5.6,24.2,S,17%,0.2
+Karnataka,Bengaluru,Feb-22,18.5,29,24,26.5,78,8.6,21.9,SW,60%,1.5
+Tamil Nadu,Chennai,Jul-21,382.5,41,32,36.5,40,5.2,22.4,S,20%,0
+Karnataka,Hubli,Jan-23,5.9,30,19,24.5,78,6.3,10.9,W,40%,1.8
+Gujarat,Rajkot,Sep-21,141.2,26,16,21,61,7.4,8.2,SE,24%,4.6
+Gujarat,Vadodara,Jun-22,86.8,34,24,29,68,9.6,14.6,E,55%,2.1
+Gujarat,Rajkot,Apr-24,58.3,33,22,27.5,55,4.7,22.7,W,62%,2.8
+Karnataka,Mysuru,Apr-23,28.8,37,32,34.5,77,5.5,22.9,N,72%,2
+Uttar Pradesh,Kanpur,Sep-23,323.8,42,33,37.5,88,9.6,15.5,NE,66%,1.2
+Uttar Pradesh,Varanasi,Apr-22,78.6,25,19,22,85,8.1,17.6,E,43%,3.2
+Uttar Pradesh,Kanpur,Jul-24,221.7,29,20,24.5,61,9.7,9.6,E,84%,4.1
+Maharashtra,Pune,Aug-21,7.1,42,30,36,75,9.2,12.8,S,22%,1.3
+Karnataka,Hubli,Dec-23,31.6,37,25,31,58,5.6,9.5,N,43%,4
+Tamil Nadu,Chennai,Jul-22,381.7,34,28,31,55,6.7,18.6,E,26%,1.7
+Karnataka,Mangaluru,Nov-20,63,35,24,29.5,50,9.3,22.3,W,47%,3.1
+Maharashtra,Nashik,Oct-24,62.5,29,17,23,53,6.4,12.2,N,85%,3.7
+Uttar Pradesh,Lucknow,Feb-20,35.7,34,29,31.5,39,6.9,11.7,S,48%,0.1
+Karnataka,Mangaluru,Apr-23,75.6,26,17,21.5,50,7,13.7,SE,11%,4.2
+Gujarat,Vadodara,Aug-20,122.9,36,26,31,36,6,9.9,SE,23%,2.7
+Maharashtra,Mumbai,Apr-21,43.4,28,19,23.5,39,6.4,14.4,S,55%,3.9
+Gujarat,Rajkot,Feb-23,61.3,30,19,24.5,37,9.9,8.7,S,39%,3.1
+Uttar Pradesh,Lucknow,Jul-22,350.4,28,23,25.5,76,5.5,14.6,SE,81%,4.1
+Tamil Nadu,Coimbatore,Apr-24,28.5,30,20,25,50,6,21.3,NE,39%,3
+Tamil Nadu,Chennai,Feb-24,29.2,26,17,21.5,36,6.7,6.2,NE,13%,2.4
+Maharashtra,Nashik,Jun-23,212.2,36,29,32.5,49,4.1,10.6,NW,33%,3.3
+Maharashtra,Nagpur,Nov-20,76.3,33,26,29.5,68,4.6,12.8,SE,33%,2.9
+Uttar Pradesh,Kanpur,Sep-23,323.8,42,33,37.5,88,9.6,15.5,NE,66%,1.2
+Karnataka,Mysuru,May-22,54.9,31,26,28.5,43,5.2,13.6,NW,34%,4.1
+Gujarat,Rajkot,Jul-22,292.6,41,33,37,51,9.7,14.9,S,44%,0.4
+Tamil Nadu,Madurai,Nov-24,79,33,23,28,53,9.8,15.3,NW,56%,4.5
+Gujarat,Ahmedabad,Aug-22,202.9,29,18,23.5,37,7.1,20.5,W,18%,3.7
+Gujarat,Vadodara,Mar-24,13.7,27,21,24,59,9.6,19,E,72%,3.6
+Maharashtra,Nagpur,Feb-24,35.9,30,22,26,76,4.9,12.6,NW,25%,2.9
+Tamil Nadu,Chennai,Sep-21,142.7,40,34,37,63,4.1,16.8,NE,90%,2.9
+Uttar Pradesh,Lucknow,Aug-21,2.3,36,26,31,37,4.9,9.6,SW,22%,2.9
+Tamil Nadu,Chennai,Apr-22,6,40,34,37,49,8.2,23.2,SE,56%,3.8
+Uttar Pradesh,Agra,Jan-24,78.1,29,18,23.5,83,6,20.3,SE,54%,2.2
+Tamil Nadu,Madurai,Jul-20,334.2,34,28,31,41,8.2,11.7,SE,35%,4.5
+Karnataka,Mysuru,Jul-21,393.8,40,34,37,51,4.3,17.8,NW,25%,3.6
+Gujarat,Rajkot,Nov-20,3.6,28,19,23.5,62,8.1,15,E,79%,3.9
+Karnataka,Mangaluru,Mar-24,43.1,26,19,22.5,38,9.2,12.7,E,29%,1.7
+Karnataka,Mysuru,May-21,13.7,41,32,36.5,85,4.1,7,S,64%,1.9
+Maharashtra,Nagpur,Aug-20,134.2,38,32,35,76,8.6,9.1,W,87%,1.7
+Tamil Nadu,Tiruchirappalli,Apr-22,26.6,36,31,33.5,36,7.7,19.8,NE,36%,1.4
+Maharashtra,Mumbai,Oct-21,79.5,32,21,26.5,56,4.2,19.6,SE,23%,3.3
+Maharashtra,Nashik,Jun-24,395,31,19,25,43,7.9,9,S,79%,4.9
+Karnataka,Hubli,Feb-23,3.6,26,21,23.5,70,7,6.5,N,74%,0.4
+Uttar Pradesh,Lucknow,Jan-24,10.7,27,20,23.5,73,9,22.6,SW,60%,4.4
+Karnataka,Mangaluru,Oct-21,22.5,39,28,33.5,71,6.7,21.4,NW,75%,0.1
+Gujarat,Ahmedabad,Jan-22,26.9,26,17,21.5,61,7.1,8.1,W,16%,1.7
+Tamil Nadu,Coimbatore,Feb-20,52.4,40,28,34,61,6.8,17.9,SE,79%,3.4
+Uttar Pradesh,Lucknow,Jul-24,16.8,37,32,34.5,85,6.1,18.1,N,81%,0.7
+Karnataka,Bengaluru,Jul-22,226.9,32,23,27.5,45,6.5,18.3,NE,21%,2.5
+Uttar Pradesh,Lucknow,Sep-21,92.3,37,26,31.5,74,6.9,13.8,SE,53%,1.1
+Uttar Pradesh,Agra,Jul-20,0.8,26,15,20.5,67,8.2,7.5,NE,77%,1.8
+Tamil Nadu,Madurai,Jun-21,170.3,30,21,25.5,79,10,5.4,NW,89%,4
+Maharashtra,Nashik,Jan-23,33.8,38,30,34,76,9.9,20.2,N,50%,4.5
+Gujarat,Surat,Dec-23,16.3,38,33,35.5,69,4.9,23.8,SW,54%,3.5
+Uttar Pradesh,Kanpur,Dec-22,36,34,28,31,63,8.3,12.3,N,19%,1
+Gujarat,Vadodara,Apr-22,72.3,34,28,31,43,4.9,5.6,SE,16%,4.7
+Gujarat,Ahmedabad,Dec-22,30.8,27,18,22.5,66,8,18.5,NE,75%,2.1
+Karnataka,Mysuru,Apr-23,28.8,37,32,34.5,77,5.5,22.9,N,72%,2
+Tamil Nadu,Coimbatore,Oct-21,46,35,26,30.5,84,6.8,22.8,E,85%,3.8
+Karnataka,Mangaluru,Aug-20,341.8,28,22,25,31,6.6,17.4,SE,79%,2.4
+Uttar Pradesh,Lucknow,Feb-20,35.7,34,29,31.5,39,6.9,11.7,S,48%,0.1
+Gujarat,Ahmedabad,Sep-22,277.6,34,22,28,77,4.1,24.4,E,12%,4.6
+Uttar Pradesh,Agra,Mar-20,67.7,29,21,25,79,9.7,21.1,NE,49%,2.1
+Maharashtra,Nagpur,Mar-21,14.4,41,34,37.5,67,6.3,11.4,W,46%,0.3
+Karnataka,Bengaluru,Jul-22,226.9,32,23,27.5,45,6.5,18.3,NE,21%,2.5
+Tamil Nadu,Tiruchirappalli,Nov-20,66.9,30,24,27,78,6.8,11.1,SE,58%,1.9
+Uttar Pradesh,Lucknow,Oct-23,66.8,41,29,35,88,6.7,10.2,SE,51%,0.2
+Maharashtra,Mumbai,Sep-23,373.3,38,32,35,43,8.5,12.4,NE,30%,1.5
+Karnataka,Mysuru,Nov-21,27.2,30,20,25,44,7.9,8.7,SE,28%,2.2
+Tamil Nadu,Chennai,Sep-23,88.4,26,20,23,73,7.3,18.3,W,81%,3.4
+Tamil Nadu,Chennai,Jan-24,49,26,16,21,48,7.1,11.6,N,48%,4
+Karnataka,Mangaluru,May-23,69.4,36,24,30,81,4.7,23.1,SE,23%,3.8
+Gujarat,Vadodara,Feb-24,36.1,25,19,22,36,6.9,20,NE,68%,4.6
+Tamil Nadu,Madurai,Sep-21,146.9,31,24,27.5,78,8.2,5.7,SW,30%,3.7
+Maharashtra,Pune,Aug-20,209.9,27,17,22,40,9.2,14.9,SE,40%,0.7
+Maharashtra,Mumbai,Dec-20,55.9,36,25,30.5,48,9.8,20.1,N,54%,1.2
+Gujarat,Vadodara,May-20,0.9,34,25,29.5,78,5.8,13.1,NW,44%,3.4
+Uttar Pradesh,Varanasi,Jul-23,186.7,41,31,36,50,8.2,5.8,SE,34%,0
+Tamil Nadu,Coimbatore,May-22,45.5,41,31,36,48,6.2,7,SE,12%,2.3
+Tamil Nadu,Tiruchirappalli,Aug-20,282.8,38,29,33.5,58,5.1,8.1,N,64%,0.2
+Karnataka,Bengaluru,Feb-21,5.1,30,21,25.5,73,9.6,23.6,SW,34%,4.6
+Uttar Pradesh,Agra,Nov-21,18,37,32,34.5,30,9.2,22.4,SW,69%,3.2
+Maharashtra,Nagpur,May-23,65.9,28,20,24,78,4.7,6.9,S,36%,0.8
+Gujarat,Rajkot,Jan-20,55.1,39,33,36,83,7.7,13.9,SW,31%,2.5
+Karnataka,Hubli,Oct-24,24.4,36,25,30.5,75,4.9,23.8,NW,11%,3.5
+Uttar Pradesh,Varanasi,Feb-23,73.7,32,23,27.5,35,6.3,7.2,W,82%,3.2
+Karnataka,Mangaluru,Sep-23,321,32,20,26,60,7.9,18.3,E,29%,4.7
+Gujarat,Vadodara,Jul-20,383.1,31,19,25,52,9,10.4,NW,18%,1.2
+Maharashtra,Nashik,Jan-20,75.1,36,31,33.5,85,5.4,15.3,S,26%,1.7
+Uttar Pradesh,Lucknow,Mar-23,22.9,35,29,32,72,4.6,5.5,NE,75%,2.7
+Tamil Nadu,Chennai,Apr-21,35.7,36,27,31.5,35,6.6,8.6,NE,26%,3.7
+Uttar Pradesh,Lucknow,Nov-24,6.1,39,33,36,58,9.6,22.1,N,36%,3.9
+Gujarat,Ahmedabad,Jul-21,267.9,41,35,38,41,4.7,23.8,S,76%,1.4
+Tamil Nadu,Chennai,Dec-22,71.5,31,23,27,54,9.3,13.6,N,86%,2
+Uttar Pradesh,Kanpur,Feb-23,8.3,34,27,30.5,82,7.1,7,S,86%,0.9
+Tamil Nadu,Tiruchirappalli,Jun-21,8.8,40,35,37.5,39,7.6,11.8,W,27%,0.3
+Maharashtra,Nashik,Mar-21,51.7,31,19,25,47,6.1,5.5,N,40%,3.1
+Gujarat,Ahmedabad,Dec-23,45.5,36,31,33.5,79,8.8,20.2,N,68%,3
+Maharashtra,Nashik,Aug-21,196.1,41,35,38,72,4.4,21.1,E,13%,1.4
+Maharashtra,Pune,Dec-20,24.2,42,31,36.5,62,8.1,11.2,NE,41%,3.8
+Gujarat,Surat,May-22,5.1,37,30,33.5,46,6,13.3,NW,23%,4
+Karnataka,Bengaluru,Mar-23,31.3,28,17,22.5,58,9.9,9.5,SW,46%,1.3
+Uttar Pradesh,Lucknow,Sep-20,226.1,38,28,33,48,8.9,10.3,SE,14%,4
+Gujarat,Vadodara,Mar-24,13.7,27,21,24,59,9.6,19,E,72%,3.6
+Uttar Pradesh,Lucknow,Feb-22,74.3,25,16,20.5,40,6.4,6.3,E,64%,2.1
+Uttar Pradesh,Kanpur,Jun-20,149.7,41,31,36,70,7.8,12.6,N,39%,4.8
+Karnataka,Bengaluru,Apr-23,75.6,34,27,30.5,80,6.9,10.1,N,38%,2.1
+Maharashtra,Pune,Nov-20,48.4,35,29,32,55,9.7,9.1,SE,15%,1.2
+Maharashtra,Pune,Jan-20,71.3,29,23,26,70,7.2,20,W,82%,4.2
+Gujarat,Surat,Dec-21,18.3,31,22,26.5,59,5.8,17.1,NE,67%,2.7
+Uttar Pradesh,Kanpur,Jul-21,48.6,34,25,29.5,38,6.6,16.1,NE,67%,0.5
+Uttar Pradesh,Lucknow,Nov-22,24.5,41,31,36,53,9.5,12.5,W,50%,1.5
+Maharashtra,Nashik,Dec-22,17,27,19,23,57,8.4,7.2,E,78%,1.4
+Gujarat,Vadodara,Nov-21,12.8,34,28,31,80,7.7,16.2,W,75%,4.7
+Tamil Nadu,Chennai,Jan-21,22.4,33,28,30.5,58,6.9,11.1,W,50%,1.3
+Tamil Nadu,Coimbatore,Jan-22,13.9,36,24,30,49,7.7,13.7,E,66%,1.4
+Maharashtra,Mumbai,Jun-22,120.8,36,31,33.5,74,9.3,5.9,N,75%,2.6
+Maharashtra,Pune,Aug-20,209.9,27,17,22,40,9.2,14.9,SE,40%,0.7
+Tamil Nadu,Madurai,Jul-21,178.3,27,20,23.5,82,5.2,24.8,W,56%,0.1
+Karnataka,Mysuru,Jul-23,163.8,32,26,29,57,8.4,14.9,W,75%,0.8
+Gujarat,Vadodara,Sep-23,79.9,37,31,34,37,8.1,20.9,SE,56%,0.6
+Maharashtra,Mumbai,Dec-20,55.9,36,25,30.5,48,9.8,20.1,N,54%,1.2
+Maharashtra,Nashik,Jul-22,114.8,38,30,34,46,8.6,11.1,SW,56%,0.1
+Maharashtra,Nashik,Jul-24,236,41,32,36.5,62,8.8,6.8,NE,51%,0.2
+Uttar Pradesh,Agra,Jul-23,300.4,30,25,27.5,51,9.2,18.2,NW,73%,4.7
+Maharashtra,Mumbai,Sep-22,341.9,37,32,34.5,40,8,18.9,NE,84%,3.7
+Tamil Nadu,Chennai,Jan-24,49,26,16,21,48,7.1,11.6,N,48%,4
+Uttar Pradesh,Agra,Aug-20,395.3,41,34,37.5,32,4.1,12.9,N,58%,4.5
+Maharashtra,Pune,May-22,22.6,40,31,35.5,72,7.2,19,NW,23%,0.5
+Karnataka,Bengaluru,Apr-23,75.6,34,27,30.5,80,6.9,10.1,N,38%,2.1
+Karnataka,Mysuru,Oct-23,36.8,36,24,30,60,9.3,18.5,N,20%,4
+Tamil Nadu,Coimbatore,Jul-20,135,36,31,33.5,43,9.9,17.7,E,81%,1.3
+Karnataka,Bengaluru,Jan-20,14.2,30,25,27.5,90,5.8,10.5,W,30%,0.1
+Karnataka,Mangaluru,Aug-22,170.8,36,24,30,67,5.6,6.7,W,84%,1.6
+Gujarat,Ahmedabad,Apr-20,13.9,34,24,29,69,6.5,20,SE,34%,0.9
+Gujarat,Vadodara,Sep-20,51.7,29,21,25,62,9.1,13,S,90%,2.1
+Maharashtra,Nashik,Oct-24,62.5,29,17,23,53,6.4,12.2,N,85%,3.7
+Tamil Nadu,Madurai,Apr-21,29.2,36,30,33,65,8.3,15.1,N,24%,4.9
+Maharashtra,Mumbai,Jun-23,204.3,28,20,24,89,9.8,14.5,SE,29%,0.9
+Tamil Nadu,Coimbatore,Sep-21,288.9,28,23,25.5,54,4.4,10.4,NW,64%,1.1
+Karnataka,Mysuru,Nov-22,72.1,28,23,25.5,82,7.9,12.7,N,17%,2.5
+Maharashtra,Mumbai,Nov-22,41.3,41,32,36.5,55,8.2,6.2,NW,51%,4.9
+Uttar Pradesh,Varanasi,May-20,46.8,42,31,36.5,88,5.1,23.3,E,39%,1.3
+Gujarat,Rajkot,Jun-21,258.5,34,24,29,76,4.2,21.9,W,40%,0.8
+Karnataka,Mysuru,Jan-23,37.5,42,33,37.5,72,6,19.3,E,16%,4.6
+Gujarat,Vadodara,Sep-20,51.7,29,21,25,62,9.1,13,S,90%,2.1
+Tamil Nadu,Tiruchirappalli,Sep-20,104.6,41,32,36.5,55,7.7,10.4,N,36%,3.6
+Uttar Pradesh,Kanpur,Oct-23,38.4,26,19,22.5,74,5.5,15.2,E,74%,5
+Tamil Nadu,Coimbatore,Feb-23,65.8,29,24,26.5,86,9.7,17.4,NE,32%,4.7
+Tamil Nadu,Coimbatore,Nov-22,73.1,29,19,24,63,9.2,7.8,SW,41%,0.3
+Maharashtra,Pune,Dec-24,13.3,28,20,24,62,8.1,6.5,S,51%,5
+Gujarat,Ahmedabad,Nov-24,70.9,34,27,30.5,73,9.5,12.6,NW,14%,1.2
+Uttar Pradesh,Lucknow,Apr-20,29.6,30,21,25.5,53,5.7,17.7,SW,33%,1.8
+Karnataka,Mangaluru,Mar-23,24.8,35,27,31,81,5.6,16.9,SW,77%,0
+Gujarat,Rajkot,Jan-24,71.1,34,26,30,69,5.2,5.3,NE,44%,1
+Tamil Nadu,Chennai,Oct-23,71,38,26,32,74,9.8,19.6,W,49%,4.7
+Gujarat,Rajkot,Jan-24,71.1,34,26,30,69,5.2,5.3,NE,44%,1
+Gujarat,Ahmedabad,Aug-21,211,36,26,31,84,6.9,24.9,N,50%,1.7
+Karnataka,Mangaluru,Oct-21,22.5,39,28,33.5,71,6.7,21.4,NW,75%,0.1
+Tamil Nadu,Tiruchirappalli,Nov-23,46.9,42,36,39,39,4.8,24.9,N,79%,3.9
+Uttar Pradesh,Varanasi,Dec-21,23.4,32,20,26,43,9,18.7,N,90%,1.1
+Karnataka,Mysuru,May-22,54.9,31,26,28.5,43,5.2,13.6,NW,34%,4.1
+Maharashtra,Nagpur,Jan-22,71,25,20,22.5,33,4.5,18.1,SW,25%,4.1
+Gujarat,Vadodara,Sep-22,26.2,42,34,38,50,4.5,24.5,SW,73%,4
+Uttar Pradesh,Varanasi,Mar-21,43.2,34,22,28,86,9.3,19.5,E,45%,0
+Uttar Pradesh,Agra,May-24,54.5,38,26,32,59,6.2,11.2,SW,72%,2.4
+Tamil Nadu,Tiruchirappalli,Feb-24,54.1,27,20,23.5,54,5.6,22.9,NW,88%,3.3
+Karnataka,Mysuru,Feb-23,71.2,33,23,28,56,5.3,10.8,NE,28%,2.4
+Gujarat,Surat,Apr-24,61.6,27,19,23,73,9.5,10,S,52%,1.5
+Gujarat,Vadodara,Oct-23,37.5,27,15,21,54,4.1,6.5,NE,61%,1.8
+Uttar Pradesh,Lucknow,Sep-20,226.1,38,28,33,48,8.9,10.3,SE,14%,4
+Karnataka,Mysuru,Oct-23,36.8,36,24,30,60,9.3,18.5,N,20%,4
+Maharashtra,Mumbai,Feb-23,4.9,35,23,29,84,8.4,14.4,W,54%,0.8
+Karnataka,Mysuru,Jul-24,32.5,33,26,29.5,63,8.4,19.5,N,41%,1.4
+Karnataka,Bengaluru,Jan-20,14.2,30,25,27.5,90,5.8,10.5,W,30%,0.1
+Tamil Nadu,Coimbatore,Sep-20,142.6,29,19,24,51,7.4,9.2,S,50%,2.6
+Karnataka,Bengaluru,Aug-20,247.8,41,33,37,42,5.3,21.4,W,72%,1.5
+Maharashtra,Nashik,Nov-21,8.4,30,25,27.5,60,4.5,16.2,S,65%,2.2
+Maharashtra,Mumbai,Apr-21,43.4,28,19,23.5,39,6.4,14.4,S,55%,3.9
+Karnataka,Bengaluru,Dec-20,66.9,33,25,29,68,9,10.1,W,31%,4.4
+Gujarat,Surat,Jul-23,394.6,26,17,21.5,46,9.2,22.8,N,58%,3.1
+Uttar Pradesh,Agra,Jan-23,46.9,34,24,29,58,8.6,8.2,S,22%,1.3
+Maharashtra,Nashik,Jun-23,212.2,36,29,32.5,49,4.1,10.6,NW,33%,3.3
+Karnataka,Bengaluru,Aug-24,383.6,26,19,22.5,90,6.9,17.6,SW,44%,1.3
+Uttar Pradesh,Varanasi,Oct-24,47.1,30,24,27,41,6,15.9,W,12%,3.1
+Tamil Nadu,Coimbatore,Apr-23,18,40,28,34,57,9.4,24,S,57%,0.3
+Maharashtra,Pune,Aug-23,209.7,34,24,29,51,9.3,21.8,E,40%,4.5
+Tamil Nadu,Tiruchirappalli,Apr-21,58.9,26,20,23,54,8,15.4,NE,70%,2.4
+Gujarat,Vadodara,Apr-24,33.6,28,21,24.5,64,6.1,17.2,S,57%,4.3
+Tamil Nadu,Madurai,Feb-24,57.4,27,20,23.5,58,4.2,9,SW,23%,0.8
+Uttar Pradesh,Agra,Aug-23,263.8,32,27,29.5,63,7.5,6.7,N,23%,3.5
+Maharashtra,Nashik,Jan-22,47.8,39,30,34.5,62,6.6,10,W,41%,3.7
+Tamil Nadu,Tiruchirappalli,Nov-24,38.7,36,24,30,72,9.6,22.6,E,37%,4.3
+Gujarat,Rajkot,Feb-24,67.6,25,13,19,89,9.6,5.6,N,79%,1.1
+Maharashtra,Mumbai,Feb-22,69.2,32,23,27.5,74,6.8,11.9,SE,80%,4.9
+Karnataka,Mysuru,Jul-20,72.9,31,22,26.5,90,5.4,10.3,SE,41%,2
+Tamil Nadu,Chennai,Mar-22,1.8,38,32,35,39,6.6,24.4,W,30%,1.9
+Tamil Nadu,Tiruchirappalli,Jun-24,65.2,32,23,27.5,50,6.8,8.4,S,65%,1.7
+Karnataka,Hubli,Jul-24,388.5,39,33,36,59,7.1,14.5,E,54%,1.6
+Uttar Pradesh,Varanasi,Dec-20,13,37,27,32,69,9.6,24.9,E,30%,0.1
+Tamil Nadu,Tiruchirappalli,Jun-20,342.6,36,30,33,51,6.7,9.1,W,75%,3.7
+Maharashtra,Mumbai,Feb-21,31.5,41,29,35,38,9,11.5,W,70%,1.9
+Karnataka,Hubli,Jul-22,165.2,42,37,39.5,76,5.4,15.7,NW,77%,1
+Maharashtra,Nashik,Feb-20,47.7,32,25,28.5,80,4.6,11.8,NE,52%,3.6
+Uttar Pradesh,Agra,Mar-24,60.4,33,22,27.5,47,8.4,5.7,NW,45%,2.9
+Gujarat,Surat,Sep-22,121.5,28,19,23.5,72,7.6,13.2,N,49%,2.8
+Tamil Nadu,Madurai,Sep-20,82.8,37,28,32.5,63,9.7,21.1,SW,36%,4.6
+Gujarat,Ahmedabad,Apr-24,45.5,30,24,27,82,6.4,19.1,E,73%,2.8
+Tamil Nadu,Coimbatore,Oct-22,8.9,29,19,24,78,8.3,19,NE,25%,1.3
+Maharashtra,Nashik,Dec-20,24.1,26,15,20.5,71,8.7,21.1,W,31%,3.3
+Maharashtra,Nagpur,Jul-24,112.8,33,24,28.5,75,6.5,8.5,SW,82%,2.7
+Karnataka,Bengaluru,May-20,54.5,32,23,27.5,87,5,17.9,SE,57%,5
+Tamil Nadu,Madurai,Feb-24,57.4,27,20,23.5,58,4.2,9,SW,23%,0.8
+Uttar Pradesh,Varanasi,Mar-24,54,25,15,20,83,4.4,14.8,W,46%,0.9
+Karnataka,Mangaluru,Feb-20,37.8,27,16,21.5,43,4.4,5.5,NW,65%,2.1
+Maharashtra,Pune,Feb-20,43.7,27,17,22,64,9.8,16.6,N,59%,4
+Karnataka,Mysuru,Jul-22,118.5,34,28,31,33,8.7,13.3,NE,73%,3.6
+Tamil Nadu,Tiruchirappalli,Apr-22,26.6,36,31,33.5,36,7.7,19.8,NE,36%,1.4
+Gujarat,Surat,Mar-20,78.4,27,18,22.5,58,8.8,9.8,NE,41%,2.6
+Gujarat,Surat,Jul-21,134.5,38,29,33.5,49,6,5.1,W,61%,3.3
+Maharashtra,Nagpur,May-23,65.9,28,20,24,78,4.7,6.9,S,36%,0.8
+Uttar Pradesh,Varanasi,Jun-20,391.6,30,23,26.5,63,9.2,24,NE,11%,1.1
+Uttar Pradesh,Kanpur,Feb-22,43.9,25,17,21,88,6.7,14.1,SE,15%,2.7
+Uttar Pradesh,Agra,Jun-23,271.6,41,35,38,84,7.1,9.4,W,22%,1.2
+Karnataka,Mangaluru,Feb-22,32.3,26,20,23,69,7.9,8.1,SE,47%,3.9
+Uttar Pradesh,Agra,Apr-22,76,28,19,23.5,42,7.7,24,NW,29%,1.9
+Karnataka,Mangaluru,Feb-21,68.8,30,23,26.5,33,4.8,18.9,NW,62%,0.3
+Maharashtra,Nagpur,Jan-22,71,25,20,22.5,33,4.5,18.1,SW,25%,4.1
+Tamil Nadu,Chennai,Nov-24,17,26,21,23.5,55,8.7,21,N,24%,2.8
+Karnataka,Mysuru,Oct-20,63.6,31,25,28,88,4.1,19.7,SE,43%,3.9
+Tamil Nadu,Tiruchirappalli,Oct-24,5.6,38,30,34,83,7.4,17.6,SE,76%,3.8
+Tamil Nadu,Madurai,Nov-24,79,33,23,28,53,9.8,15.3,NW,56%,4.5
+Maharashtra,Pune,Jan-20,71.3,29,23,26,70,7.2,20,W,82%,4.2
+Uttar Pradesh,Lucknow,Sep-23,346,33,25,29,58,8.3,21.2,NW,64%,3
+Gujarat,Vadodara,Dec-24,11.2,36,26,31,74,6.5,19.4,W,50%,1
+Karnataka,Mysuru,Oct-20,63.6,31,25,28,88,4.1,19.7,SE,43%,3.9
+Karnataka,Bengaluru,Nov-21,40.8,37,30,33.5,32,9,7.5,N,80%,0.3
+Karnataka,Mangaluru,Jul-22,136.4,37,32,34.5,83,9,9.4,NW,22%,2.2
+Maharashtra,Nashik,Feb-23,57.5,30,25,27.5,76,4.9,18.1,W,54%,1.3
+Maharashtra,Mumbai,Feb-22,69.2,32,23,27.5,74,6.8,11.9,SE,80%,4.9
+Maharashtra,Mumbai,Aug-22,279.2,33,27,30,46,9.6,14,N,16%,5
+Maharashtra,Pune,Aug-21,7.1,42,30,36,75,9.2,12.8,S,22%,1.3
+Maharashtra,Nagpur,Sep-22,307.4,41,31,36,89,8.2,12.3,SW,49%,3.3
+Uttar Pradesh,Agra,Apr-23,13.4,30,25,27.5,62,8.9,6.4,E,64%,1.4
+Karnataka,Mangaluru,Apr-23,75.6,26,17,21.5,50,7,13.7,SE,11%,4.2
+Uttar Pradesh,Agra,Jun-20,296,42,34,38,45,5.5,5.7,N,44%,1.5
+Tamil Nadu,Tiruchirappalli,Feb-23,65.8,31,19,25,49,9.9,20.9,SE,10%,3.1
+Maharashtra,Mumbai,Oct-23,69,31,21,26,79,9.1,5.3,N,52%,4.9
+Uttar Pradesh,Lucknow,Apr-24,11,26,18,22,30,5.4,12.7,NE,42%,4.3
+Karnataka,Mysuru,Jul-24,32.5,33,26,29.5,63,8.4,19.5,N,41%,1.4
+Maharashtra,Nashik,Feb-22,24.8,29,23,26,71,7.5,22.2,SW,59%,1.9
