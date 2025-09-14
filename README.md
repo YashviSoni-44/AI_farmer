@@ -23,11 +23,11 @@ project-root/
 
 │   └── app/
 
-│       ├── app.py
+│         ├── app.py
 
-│       ├── diverse_crop_suitability_balanced_with_soil.csv
+│         ├── diverse_crop_suitability_balanced_with_soil.csv
 
-│       └── weather_dataset_3000rows.csv
+│         └── weather_dataset_3000rows.csv
 
 └── requirements.txt
 
