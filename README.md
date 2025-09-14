@@ -18,11 +18,17 @@ Project Structure
 Your project needs to be organized in a specific way for the application to find the dataset files correctly. Please create the following folder structure:
 
 project-root/
+
 ├── backend/
+
 │   └── app/
+
 │       ├── app.py
+
 │       ├── diverse_crop_suitability_balanced_with_soil.csv
+
 │       └── weather_dataset_3000rows.csv
+
 └── requirements.txt
 
 You should run the application from the project-root directory.
